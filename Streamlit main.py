@@ -1,18 +1,30 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Cairo Smart City Dashboard")
+st.title("📊 Smart City Dashboard - Cairo")
+st.write("مرحباً! هذا تطبيق Streamlit لعرض بيانات المدينة الذكية في القاهرة.")
 
 # Load datasets
-traffic = pd.read_csv("traffic_cairo.csv")
-pollution = pd.read_csv("pollution_cairo.csv")
-gps = pd.read_csv("gps_cairo.csv")
+@st.cache_data
+def load_data():
+    traffic = pd.read_csv("traffic_cairo.csv")
+    pollution = pd.read_csv("pollution_cairo.csv")
+    gps = pd.read_csv("gps_cairo.csv")
+    return traffic, pollution, gps
 
-st.subheader("🚦 Traffic Data Sample")
-st.write(traffic.head())
+traffic, pollution, gps = load_data()
 
-st.subheader("🌫️ Pollution Data Sample")
-st.write(pollution.head())
+# --- Traffic Section ---
+st.header("🚗 Traffic Data")
+st.write("أول 5 صفوف من بيانات المرور:")
+st.dataframe(traffic.head())
 
-st.subheader("📍 GPS Data Sample")
-st.write(gps.head())
+# --- Pollution Section ---
+st.header("🌫 Pollution Data")
+st.write("أول 5 صفوف من بيانات التلوث:")
+st.dataframe(pollution.head())
+
+# --- GPS Section ---
+st.header("📍 GPS Data")
+st.write("أول 5 صفوف من بيانات الـ GPS:")
+st.dataframe(gps.head())
