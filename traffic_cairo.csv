@@ -1,0 +1,2501 @@
+timestamp,road_id,road_name,cars_count,avg_speed,congestion_level,district
+1/1/2025 8:00,1,Salah Salem,152,67.79,34.21,Nasr City
+1/1/2025 8:00,2,Al Haram,238,55.81,48.19,Giza
+1/1/2025 8:00,3,Nile Corniche,124,47.55,51.45,Downtown
+1/1/2025 8:00,4,Maadi Corniche,149,28.57,68.43,Maadi
+1/1/2025 8:00,5,Teseen Axis - New Cairo,199,23.38,78.62,Fifth Settlement
+1/1/2025 8:05,1,Salah Salem,207,32.74,66.26,Nasr City
+1/1/2025 8:05,2,Al Haram,210,38.25,61.75,Giza
+1/1/2025 8:05,3,Nile Corniche,138,37.47,66.53,Downtown
+1/1/2025 8:05,4,Maadi Corniche,237,41.98,55.02,Maadi
+1/1/2025 8:05,5,Teseen Axis - New Cairo,157,50.85,52.15,Fifth Settlement
+1/1/2025 8:10,1,Salah Salem,180,71.6,29.4,Nasr City
+1/1/2025 8:10,2,Al Haram,70,47.03,48.97,Giza
+1/1/2025 8:10,3,Nile Corniche,181,76.53,19.47,Downtown
+1/1/2025 8:10,4,Maadi Corniche,58,20.96,75.04,Maadi
+1/1/2025 8:10,5,Teseen Axis - New Cairo,133,34.46,66.54,Fifth Settlement
+1/1/2025 8:15,1,Salah Salem,221,49.71,47.29,Nasr City
+1/1/2025 8:15,2,Al Haram,130,35.53,66.47,Giza
+1/1/2025 8:15,3,Nile Corniche,181,38.7,61.3,Downtown
+1/1/2025 8:15,4,Maadi Corniche,103,52.8,47.2,Maadi
+1/1/2025 8:15,5,Teseen Axis - New Cairo,240,70.54,25.46,Fifth Settlement
+1/1/2025 8:20,1,Salah Salem,239,75.6,26.4,Nasr City
+1/1/2025 8:20,2,Al Haram,239,39.52,56.48,Giza
+1/1/2025 8:20,3,Nile Corniche,160,69.72,34.28,Downtown
+1/1/2025 8:20,4,Maadi Corniche,237,52.56,50.44,Maadi
+1/1/2025 8:20,5,Teseen Axis - New Cairo,206,68.13,26.87,Fifth Settlement
+1/1/2025 8:25,1,Salah Salem,138,79.21,22.79,Nasr City
+1/1/2025 8:25,2,Al Haram,178,31.92,70.08,Giza
+1/1/2025 8:25,3,Nile Corniche,112,68.93,26.07,Downtown
+1/1/2025 8:25,4,Maadi Corniche,185,63.74,31.26,Maadi
+1/1/2025 8:25,5,Teseen Axis - New Cairo,172,24.44,76.56,Fifth Settlement
+1/1/2025 8:30,1,Salah Salem,90,74.9,28.1,Nasr City
+1/1/2025 8:30,2,Al Haram,121,46.97,48.03,Giza
+1/1/2025 8:30,3,Nile Corniche,97,42.25,59.75,Downtown
+1/1/2025 8:30,4,Maadi Corniche,86,63.78,38.22,Maadi
+1/1/2025 8:30,5,Teseen Axis - New Cairo,84,48.33,50.67,Fifth Settlement
+1/1/2025 8:35,1,Salah Salem,224,62.79,32.21,Nasr City
+1/1/2025 8:35,2,Al Haram,54,53.68,47.32,Giza
+1/1/2025 8:35,3,Nile Corniche,76,51.36,52.64,Downtown
+1/1/2025 8:35,4,Maadi Corniche,91,46.36,50.64,Maadi
+1/1/2025 8:35,5,Teseen Axis - New Cairo,112,73.75,21.25,Fifth Settlement
+1/1/2025 8:40,1,Salah Salem,101,53.8,44.2,Nasr City
+1/1/2025 8:40,2,Al Haram,200,56.27,41.73,Giza
+1/1/2025 8:40,3,Nile Corniche,62,24.62,72.38,Downtown
+1/1/2025 8:40,4,Maadi Corniche,135,72.83,31.17,Maadi
+1/1/2025 8:40,5,Teseen Axis - New Cairo,94,37.74,61.26,Fifth Settlement
+1/1/2025 8:45,1,Salah Salem,183,47.39,50.61,Nasr City
+1/1/2025 8:45,2,Al Haram,79,73,31,Giza
+1/1/2025 8:45,3,Nile Corniche,141,41.38,53.62,Downtown
+1/1/2025 8:45,4,Maadi Corniche,178,33.68,69.32,Maadi
+1/1/2025 8:45,5,Teseen Axis - New Cairo,165,41.15,55.85,Fifth Settlement
+1/1/2025 8:50,1,Salah Salem,152,29.88,73.12,Nasr City
+1/1/2025 8:50,2,Al Haram,111,33.33,63.67,Giza
+1/1/2025 8:50,3,Nile Corniche,221,34.65,65.35,Downtown
+1/1/2025 8:50,4,Maadi Corniche,209,51.13,51.87,Maadi
+1/1/2025 8:50,5,Teseen Axis - New Cairo,229,41.82,53.18,Fifth Settlement
+1/1/2025 8:55,1,Salah Salem,235,77.75,23.25,Nasr City
+1/1/2025 8:55,2,Al Haram,179,62.74,36.26,Giza
+1/1/2025 8:55,3,Nile Corniche,162,79.86,15.14,Downtown
+1/1/2025 8:55,4,Maadi Corniche,51,50.16,49.84,Maadi
+1/1/2025 8:55,5,Teseen Axis - New Cairo,136,36.72,58.28,Fifth Settlement
+1/1/2025 9:00,1,Salah Salem,178,34.37,61.63,Nasr City
+1/1/2025 9:00,2,Al Haram,102,49.37,50.63,Giza
+1/1/2025 9:00,3,Nile Corniche,209,55.56,45.44,Downtown
+1/1/2025 9:00,4,Maadi Corniche,233,34.26,65.74,Maadi
+1/1/2025 9:00,5,Teseen Axis - New Cairo,73,48.22,47.78,Fifth Settlement
+1/1/2025 9:05,1,Salah Salem,247,43.93,51.07,Nasr City
+1/1/2025 9:05,2,Al Haram,173,50.49,46.51,Giza
+1/1/2025 9:05,3,Nile Corniche,197,39.56,58.44,Downtown
+1/1/2025 9:05,4,Maadi Corniche,196,62.67,34.33,Maadi
+1/1/2025 9:05,5,Teseen Axis - New Cairo,197,58.71,39.29,Fifth Settlement
+1/1/2025 9:10,1,Salah Salem,210,43.85,57.15,Nasr City
+1/1/2025 9:10,2,Al Haram,131,70.26,32.74,Giza
+1/1/2025 9:10,3,Nile Corniche,227,75.48,28.52,Downtown
+1/1/2025 9:10,4,Maadi Corniche,148,33.71,70.29,Maadi
+1/1/2025 9:10,5,Teseen Axis - New Cairo,161,53.31,41.69,Fifth Settlement
+1/1/2025 9:15,1,Salah Salem,51,79.78,19.22,Nasr City
+1/1/2025 9:15,2,Al Haram,86,72.96,28.04,Giza
+1/1/2025 9:15,3,Nile Corniche,58,36.73,60.27,Downtown
+1/1/2025 9:15,4,Maadi Corniche,97,70.8,27.2,Maadi
+1/1/2025 9:15,5,Teseen Axis - New Cairo,201,44.27,50.73,Fifth Settlement
+1/1/2025 9:20,1,Salah Salem,201,71.06,23.94,Nasr City
+1/1/2025 9:20,2,Al Haram,249,67.12,34.88,Giza
+1/1/2025 9:20,3,Nile Corniche,133,54.84,48.16,Downtown
+1/1/2025 9:20,4,Maadi Corniche,148,78.42,17.58,Maadi
+1/1/2025 9:20,5,Teseen Axis - New Cairo,177,38.32,57.68,Fifth Settlement
+1/1/2025 9:25,1,Salah Salem,103,46.91,56.09,Nasr City
+1/1/2025 9:25,2,Al Haram,210,21.08,77.92,Giza
+1/1/2025 9:25,3,Nile Corniche,97,64.79,37.21,Downtown
+1/1/2025 9:25,4,Maadi Corniche,184,63.26,31.74,Maadi
+1/1/2025 9:25,5,Teseen Axis - New Cairo,225,25.62,71.38,Fifth Settlement
+1/1/2025 9:30,1,Salah Salem,168,35.03,64.97,Nasr City
+1/1/2025 9:30,2,Al Haram,158,49.2,52.8,Giza
+1/1/2025 9:30,3,Nile Corniche,76,46.06,52.94,Downtown
+1/1/2025 9:30,4,Maadi Corniche,79,58.71,36.29,Maadi
+1/1/2025 9:30,5,Teseen Axis - New Cairo,246,33.81,63.19,Fifth Settlement
+1/1/2025 9:35,1,Salah Salem,53,21.46,73.54,Nasr City
+1/1/2025 9:35,2,Al Haram,66,79.67,19.33,Giza
+1/1/2025 9:35,3,Nile Corniche,55,42.21,60.79,Downtown
+1/1/2025 9:35,4,Maadi Corniche,86,75.7,19.3,Maadi
+1/1/2025 9:35,5,Teseen Axis - New Cairo,95,78,19,Fifth Settlement
+1/1/2025 9:40,1,Salah Salem,237,71.18,27.82,Nasr City
+1/1/2025 9:40,2,Al Haram,209,71.07,25.93,Giza
+1/1/2025 9:40,3,Nile Corniche,177,42.36,61.64,Downtown
+1/1/2025 9:40,4,Maadi Corniche,103,61.76,40.24,Maadi
+1/1/2025 9:40,5,Teseen Axis - New Cairo,223,25.83,74.17,Fifth Settlement
+1/1/2025 9:45,1,Salah Salem,200,28.41,75.59,Nasr City
+1/1/2025 9:45,2,Al Haram,179,39.35,62.65,Giza
+1/1/2025 9:45,3,Nile Corniche,210,28.2,71.8,Downtown
+1/1/2025 9:45,4,Maadi Corniche,225,53.17,50.83,Maadi
+1/1/2025 9:45,5,Teseen Axis - New Cairo,75,68.61,34.39,Fifth Settlement
+1/1/2025 9:50,1,Salah Salem,201,74.79,29.21,Nasr City
+1/1/2025 9:50,2,Al Haram,184,50.09,47.91,Giza
+1/1/2025 9:50,3,Nile Corniche,114,24.26,72.74,Downtown
+1/1/2025 9:50,4,Maadi Corniche,192,42.53,53.47,Maadi
+1/1/2025 9:50,5,Teseen Axis - New Cairo,81,54.7,45.3,Fifth Settlement
+1/1/2025 9:55,1,Salah Salem,100,47.94,52.06,Nasr City
+1/1/2025 9:55,2,Al Haram,107,71.62,23.38,Giza
+1/1/2025 9:55,3,Nile Corniche,229,22.33,77.67,Downtown
+1/1/2025 9:55,4,Maadi Corniche,237,39.6,62.4,Maadi
+1/1/2025 9:55,5,Teseen Axis - New Cairo,102,36.29,62.71,Fifth Settlement
+1/1/2025 10:00,1,Salah Salem,152,25.12,72.88,Nasr City
+1/1/2025 10:00,2,Al Haram,143,52.44,48.56,Giza
+1/1/2025 10:00,3,Nile Corniche,217,63.57,32.43,Downtown
+1/1/2025 10:00,4,Maadi Corniche,173,62.88,34.12,Maadi
+1/1/2025 10:00,5,Teseen Axis - New Cairo,194,43.93,53.07,Fifth Settlement
+1/1/2025 10:05,1,Salah Salem,141,64.64,39.36,Nasr City
+1/1/2025 10:05,2,Al Haram,166,24.85,78.15,Giza
+1/1/2025 10:05,3,Nile Corniche,189,44.54,59.46,Downtown
+1/1/2025 10:05,4,Maadi Corniche,171,29.39,66.61,Maadi
+1/1/2025 10:05,5,Teseen Axis - New Cairo,145,52.95,50.05,Fifth Settlement
+1/1/2025 10:10,1,Salah Salem,166,58.3,42.7,Nasr City
+1/1/2025 10:10,2,Al Haram,241,53.26,46.74,Giza
+1/1/2025 10:10,3,Nile Corniche,142,45.18,58.82,Downtown
+1/1/2025 10:10,4,Maadi Corniche,193,29.52,70.48,Maadi
+1/1/2025 10:10,5,Teseen Axis - New Cairo,234,40.51,58.49,Fifth Settlement
+1/1/2025 10:15,1,Salah Salem,96,22.44,75.56,Nasr City
+1/1/2025 10:15,2,Al Haram,246,48.45,55.55,Giza
+1/1/2025 10:15,3,Nile Corniche,225,68.41,29.59,Downtown
+1/1/2025 10:15,4,Maadi Corniche,82,47.88,51.12,Maadi
+1/1/2025 10:15,5,Teseen Axis - New Cairo,72,22.88,77.12,Fifth Settlement
+1/1/2025 10:20,1,Salah Salem,118,73.2,24.8,Nasr City
+1/1/2025 10:20,2,Al Haram,187,57.55,46.45,Giza
+1/1/2025 10:20,3,Nile Corniche,145,71.39,27.61,Downtown
+1/1/2025 10:20,4,Maadi Corniche,53,56.95,44.05,Maadi
+1/1/2025 10:20,5,Teseen Axis - New Cairo,51,21.59,76.41,Fifth Settlement
+1/1/2025 10:25,1,Salah Salem,201,60.63,36.37,Nasr City
+1/1/2025 10:25,2,Al Haram,173,27.71,69.29,Giza
+1/1/2025 10:25,3,Nile Corniche,220,76.49,20.51,Downtown
+1/1/2025 10:25,4,Maadi Corniche,114,77.67,26.33,Maadi
+1/1/2025 10:25,5,Teseen Axis - New Cairo,92,31.75,64.25,Fifth Settlement
+1/1/2025 10:30,1,Salah Salem,84,40.19,63.81,Nasr City
+1/1/2025 10:30,2,Al Haram,57,43.12,60.88,Giza
+1/1/2025 10:30,3,Nile Corniche,139,40.44,56.56,Downtown
+1/1/2025 10:30,4,Maadi Corniche,154,49.76,54.24,Maadi
+1/1/2025 10:30,5,Teseen Axis - New Cairo,163,57.74,44.26,Fifth Settlement
+1/1/2025 10:35,1,Salah Salem,213,45.08,57.92,Nasr City
+1/1/2025 10:35,2,Al Haram,213,30.65,72.35,Giza
+1/1/2025 10:35,3,Nile Corniche,201,68.41,26.59,Downtown
+1/1/2025 10:35,4,Maadi Corniche,148,44.76,51.24,Maadi
+1/1/2025 10:35,5,Teseen Axis - New Cairo,145,40.45,58.55,Fifth Settlement
+1/1/2025 10:40,1,Salah Salem,61,45.74,55.26,Nasr City
+1/1/2025 10:40,2,Al Haram,148,26.19,68.81,Giza
+1/1/2025 10:40,3,Nile Corniche,162,50.32,52.68,Downtown
+1/1/2025 10:40,4,Maadi Corniche,135,37.86,59.14,Maadi
+1/1/2025 10:40,5,Teseen Axis - New Cairo,226,23.21,79.79,Fifth Settlement
+1/1/2025 10:45,1,Salah Salem,196,25.48,75.52,Nasr City
+1/1/2025 10:45,2,Al Haram,77,77,21,Giza
+1/1/2025 10:45,3,Nile Corniche,132,49.58,49.42,Downtown
+1/1/2025 10:45,4,Maadi Corniche,118,37.59,65.41,Maadi
+1/1/2025 10:45,5,Teseen Axis - New Cairo,229,60.35,37.65,Fifth Settlement
+1/1/2025 10:50,1,Salah Salem,102,67.49,35.51,Nasr City
+1/1/2025 10:50,2,Al Haram,88,25.47,78.53,Giza
+1/1/2025 10:50,3,Nile Corniche,235,23.45,80.55,Downtown
+1/1/2025 10:50,4,Maadi Corniche,182,64.22,31.78,Maadi
+1/1/2025 10:50,5,Teseen Axis - New Cairo,125,61.28,42.72,Fifth Settlement
+1/1/2025 10:55,1,Salah Salem,194,26.07,74.93,Nasr City
+1/1/2025 10:55,2,Al Haram,223,62.06,41.94,Giza
+1/1/2025 10:55,3,Nile Corniche,186,69.31,34.69,Downtown
+1/1/2025 10:55,4,Maadi Corniche,243,24.88,74.12,Maadi
+1/1/2025 10:55,5,Teseen Axis - New Cairo,215,79.2,15.8,Fifth Settlement
+1/1/2025 11:00,1,Salah Salem,135,68.77,32.23,Nasr City
+1/1/2025 11:00,2,Al Haram,94,65.2,34.8,Giza
+1/1/2025 11:00,3,Nile Corniche,208,48.9,51.1,Downtown
+1/1/2025 11:00,4,Maadi Corniche,216,45.45,58.55,Maadi
+1/1/2025 11:00,5,Teseen Axis - New Cairo,68,26.67,70.33,Fifth Settlement
+1/1/2025 11:05,1,Salah Salem,222,20.68,83.32,Nasr City
+1/1/2025 11:05,2,Al Haram,197,27.13,75.87,Giza
+1/1/2025 11:05,3,Nile Corniche,216,64.76,38.24,Downtown
+1/1/2025 11:05,4,Maadi Corniche,240,48.66,54.34,Maadi
+1/1/2025 11:05,5,Teseen Axis - New Cairo,105,51.7,47.3,Fifth Settlement
+1/1/2025 11:10,1,Salah Salem,183,68.13,30.87,Nasr City
+1/1/2025 11:10,2,Al Haram,129,51.66,47.34,Giza
+1/1/2025 11:10,3,Nile Corniche,213,53.23,44.77,Downtown
+1/1/2025 11:10,4,Maadi Corniche,234,51.39,51.61,Maadi
+1/1/2025 11:10,5,Teseen Axis - New Cairo,98,61.74,33.26,Fifth Settlement
+1/1/2025 11:15,1,Salah Salem,166,61.82,35.18,Nasr City
+1/1/2025 11:15,2,Al Haram,193,64.23,39.77,Giza
+1/1/2025 11:15,3,Nile Corniche,65,73.42,28.58,Downtown
+1/1/2025 11:15,4,Maadi Corniche,205,40.14,63.86,Maadi
+1/1/2025 11:15,5,Teseen Axis - New Cairo,141,58.81,43.19,Fifth Settlement
+1/1/2025 11:20,1,Salah Salem,235,33.76,65.24,Nasr City
+1/1/2025 11:20,2,Al Haram,90,35.6,64.4,Giza
+1/1/2025 11:20,3,Nile Corniche,240,52.17,42.83,Downtown
+1/1/2025 11:20,4,Maadi Corniche,206,27.99,69.01,Maadi
+1/1/2025 11:20,5,Teseen Axis - New Cairo,183,76.99,22.01,Fifth Settlement
+1/1/2025 11:25,1,Salah Salem,96,75.15,28.85,Nasr City
+1/1/2025 11:25,2,Al Haram,105,72.6,26.4,Giza
+1/1/2025 11:25,3,Nile Corniche,168,44.68,55.32,Downtown
+1/1/2025 11:25,4,Maadi Corniche,114,48.82,46.18,Maadi
+1/1/2025 11:25,5,Teseen Axis - New Cairo,60,55.65,47.35,Fifth Settlement
+1/1/2025 11:30,1,Salah Salem,135,69.75,25.25,Nasr City
+1/1/2025 11:30,2,Al Haram,210,48.12,48.88,Giza
+1/1/2025 11:30,3,Nile Corniche,178,20.82,80.18,Downtown
+1/1/2025 11:30,4,Maadi Corniche,55,61.5,37.5,Maadi
+1/1/2025 11:30,5,Teseen Axis - New Cairo,144,64.99,32.01,Fifth Settlement
+1/1/2025 11:35,1,Salah Salem,230,55.11,43.89,Nasr City
+1/1/2025 11:35,2,Al Haram,214,65.42,31.58,Giza
+1/1/2025 11:35,3,Nile Corniche,194,34.47,68.53,Downtown
+1/1/2025 11:35,4,Maadi Corniche,159,35.09,62.91,Maadi
+1/1/2025 11:35,5,Teseen Axis - New Cairo,239,72.69,29.31,Fifth Settlement
+1/1/2025 11:40,1,Salah Salem,81,22.81,79.19,Nasr City
+1/1/2025 11:40,2,Al Haram,88,60.29,35.71,Giza
+1/1/2025 11:40,3,Nile Corniche,231,66.34,29.66,Downtown
+1/1/2025 11:40,4,Maadi Corniche,61,68.98,30.02,Maadi
+1/1/2025 11:40,5,Teseen Axis - New Cairo,106,55.4,45.6,Fifth Settlement
+1/1/2025 11:45,1,Salah Salem,134,58.36,38.64,Nasr City
+1/1/2025 11:45,2,Al Haram,152,28.18,67.82,Giza
+1/1/2025 11:45,3,Nile Corniche,87,56.49,39.51,Downtown
+1/1/2025 11:45,4,Maadi Corniche,79,53.29,43.71,Maadi
+1/1/2025 11:45,5,Teseen Axis - New Cairo,240,63.58,39.42,Fifth Settlement
+1/1/2025 11:50,1,Salah Salem,215,47.05,53.95,Nasr City
+1/1/2025 11:50,2,Al Haram,155,71.74,27.26,Giza
+1/1/2025 11:50,3,Nile Corniche,78,28.82,73.18,Downtown
+1/1/2025 11:50,4,Maadi Corniche,194,49.53,48.47,Maadi
+1/1/2025 11:50,5,Teseen Axis - New Cairo,118,78.8,20.2,Fifth Settlement
+1/1/2025 11:55,1,Salah Salem,243,39.73,57.27,Nasr City
+1/1/2025 11:55,2,Al Haram,160,27.73,73.27,Giza
+1/1/2025 11:55,3,Nile Corniche,129,29.11,70.89,Downtown
+1/1/2025 11:55,4,Maadi Corniche,193,58.45,43.55,Maadi
+1/1/2025 11:55,5,Teseen Axis - New Cairo,181,40.74,56.26,Fifth Settlement
+1/1/2025 12:00,1,Salah Salem,145,48.44,47.56,Nasr City
+1/1/2025 12:00,2,Al Haram,110,31.54,65.46,Giza
+1/1/2025 12:00,3,Nile Corniche,70,30.14,73.86,Downtown
+1/1/2025 12:00,4,Maadi Corniche,110,21.91,78.09,Maadi
+1/1/2025 12:00,5,Teseen Axis - New Cairo,50,52.07,51.93,Fifth Settlement
+1/1/2025 12:05,1,Salah Salem,95,41.86,62.14,Nasr City
+1/1/2025 12:05,2,Al Haram,94,39.29,64.71,Giza
+1/1/2025 12:05,3,Nile Corniche,96,57.67,44.33,Downtown
+1/1/2025 12:05,4,Maadi Corniche,143,29.42,65.58,Maadi
+1/1/2025 12:05,5,Teseen Axis - New Cairo,75,72.1,29.9,Fifth Settlement
+1/1/2025 12:10,1,Salah Salem,162,55.84,42.16,Nasr City
+1/1/2025 12:10,2,Al Haram,96,42.23,57.77,Giza
+1/1/2025 12:10,3,Nile Corniche,63,57.1,43.9,Downtown
+1/1/2025 12:10,4,Maadi Corniche,127,47.75,56.25,Maadi
+1/1/2025 12:10,5,Teseen Axis - New Cairo,63,28.86,68.14,Fifth Settlement
+1/1/2025 12:15,1,Salah Salem,56,61.23,39.77,Nasr City
+1/1/2025 12:15,2,Al Haram,156,51.93,44.07,Giza
+1/1/2025 12:15,3,Nile Corniche,87,51.96,51.04,Downtown
+1/1/2025 12:15,4,Maadi Corniche,168,42.64,61.36,Maadi
+1/1/2025 12:15,5,Teseen Axis - New Cairo,88,39.32,61.68,Fifth Settlement
+1/1/2025 12:20,1,Salah Salem,135,39.65,63.35,Nasr City
+1/1/2025 12:20,2,Al Haram,194,40.58,62.42,Giza
+1/1/2025 12:20,3,Nile Corniche,117,41.31,61.69,Downtown
+1/1/2025 12:20,4,Maadi Corniche,158,48.77,49.23,Maadi
+1/1/2025 12:20,5,Teseen Axis - New Cairo,160,64.21,37.79,Fifth Settlement
+1/1/2025 12:25,1,Salah Salem,217,45.9,51.1,Nasr City
+1/1/2025 12:25,2,Al Haram,91,37.03,62.97,Giza
+1/1/2025 12:25,3,Nile Corniche,229,58.76,37.24,Downtown
+1/1/2025 12:25,4,Maadi Corniche,236,41.37,58.63,Maadi
+1/1/2025 12:25,5,Teseen Axis - New Cairo,170,34.23,65.77,Fifth Settlement
+1/1/2025 12:30,1,Salah Salem,70,29.17,71.83,Nasr City
+1/1/2025 12:30,2,Al Haram,161,29.64,72.36,Giza
+1/1/2025 12:30,3,Nile Corniche,104,70.54,26.46,Downtown
+1/1/2025 12:30,4,Maadi Corniche,80,44.62,53.38,Maadi
+1/1/2025 12:30,5,Teseen Axis - New Cairo,201,26.72,69.28,Fifth Settlement
+1/1/2025 12:35,1,Salah Salem,124,71.93,28.07,Nasr City
+1/1/2025 12:35,2,Al Haram,167,35.47,66.53,Giza
+1/1/2025 12:35,3,Nile Corniche,228,69.25,26.75,Downtown
+1/1/2025 12:35,4,Maadi Corniche,128,52.1,51.9,Maadi
+1/1/2025 12:35,5,Teseen Axis - New Cairo,228,70.31,28.69,Fifth Settlement
+1/1/2025 12:40,1,Salah Salem,119,78.08,19.92,Nasr City
+1/1/2025 12:40,2,Al Haram,68,31.97,66.03,Giza
+1/1/2025 12:40,3,Nile Corniche,162,51.79,43.21,Downtown
+1/1/2025 12:40,4,Maadi Corniche,139,66.07,33.93,Maadi
+1/1/2025 12:40,5,Teseen Axis - New Cairo,86,50.37,47.63,Fifth Settlement
+1/1/2025 12:45,1,Salah Salem,126,51.96,43.04,Nasr City
+1/1/2025 12:45,2,Al Haram,183,40.2,63.8,Giza
+1/1/2025 12:45,3,Nile Corniche,54,23.8,72.2,Downtown
+1/1/2025 12:45,4,Maadi Corniche,62,61.07,36.93,Maadi
+1/1/2025 12:45,5,Teseen Axis - New Cairo,114,28.33,74.67,Fifth Settlement
+1/1/2025 12:50,1,Salah Salem,66,27,75,Nasr City
+1/1/2025 12:50,2,Al Haram,87,44.71,50.29,Giza
+1/1/2025 12:50,3,Nile Corniche,118,69.84,26.16,Downtown
+1/1/2025 12:50,4,Maadi Corniche,127,75.98,27.02,Maadi
+1/1/2025 12:50,5,Teseen Axis - New Cairo,211,30.87,66.13,Fifth Settlement
+1/1/2025 12:55,1,Salah Salem,50,64.47,35.53,Nasr City
+1/1/2025 12:55,2,Al Haram,109,70.51,31.49,Giza
+1/1/2025 12:55,3,Nile Corniche,60,67.72,29.28,Downtown
+1/1/2025 12:55,4,Maadi Corniche,214,68.87,35.13,Maadi
+1/1/2025 12:55,5,Teseen Axis - New Cairo,111,41.53,62.47,Fifth Settlement
+1/1/2025 13:00,1,Salah Salem,138,60.98,41.02,Nasr City
+1/1/2025 13:00,2,Al Haram,88,62.83,34.17,Giza
+1/1/2025 13:00,3,Nile Corniche,174,38.08,62.92,Downtown
+1/1/2025 13:00,4,Maadi Corniche,112,50.16,52.84,Maadi
+1/1/2025 13:00,5,Teseen Axis - New Cairo,194,73.97,27.03,Fifth Settlement
+1/1/2025 13:05,1,Salah Salem,243,52.61,49.39,Nasr City
+1/1/2025 13:05,2,Al Haram,153,57.45,39.55,Giza
+1/1/2025 13:05,3,Nile Corniche,247,76.39,24.61,Downtown
+1/1/2025 13:05,4,Maadi Corniche,228,40.09,57.91,Maadi
+1/1/2025 13:05,5,Teseen Axis - New Cairo,64,72.72,22.28,Fifth Settlement
+1/1/2025 13:10,1,Salah Salem,204,67.32,32.68,Nasr City
+1/1/2025 13:10,2,Al Haram,234,38.7,60.3,Giza
+1/1/2025 13:10,3,Nile Corniche,204,64.64,33.36,Downtown
+1/1/2025 13:10,4,Maadi Corniche,135,62.84,36.16,Maadi
+1/1/2025 13:10,5,Teseen Axis - New Cairo,172,65.28,34.72,Fifth Settlement
+1/1/2025 13:15,1,Salah Salem,87,52.19,45.81,Nasr City
+1/1/2025 13:15,2,Al Haram,158,27.65,74.35,Giza
+1/1/2025 13:15,3,Nile Corniche,64,67.84,31.16,Downtown
+1/1/2025 13:15,4,Maadi Corniche,206,33.76,62.24,Maadi
+1/1/2025 13:15,5,Teseen Axis - New Cairo,204,58.47,38.53,Fifth Settlement
+1/1/2025 13:20,1,Salah Salem,213,52.56,46.44,Nasr City
+1/1/2025 13:20,2,Al Haram,197,30.9,73.1,Giza
+1/1/2025 13:20,3,Nile Corniche,153,55,47,Downtown
+1/1/2025 13:20,4,Maadi Corniche,72,47.72,56.28,Maadi
+1/1/2025 13:20,5,Teseen Axis - New Cairo,190,28.35,67.65,Fifth Settlement
+1/1/2025 13:25,1,Salah Salem,160,63.57,34.43,Nasr City
+1/1/2025 13:25,2,Al Haram,117,67.41,31.59,Giza
+1/1/2025 13:25,3,Nile Corniche,121,59.08,35.92,Downtown
+1/1/2025 13:25,4,Maadi Corniche,141,42.47,60.53,Maadi
+1/1/2025 13:25,5,Teseen Axis - New Cairo,100,64.19,37.81,Fifth Settlement
+1/1/2025 13:30,1,Salah Salem,90,75.53,25.47,Nasr City
+1/1/2025 13:30,2,Al Haram,50,26.79,72.21,Giza
+1/1/2025 13:30,3,Nile Corniche,139,70.33,29.67,Downtown
+1/1/2025 13:30,4,Maadi Corniche,106,39.93,60.07,Maadi
+1/1/2025 13:30,5,Teseen Axis - New Cairo,104,33.64,65.36,Fifth Settlement
+1/1/2025 13:35,1,Salah Salem,224,23.29,79.71,Nasr City
+1/1/2025 13:35,2,Al Haram,229,67.27,36.73,Giza
+1/1/2025 13:35,3,Nile Corniche,218,26.86,71.14,Downtown
+1/1/2025 13:35,4,Maadi Corniche,74,71.81,28.19,Maadi
+1/1/2025 13:35,5,Teseen Axis - New Cairo,179,47.94,48.06,Fifth Settlement
+1/1/2025 13:40,1,Salah Salem,140,47.13,49.87,Nasr City
+1/1/2025 13:40,2,Al Haram,231,30.58,70.42,Giza
+1/1/2025 13:40,3,Nile Corniche,229,45.14,56.86,Downtown
+1/1/2025 13:40,4,Maadi Corniche,210,41.74,58.26,Maadi
+1/1/2025 13:40,5,Teseen Axis - New Cairo,203,20.79,78.21,Fifth Settlement
+1/1/2025 13:45,1,Salah Salem,98,30.68,67.32,Nasr City
+1/1/2025 13:45,2,Al Haram,154,28.92,71.08,Giza
+1/1/2025 13:45,3,Nile Corniche,135,25.12,76.88,Downtown
+1/1/2025 13:45,4,Maadi Corniche,98,37.98,63.02,Maadi
+1/1/2025 13:45,5,Teseen Axis - New Cairo,228,32.59,64.41,Fifth Settlement
+1/1/2025 13:50,1,Salah Salem,111,32.31,62.69,Nasr City
+1/1/2025 13:50,2,Al Haram,222,42.66,59.34,Giza
+1/1/2025 13:50,3,Nile Corniche,68,23.94,73.06,Downtown
+1/1/2025 13:50,4,Maadi Corniche,224,51.66,48.34,Maadi
+1/1/2025 13:50,5,Teseen Axis - New Cairo,162,44.05,55.95,Fifth Settlement
+1/1/2025 13:55,1,Salah Salem,228,29.31,65.69,Nasr City
+1/1/2025 13:55,2,Al Haram,57,71.71,29.29,Giza
+1/1/2025 13:55,3,Nile Corniche,180,42.4,61.6,Downtown
+1/1/2025 13:55,4,Maadi Corniche,159,51.59,43.41,Maadi
+1/1/2025 13:55,5,Teseen Axis - New Cairo,136,78.74,17.26,Fifth Settlement
+1/1/2025 14:00,1,Salah Salem,184,59.54,35.46,Nasr City
+1/1/2025 14:00,2,Al Haram,106,33.32,68.68,Giza
+1/1/2025 14:00,3,Nile Corniche,236,50.33,51.67,Downtown
+1/1/2025 14:00,4,Maadi Corniche,103,40.36,58.64,Maadi
+1/1/2025 14:00,5,Teseen Axis - New Cairo,116,73.25,28.75,Fifth Settlement
+1/1/2025 14:05,1,Salah Salem,211,68.32,33.68,Nasr City
+1/1/2025 14:05,2,Al Haram,127,56.19,41.81,Giza
+1/1/2025 14:05,3,Nile Corniche,214,28.46,72.54,Downtown
+1/1/2025 14:05,4,Maadi Corniche,225,25.22,78.78,Maadi
+1/1/2025 14:05,5,Teseen Axis - New Cairo,56,64.15,34.85,Fifth Settlement
+1/1/2025 14:10,1,Salah Salem,196,27.37,69.63,Nasr City
+1/1/2025 14:10,2,Al Haram,85,58.58,37.42,Giza
+1/1/2025 14:10,3,Nile Corniche,51,74.64,24.36,Downtown
+1/1/2025 14:10,4,Maadi Corniche,197,40.15,55.85,Maadi
+1/1/2025 14:10,5,Teseen Axis - New Cairo,244,55.42,42.58,Fifth Settlement
+1/1/2025 14:15,1,Salah Salem,54,40.71,62.29,Nasr City
+1/1/2025 14:15,2,Al Haram,102,37.67,60.33,Giza
+1/1/2025 14:15,3,Nile Corniche,135,66.79,28.21,Downtown
+1/1/2025 14:15,4,Maadi Corniche,207,49.25,51.75,Maadi
+1/1/2025 14:15,5,Teseen Axis - New Cairo,177,30.93,65.07,Fifth Settlement
+1/1/2025 14:20,1,Salah Salem,164,50.75,52.25,Nasr City
+1/1/2025 14:20,2,Al Haram,89,61.93,41.07,Giza
+1/1/2025 14:20,3,Nile Corniche,152,33.08,66.92,Downtown
+1/1/2025 14:20,4,Maadi Corniche,53,27.94,68.06,Maadi
+1/1/2025 14:20,5,Teseen Axis - New Cairo,86,21.1,74.9,Fifth Settlement
+1/1/2025 14:25,1,Salah Salem,177,27.07,70.93,Nasr City
+1/1/2025 14:25,2,Al Haram,90,36.44,58.56,Giza
+1/1/2025 14:25,3,Nile Corniche,214,59.09,44.91,Downtown
+1/1/2025 14:25,4,Maadi Corniche,125,32.39,71.61,Maadi
+1/1/2025 14:25,5,Teseen Axis - New Cairo,135,28.21,74.79,Fifth Settlement
+1/1/2025 14:30,1,Salah Salem,80,72.43,29.57,Nasr City
+1/1/2025 14:30,2,Al Haram,147,56.03,46.97,Giza
+1/1/2025 14:30,3,Nile Corniche,102,30.52,64.48,Downtown
+1/1/2025 14:30,4,Maadi Corniche,203,44.26,59.74,Maadi
+1/1/2025 14:30,5,Teseen Axis - New Cairo,95,22.82,77.18,Fifth Settlement
+1/1/2025 14:35,1,Salah Salem,156,31.06,67.94,Nasr City
+1/1/2025 14:35,2,Al Haram,85,66.26,32.74,Giza
+1/1/2025 14:35,3,Nile Corniche,60,37.32,60.68,Downtown
+1/1/2025 14:35,4,Maadi Corniche,162,63.29,38.71,Maadi
+1/1/2025 14:35,5,Teseen Axis - New Cairo,103,48.56,53.44,Fifth Settlement
+1/1/2025 14:40,1,Salah Salem,199,63.95,31.05,Nasr City
+1/1/2025 14:40,2,Al Haram,85,52.39,44.61,Giza
+1/1/2025 14:40,3,Nile Corniche,130,49.78,46.22,Downtown
+1/1/2025 14:40,4,Maadi Corniche,203,48.45,54.55,Maadi
+1/1/2025 14:40,5,Teseen Axis - New Cairo,89,63.69,39.31,Fifth Settlement
+1/1/2025 14:45,1,Salah Salem,110,61.3,42.7,Nasr City
+1/1/2025 14:45,2,Al Haram,74,34.78,62.22,Giza
+1/1/2025 14:45,3,Nile Corniche,157,61.68,38.32,Downtown
+1/1/2025 14:45,4,Maadi Corniche,147,26.19,72.81,Maadi
+1/1/2025 14:45,5,Teseen Axis - New Cairo,93,68.45,26.55,Fifth Settlement
+1/1/2025 14:50,1,Salah Salem,238,67.4,35.6,Nasr City
+1/1/2025 14:50,2,Al Haram,104,51.28,50.72,Giza
+1/1/2025 14:50,3,Nile Corniche,132,63.93,35.07,Downtown
+1/1/2025 14:50,4,Maadi Corniche,130,59.53,40.47,Maadi
+1/1/2025 14:50,5,Teseen Axis - New Cairo,247,78.83,17.17,Fifth Settlement
+1/1/2025 14:55,1,Salah Salem,138,58.8,45.2,Nasr City
+1/1/2025 14:55,2,Al Haram,158,60.2,43.8,Giza
+1/1/2025 14:55,3,Nile Corniche,65,75.51,25.49,Downtown
+1/1/2025 14:55,4,Maadi Corniche,75,54.08,49.92,Maadi
+1/1/2025 14:55,5,Teseen Axis - New Cairo,184,22.04,76.96,Fifth Settlement
+1/1/2025 15:00,1,Salah Salem,56,37.84,64.16,Nasr City
+1/1/2025 15:00,2,Al Haram,108,76.66,19.34,Giza
+1/1/2025 15:00,3,Nile Corniche,165,70.67,25.33,Downtown
+1/1/2025 15:00,4,Maadi Corniche,236,69.73,25.27,Maadi
+1/1/2025 15:00,5,Teseen Axis - New Cairo,63,55.78,41.22,Fifth Settlement
+1/1/2025 15:05,1,Salah Salem,157,27.23,68.77,Nasr City
+1/1/2025 15:05,2,Al Haram,180,61.78,40.22,Giza
+1/1/2025 15:05,3,Nile Corniche,232,44.27,56.73,Downtown
+1/1/2025 15:05,4,Maadi Corniche,64,68.24,29.76,Maadi
+1/1/2025 15:05,5,Teseen Axis - New Cairo,142,59.7,36.3,Fifth Settlement
+1/1/2025 15:10,1,Salah Salem,210,73.16,30.84,Nasr City
+1/1/2025 15:10,2,Al Haram,157,33.98,67.02,Giza
+1/1/2025 15:10,3,Nile Corniche,219,79.42,21.58,Downtown
+1/1/2025 15:10,4,Maadi Corniche,62,51.74,45.26,Maadi
+1/1/2025 15:10,5,Teseen Axis - New Cairo,172,79.88,18.12,Fifth Settlement
+1/1/2025 15:15,1,Salah Salem,78,66.03,32.97,Nasr City
+1/1/2025 15:15,2,Al Haram,234,54.85,48.15,Giza
+1/1/2025 15:15,3,Nile Corniche,59,25.5,75.5,Downtown
+1/1/2025 15:15,4,Maadi Corniche,133,64.25,30.75,Maadi
+1/1/2025 15:15,5,Teseen Axis - New Cairo,52,48.04,53.96,Fifth Settlement
+1/1/2025 15:20,1,Salah Salem,207,71.17,24.83,Nasr City
+1/1/2025 15:20,2,Al Haram,239,55.35,39.65,Giza
+1/1/2025 15:20,3,Nile Corniche,230,79.26,23.74,Downtown
+1/1/2025 15:20,4,Maadi Corniche,192,43.06,58.94,Maadi
+1/1/2025 15:20,5,Teseen Axis - New Cairo,245,33.1,70.9,Fifth Settlement
+1/1/2025 15:25,1,Salah Salem,86,67.18,32.82,Nasr City
+1/1/2025 15:25,2,Al Haram,88,72.75,29.25,Giza
+1/1/2025 15:25,3,Nile Corniche,60,74.22,21.78,Downtown
+1/1/2025 15:25,4,Maadi Corniche,202,64.6,33.4,Maadi
+1/1/2025 15:25,5,Teseen Axis - New Cairo,108,44.09,55.91,Fifth Settlement
+1/1/2025 15:30,1,Salah Salem,166,69.84,34.16,Nasr City
+1/1/2025 15:30,2,Al Haram,156,30.59,73.41,Giza
+1/1/2025 15:30,3,Nile Corniche,218,31.19,65.81,Downtown
+1/1/2025 15:30,4,Maadi Corniche,169,41.01,57.99,Maadi
+1/1/2025 15:30,5,Teseen Axis - New Cairo,103,78.15,16.85,Fifth Settlement
+1/1/2025 15:35,1,Salah Salem,58,75.67,28.33,Nasr City
+1/1/2025 15:35,2,Al Haram,110,35.61,61.39,Giza
+1/1/2025 15:35,3,Nile Corniche,227,49.47,45.53,Downtown
+1/1/2025 15:35,4,Maadi Corniche,52,68.95,31.05,Maadi
+1/1/2025 15:35,5,Teseen Axis - New Cairo,62,33.43,69.57,Fifth Settlement
+1/1/2025 15:40,1,Salah Salem,122,73.7,25.3,Nasr City
+1/1/2025 15:40,2,Al Haram,147,47.45,54.55,Giza
+1/1/2025 15:40,3,Nile Corniche,116,36.38,66.62,Downtown
+1/1/2025 15:40,4,Maadi Corniche,244,77.34,26.66,Maadi
+1/1/2025 15:40,5,Teseen Axis - New Cairo,58,39.74,63.26,Fifth Settlement
+1/1/2025 15:45,1,Salah Salem,54,64.11,31.89,Nasr City
+1/1/2025 15:45,2,Al Haram,173,42.36,59.64,Giza
+1/1/2025 15:45,3,Nile Corniche,182,22.93,73.07,Downtown
+1/1/2025 15:45,4,Maadi Corniche,247,77.73,21.27,Maadi
+1/1/2025 15:45,5,Teseen Axis - New Cairo,130,23.69,73.31,Fifth Settlement
+1/1/2025 15:50,1,Salah Salem,235,54.28,47.72,Nasr City
+1/1/2025 15:50,2,Al Haram,147,52.63,42.37,Giza
+1/1/2025 15:50,3,Nile Corniche,55,51.28,50.72,Downtown
+1/1/2025 15:50,4,Maadi Corniche,141,71.03,31.97,Maadi
+1/1/2025 15:50,5,Teseen Axis - New Cairo,62,70.22,32.78,Fifth Settlement
+1/1/2025 15:55,1,Salah Salem,230,60.81,39.19,Nasr City
+1/1/2025 15:55,2,Al Haram,237,29.52,74.48,Giza
+1/1/2025 15:55,3,Nile Corniche,80,69.55,34.45,Downtown
+1/1/2025 15:55,4,Maadi Corniche,209,40.11,60.89,Maadi
+1/1/2025 15:55,5,Teseen Axis - New Cairo,208,20.07,75.93,Fifth Settlement
+1/1/2025 16:00,1,Salah Salem,126,50.45,50.55,Nasr City
+1/1/2025 16:00,2,Al Haram,243,37.22,57.78,Giza
+1/1/2025 16:00,3,Nile Corniche,66,26.95,69.05,Downtown
+1/1/2025 16:00,4,Maadi Corniche,237,20.54,76.46,Maadi
+1/1/2025 16:00,5,Teseen Axis - New Cairo,119,37,64,Fifth Settlement
+1/1/2025 16:05,1,Salah Salem,123,45.93,50.07,Nasr City
+1/1/2025 16:05,2,Al Haram,112,43.53,55.47,Giza
+1/1/2025 16:05,3,Nile Corniche,71,76.23,21.77,Downtown
+1/1/2025 16:05,4,Maadi Corniche,117,38.06,56.94,Maadi
+1/1/2025 16:05,5,Teseen Axis - New Cairo,61,24.04,79.96,Fifth Settlement
+1/1/2025 16:10,1,Salah Salem,167,40.75,63.25,Nasr City
+1/1/2025 16:10,2,Al Haram,169,22.74,73.26,Giza
+1/1/2025 16:10,3,Nile Corniche,63,78.41,19.59,Downtown
+1/1/2025 16:10,4,Maadi Corniche,229,65.5,35.5,Maadi
+1/1/2025 16:10,5,Teseen Axis - New Cairo,78,21.33,78.67,Fifth Settlement
+1/1/2025 16:15,1,Salah Salem,160,49.32,47.68,Nasr City
+1/1/2025 16:15,2,Al Haram,107,20.06,75.94,Giza
+1/1/2025 16:15,3,Nile Corniche,223,48.11,49.89,Downtown
+1/1/2025 16:15,4,Maadi Corniche,148,47.08,53.92,Maadi
+1/1/2025 16:15,5,Teseen Axis - New Cairo,64,67.69,30.31,Fifth Settlement
+1/1/2025 16:20,1,Salah Salem,81,24.94,73.06,Nasr City
+1/1/2025 16:20,2,Al Haram,71,27.88,69.12,Giza
+1/1/2025 16:20,3,Nile Corniche,130,77.79,24.21,Downtown
+1/1/2025 16:20,4,Maadi Corniche,141,63.88,35.12,Maadi
+1/1/2025 16:20,5,Teseen Axis - New Cairo,236,77.87,19.13,Fifth Settlement
+1/1/2025 16:25,1,Salah Salem,234,46.54,48.46,Nasr City
+1/1/2025 16:25,2,Al Haram,107,73.65,22.35,Giza
+1/1/2025 16:25,3,Nile Corniche,238,32.02,62.98,Downtown
+1/1/2025 16:25,4,Maadi Corniche,74,62.9,33.1,Maadi
+1/1/2025 16:25,5,Teseen Axis - New Cairo,64,48.29,53.71,Fifth Settlement
+1/1/2025 16:30,1,Salah Salem,109,31.13,63.87,Nasr City
+1/1/2025 16:30,2,Al Haram,142,66.6,29.4,Giza
+1/1/2025 16:30,3,Nile Corniche,248,57.57,41.43,Downtown
+1/1/2025 16:30,4,Maadi Corniche,73,75.25,21.75,Maadi
+1/1/2025 16:30,5,Teseen Axis - New Cairo,197,67.79,35.21,Fifth Settlement
+1/1/2025 16:35,1,Salah Salem,248,27.51,70.49,Nasr City
+1/1/2025 16:35,2,Al Haram,58,32.03,70.97,Giza
+1/1/2025 16:35,3,Nile Corniche,237,23.85,76.15,Downtown
+1/1/2025 16:35,4,Maadi Corniche,166,55.42,46.58,Maadi
+1/1/2025 16:35,5,Teseen Axis - New Cairo,188,79.06,15.94,Fifth Settlement
+1/1/2025 16:40,1,Salah Salem,121,47.88,48.12,Nasr City
+1/1/2025 16:40,2,Al Haram,159,78.48,21.52,Giza
+1/1/2025 16:40,3,Nile Corniche,81,59.42,43.58,Downtown
+1/1/2025 16:40,4,Maadi Corniche,82,77.16,25.84,Maadi
+1/1/2025 16:40,5,Teseen Axis - New Cairo,185,63.46,33.54,Fifth Settlement
+1/1/2025 16:45,1,Salah Salem,137,28.76,74.24,Nasr City
+1/1/2025 16:45,2,Al Haram,95,28.55,71.45,Giza
+1/1/2025 16:45,3,Nile Corniche,135,32.62,62.38,Downtown
+1/1/2025 16:45,4,Maadi Corniche,217,20.59,74.41,Maadi
+1/1/2025 16:45,5,Teseen Axis - New Cairo,51,52.05,50.95,Fifth Settlement
+1/1/2025 16:50,1,Salah Salem,207,21.99,76.01,Nasr City
+1/1/2025 16:50,2,Al Haram,203,43.82,52.18,Giza
+1/1/2025 16:50,3,Nile Corniche,215,54.05,49.95,Downtown
+1/1/2025 16:50,4,Maadi Corniche,192,32.01,68.99,Maadi
+1/1/2025 16:50,5,Teseen Axis - New Cairo,221,26.27,70.73,Fifth Settlement
+1/1/2025 16:55,1,Salah Salem,172,21.9,78.1,Nasr City
+1/1/2025 16:55,2,Al Haram,122,23.12,79.88,Giza
+1/1/2025 16:55,3,Nile Corniche,163,76.11,25.89,Downtown
+1/1/2025 16:55,4,Maadi Corniche,227,57.52,40.48,Maadi
+1/1/2025 16:55,5,Teseen Axis - New Cairo,111,56.74,44.26,Fifth Settlement
+1/1/2025 17:00,1,Salah Salem,133,53.18,46.82,Nasr City
+1/1/2025 17:00,2,Al Haram,107,67.03,29.97,Giza
+1/1/2025 17:00,3,Nile Corniche,176,51.58,52.42,Downtown
+1/1/2025 17:00,4,Maadi Corniche,63,24.9,75.1,Maadi
+1/1/2025 17:00,5,Teseen Axis - New Cairo,61,34.83,68.17,Fifth Settlement
+1/1/2025 17:05,1,Salah Salem,94,56.94,40.06,Nasr City
+1/1/2025 17:05,2,Al Haram,104,48.21,53.79,Giza
+1/1/2025 17:05,3,Nile Corniche,168,46.02,50.98,Downtown
+1/1/2025 17:05,4,Maadi Corniche,93,53.32,42.68,Maadi
+1/1/2025 17:05,5,Teseen Axis - New Cairo,199,39.94,62.06,Fifth Settlement
+1/1/2025 17:10,1,Salah Salem,154,49.6,54.4,Nasr City
+1/1/2025 17:10,2,Al Haram,84,33.23,66.77,Giza
+1/1/2025 17:10,3,Nile Corniche,240,32.21,68.79,Downtown
+1/1/2025 17:10,4,Maadi Corniche,125,30.45,68.55,Maadi
+1/1/2025 17:10,5,Teseen Axis - New Cairo,208,44.95,57.05,Fifth Settlement
+1/1/2025 17:15,1,Salah Salem,197,57.73,40.27,Nasr City
+1/1/2025 17:15,2,Al Haram,237,22.41,72.59,Giza
+1/1/2025 17:15,3,Nile Corniche,228,54.72,43.28,Downtown
+1/1/2025 17:15,4,Maadi Corniche,166,43.73,54.27,Maadi
+1/1/2025 17:15,5,Teseen Axis - New Cairo,115,55.86,42.14,Fifth Settlement
+1/1/2025 17:20,1,Salah Salem,55,59.3,37.7,Nasr City
+1/1/2025 17:20,2,Al Haram,164,37.03,59.97,Giza
+1/1/2025 17:20,3,Nile Corniche,67,57.89,37.11,Downtown
+1/1/2025 17:20,4,Maadi Corniche,148,66.56,31.44,Maadi
+1/1/2025 17:20,5,Teseen Axis - New Cairo,136,57.95,38.05,Fifth Settlement
+1/1/2025 17:25,1,Salah Salem,168,44.78,55.22,Nasr City
+1/1/2025 17:25,2,Al Haram,90,34.83,67.17,Giza
+1/1/2025 17:25,3,Nile Corniche,133,55.58,44.42,Downtown
+1/1/2025 17:25,4,Maadi Corniche,194,43.46,59.54,Maadi
+1/1/2025 17:25,5,Teseen Axis - New Cairo,77,35.49,63.51,Fifth Settlement
+1/1/2025 17:30,1,Salah Salem,54,39.51,62.49,Nasr City
+1/1/2025 17:30,2,Al Haram,233,43.8,57.2,Giza
+1/1/2025 17:30,3,Nile Corniche,96,34.08,69.92,Downtown
+1/1/2025 17:30,4,Maadi Corniche,244,46.52,57.48,Maadi
+1/1/2025 17:30,5,Teseen Axis - New Cairo,142,40.22,62.78,Fifth Settlement
+1/1/2025 17:35,1,Salah Salem,50,46.97,55.03,Nasr City
+1/1/2025 17:35,2,Al Haram,220,76.92,26.08,Giza
+1/1/2025 17:35,3,Nile Corniche,113,41.56,61.44,Downtown
+1/1/2025 17:35,4,Maadi Corniche,156,64.18,34.82,Maadi
+1/1/2025 17:35,5,Teseen Axis - New Cairo,214,66.91,35.09,Fifth Settlement
+1/1/2025 17:40,1,Salah Salem,93,46.78,53.22,Nasr City
+1/1/2025 17:40,2,Al Haram,157,52.39,45.61,Giza
+1/1/2025 17:40,3,Nile Corniche,163,79.2,23.8,Downtown
+1/1/2025 17:40,4,Maadi Corniche,86,76.2,18.8,Maadi
+1/1/2025 17:40,5,Teseen Axis - New Cairo,168,33.48,65.52,Fifth Settlement
+1/1/2025 17:45,1,Salah Salem,108,38.97,56.03,Nasr City
+1/1/2025 17:45,2,Al Haram,228,22.49,81.51,Giza
+1/1/2025 17:45,3,Nile Corniche,69,79.2,22.8,Downtown
+1/1/2025 17:45,4,Maadi Corniche,92,21.04,81.96,Maadi
+1/1/2025 17:45,5,Teseen Axis - New Cairo,99,78.39,22.61,Fifth Settlement
+1/1/2025 17:50,1,Salah Salem,233,50.94,45.06,Nasr City
+1/1/2025 17:50,2,Al Haram,200,60.01,37.99,Giza
+1/1/2025 17:50,3,Nile Corniche,200,21.8,76.2,Downtown
+1/1/2025 17:50,4,Maadi Corniche,129,76.39,24.61,Maadi
+1/1/2025 17:50,5,Teseen Axis - New Cairo,57,78.19,16.81,Fifth Settlement
+1/1/2025 17:55,1,Salah Salem,57,29.37,70.63,Nasr City
+1/1/2025 17:55,2,Al Haram,54,77.8,18.2,Giza
+1/1/2025 17:55,3,Nile Corniche,242,70.29,33.71,Downtown
+1/1/2025 17:55,4,Maadi Corniche,220,60.99,35.01,Maadi
+1/1/2025 17:55,5,Teseen Axis - New Cairo,194,69.85,32.15,Fifth Settlement
+1/1/2025 18:00,1,Salah Salem,162,21.82,80.18,Nasr City
+1/1/2025 18:00,2,Al Haram,138,61.37,33.63,Giza
+1/1/2025 18:00,3,Nile Corniche,50,32.94,66.06,Downtown
+1/1/2025 18:00,4,Maadi Corniche,97,59.07,44.93,Maadi
+1/1/2025 18:00,5,Teseen Axis - New Cairo,239,59.47,36.53,Fifth Settlement
+1/1/2025 18:05,1,Salah Salem,241,22.89,80.11,Nasr City
+1/1/2025 18:05,2,Al Haram,210,44.41,58.59,Giza
+1/1/2025 18:05,3,Nile Corniche,126,37.32,60.68,Downtown
+1/1/2025 18:05,4,Maadi Corniche,147,44.25,53.75,Maadi
+1/1/2025 18:05,5,Teseen Axis - New Cairo,151,46.29,49.71,Fifth Settlement
+1/1/2025 18:10,1,Salah Salem,131,72.67,28.33,Nasr City
+1/1/2025 18:10,2,Al Haram,132,72.13,22.87,Giza
+1/1/2025 18:10,3,Nile Corniche,137,37.81,63.19,Downtown
+1/1/2025 18:10,4,Maadi Corniche,138,39.7,55.3,Maadi
+1/1/2025 18:10,5,Teseen Axis - New Cairo,125,56.59,42.41,Fifth Settlement
+1/1/2025 18:15,1,Salah Salem,196,43.31,59.69,Nasr City
+1/1/2025 18:15,2,Al Haram,210,34.25,60.75,Giza
+1/1/2025 18:15,3,Nile Corniche,84,33.64,70.36,Downtown
+1/1/2025 18:15,4,Maadi Corniche,60,56.21,47.79,Maadi
+1/1/2025 18:15,5,Teseen Axis - New Cairo,243,47.81,49.19,Fifth Settlement
+1/1/2025 18:20,1,Salah Salem,134,71.8,24.2,Nasr City
+1/1/2025 18:20,2,Al Haram,247,74.85,29.15,Giza
+1/1/2025 18:20,3,Nile Corniche,202,42.81,53.19,Downtown
+1/1/2025 18:20,4,Maadi Corniche,97,54.81,43.19,Maadi
+1/1/2025 18:20,5,Teseen Axis - New Cairo,64,43.66,57.34,Fifth Settlement
+1/1/2025 18:25,1,Salah Salem,119,64.81,34.19,Nasr City
+1/1/2025 18:25,2,Al Haram,200,45.85,53.15,Giza
+1/1/2025 18:25,3,Nile Corniche,173,77.28,20.72,Downtown
+1/1/2025 18:25,4,Maadi Corniche,100,23.62,75.38,Maadi
+1/1/2025 18:25,5,Teseen Axis - New Cairo,190,41.1,54.9,Fifth Settlement
+1/1/2025 18:30,1,Salah Salem,127,49.15,49.85,Nasr City
+1/1/2025 18:30,2,Al Haram,101,60.21,36.79,Giza
+1/1/2025 18:30,3,Nile Corniche,185,38.68,59.32,Downtown
+1/1/2025 18:30,4,Maadi Corniche,207,62.97,32.03,Maadi
+1/1/2025 18:30,5,Teseen Axis - New Cairo,126,44.81,58.19,Fifth Settlement
+1/1/2025 18:35,1,Salah Salem,143,30.87,73.13,Nasr City
+1/1/2025 18:35,2,Al Haram,88,51.51,49.49,Giza
+1/1/2025 18:35,3,Nile Corniche,240,26.41,77.59,Downtown
+1/1/2025 18:35,4,Maadi Corniche,238,35.39,62.61,Maadi
+1/1/2025 18:35,5,Teseen Axis - New Cairo,133,49.01,51.99,Fifth Settlement
+1/1/2025 18:40,1,Salah Salem,103,53.01,48.99,Nasr City
+1/1/2025 18:40,2,Al Haram,222,57.99,43.01,Giza
+1/1/2025 18:40,3,Nile Corniche,199,69.15,30.85,Downtown
+1/1/2025 18:40,4,Maadi Corniche,186,67.62,36.38,Maadi
+1/1/2025 18:40,5,Teseen Axis - New Cairo,171,41.65,62.35,Fifth Settlement
+1/1/2025 18:45,1,Salah Salem,121,66.2,28.8,Nasr City
+1/1/2025 18:45,2,Al Haram,203,35.34,62.66,Giza
+1/1/2025 18:45,3,Nile Corniche,99,63.92,34.08,Downtown
+1/1/2025 18:45,4,Maadi Corniche,109,60.29,42.71,Maadi
+1/1/2025 18:45,5,Teseen Axis - New Cairo,195,66,38,Fifth Settlement
+1/1/2025 18:50,1,Salah Salem,232,55.2,39.8,Nasr City
+1/1/2025 18:50,2,Al Haram,157,71.77,29.23,Giza
+1/1/2025 18:50,3,Nile Corniche,198,25.74,73.26,Downtown
+1/1/2025 18:50,4,Maadi Corniche,192,33.81,67.19,Maadi
+1/1/2025 18:50,5,Teseen Axis - New Cairo,209,58.28,44.72,Fifth Settlement
+1/1/2025 18:55,1,Salah Salem,127,57.92,45.08,Nasr City
+1/1/2025 18:55,2,Al Haram,202,79.27,17.73,Giza
+1/1/2025 18:55,3,Nile Corniche,56,61.71,35.29,Downtown
+1/1/2025 18:55,4,Maadi Corniche,91,45.69,55.31,Maadi
+1/1/2025 18:55,5,Teseen Axis - New Cairo,218,61.55,39.45,Fifth Settlement
+1/1/2025 19:00,1,Salah Salem,73,27.7,69.3,Nasr City
+1/1/2025 19:00,2,Al Haram,117,63.46,40.54,Giza
+1/1/2025 19:00,3,Nile Corniche,81,36.45,61.55,Downtown
+1/1/2025 19:00,4,Maadi Corniche,146,55.75,47.25,Maadi
+1/1/2025 19:00,5,Teseen Axis - New Cairo,185,42.02,57.98,Fifth Settlement
+1/1/2025 19:05,1,Salah Salem,218,57.03,37.97,Nasr City
+1/1/2025 19:05,2,Al Haram,109,24.06,74.94,Giza
+1/1/2025 19:05,3,Nile Corniche,221,34.02,64.98,Downtown
+1/1/2025 19:05,4,Maadi Corniche,57,72.8,23.2,Maadi
+1/1/2025 19:05,5,Teseen Axis - New Cairo,116,51.98,52.02,Fifth Settlement
+1/1/2025 19:10,1,Salah Salem,52,31.42,64.58,Nasr City
+1/1/2025 19:10,2,Al Haram,221,59.71,35.29,Giza
+1/1/2025 19:10,3,Nile Corniche,84,63.84,34.16,Downtown
+1/1/2025 19:10,4,Maadi Corniche,57,54.83,49.17,Maadi
+1/1/2025 19:10,5,Teseen Axis - New Cairo,85,77.7,25.3,Fifth Settlement
+1/1/2025 19:15,1,Salah Salem,104,52.15,50.85,Nasr City
+1/1/2025 19:15,2,Al Haram,104,65.37,29.63,Giza
+1/1/2025 19:15,3,Nile Corniche,193,59.89,38.11,Downtown
+1/1/2025 19:15,4,Maadi Corniche,52,75.63,25.37,Maadi
+1/1/2025 19:15,5,Teseen Axis - New Cairo,141,78.45,21.55,Fifth Settlement
+1/1/2025 19:20,1,Salah Salem,54,64.23,37.77,Nasr City
+1/1/2025 19:20,2,Al Haram,157,34.62,64.38,Giza
+1/1/2025 19:20,3,Nile Corniche,133,57.42,38.58,Downtown
+1/1/2025 19:20,4,Maadi Corniche,249,65.32,29.68,Maadi
+1/1/2025 19:20,5,Teseen Axis - New Cairo,65,50.41,47.59,Fifth Settlement
+1/1/2025 19:25,1,Salah Salem,191,27.06,73.94,Nasr City
+1/1/2025 19:25,2,Al Haram,163,40.5,62.5,Giza
+1/1/2025 19:25,3,Nile Corniche,134,40.78,62.22,Downtown
+1/1/2025 19:25,4,Maadi Corniche,242,38.33,59.67,Maadi
+1/1/2025 19:25,5,Teseen Axis - New Cairo,239,46.83,51.17,Fifth Settlement
+1/1/2025 19:30,1,Salah Salem,104,29.71,70.29,Nasr City
+1/1/2025 19:30,2,Al Haram,220,54.48,44.52,Giza
+1/1/2025 19:30,3,Nile Corniche,61,75.84,28.16,Downtown
+1/1/2025 19:30,4,Maadi Corniche,215,69.05,27.95,Maadi
+1/1/2025 19:30,5,Teseen Axis - New Cairo,207,72.68,27.32,Fifth Settlement
+1/1/2025 19:35,1,Salah Salem,116,67.4,30.6,Nasr City
+1/1/2025 19:35,2,Al Haram,63,24.86,74.14,Giza
+1/1/2025 19:35,3,Nile Corniche,212,30.41,65.59,Downtown
+1/1/2025 19:35,4,Maadi Corniche,212,40.77,57.23,Maadi
+1/1/2025 19:35,5,Teseen Axis - New Cairo,59,69.35,33.65,Fifth Settlement
+1/1/2025 19:40,1,Salah Salem,103,38.82,56.18,Nasr City
+1/1/2025 19:40,2,Al Haram,159,73.9,24.1,Giza
+1/1/2025 19:40,3,Nile Corniche,180,77.17,22.83,Downtown
+1/1/2025 19:40,4,Maadi Corniche,74,59.98,36.02,Maadi
+1/1/2025 19:40,5,Teseen Axis - New Cairo,185,48.69,49.31,Fifth Settlement
+1/1/2025 19:45,1,Salah Salem,74,33.95,64.05,Nasr City
+1/1/2025 19:45,2,Al Haram,195,36.67,63.33,Giza
+1/1/2025 19:45,3,Nile Corniche,209,32.96,63.04,Downtown
+1/1/2025 19:45,4,Maadi Corniche,109,41.89,55.11,Maadi
+1/1/2025 19:45,5,Teseen Axis - New Cairo,54,66.85,37.15,Fifth Settlement
+1/1/2025 19:50,1,Salah Salem,138,23.49,72.51,Nasr City
+1/1/2025 19:50,2,Al Haram,208,61.7,41.3,Giza
+1/1/2025 19:50,3,Nile Corniche,132,30.24,68.76,Downtown
+1/1/2025 19:50,4,Maadi Corniche,122,66.96,30.04,Maadi
+1/1/2025 19:50,5,Teseen Axis - New Cairo,56,61.53,33.47,Fifth Settlement
+1/1/2025 19:55,1,Salah Salem,53,57.99,44.01,Nasr City
+1/1/2025 19:55,2,Al Haram,66,33.96,64.04,Giza
+1/1/2025 19:55,3,Nile Corniche,101,59.34,40.66,Downtown
+1/1/2025 19:55,4,Maadi Corniche,227,27.84,70.16,Maadi
+1/1/2025 19:55,5,Teseen Axis - New Cairo,240,46.99,50.01,Fifth Settlement
+1/1/2025 20:00,1,Salah Salem,56,51.53,48.47,Nasr City
+1/1/2025 20:00,2,Al Haram,63,30.61,69.39,Giza
+1/1/2025 20:00,3,Nile Corniche,182,20.66,75.34,Downtown
+1/1/2025 20:00,4,Maadi Corniche,111,48.88,51.12,Maadi
+1/1/2025 20:00,5,Teseen Axis - New Cairo,128,54.93,46.07,Fifth Settlement
+1/1/2025 20:05,1,Salah Salem,107,31.38,67.62,Nasr City
+1/1/2025 20:05,2,Al Haram,114,39.41,64.59,Giza
+1/1/2025 20:05,3,Nile Corniche,230,68.09,29.91,Downtown
+1/1/2025 20:05,4,Maadi Corniche,237,58.77,40.23,Maadi
+1/1/2025 20:05,5,Teseen Axis - New Cairo,101,35.96,63.04,Fifth Settlement
+1/1/2025 20:10,1,Salah Salem,75,27.63,68.37,Nasr City
+1/1/2025 20:10,2,Al Haram,101,34.61,61.39,Giza
+1/1/2025 20:10,3,Nile Corniche,229,71.57,32.43,Downtown
+1/1/2025 20:10,4,Maadi Corniche,70,77.37,17.63,Maadi
+1/1/2025 20:10,5,Teseen Axis - New Cairo,154,26.13,75.87,Fifth Settlement
+1/1/2025 20:15,1,Salah Salem,186,76.57,19.43,Nasr City
+1/1/2025 20:15,2,Al Haram,109,24.59,70.41,Giza
+1/1/2025 20:15,3,Nile Corniche,59,75.82,26.18,Downtown
+1/1/2025 20:15,4,Maadi Corniche,70,69.51,31.49,Maadi
+1/1/2025 20:15,5,Teseen Axis - New Cairo,83,43.18,56.82,Fifth Settlement
+1/1/2025 20:20,1,Salah Salem,249,33.62,61.38,Nasr City
+1/1/2025 20:20,2,Al Haram,237,47.04,49.96,Giza
+1/1/2025 20:20,3,Nile Corniche,118,64.25,30.75,Downtown
+1/1/2025 20:20,4,Maadi Corniche,136,60.81,41.19,Maadi
+1/1/2025 20:20,5,Teseen Axis - New Cairo,136,62.98,34.02,Fifth Settlement
+1/1/2025 20:25,1,Salah Salem,201,26.32,68.68,Nasr City
+1/1/2025 20:25,2,Al Haram,182,50.51,51.49,Giza
+1/1/2025 20:25,3,Nile Corniche,107,47.72,50.28,Downtown
+1/1/2025 20:25,4,Maadi Corniche,188,78.24,18.76,Maadi
+1/1/2025 20:25,5,Teseen Axis - New Cairo,184,67.03,29.97,Fifth Settlement
+1/1/2025 20:30,1,Salah Salem,235,25.9,74.1,Nasr City
+1/1/2025 20:30,2,Al Haram,145,24.12,79.88,Giza
+1/1/2025 20:30,3,Nile Corniche,87,24.96,70.04,Downtown
+1/1/2025 20:30,4,Maadi Corniche,185,66.15,36.85,Maadi
+1/1/2025 20:30,5,Teseen Axis - New Cairo,122,42.92,53.08,Fifth Settlement
+1/1/2025 20:35,1,Salah Salem,244,27.28,70.72,Nasr City
+1/1/2025 20:35,2,Al Haram,127,24.16,78.84,Giza
+1/1/2025 20:35,3,Nile Corniche,171,48.7,47.3,Downtown
+1/1/2025 20:35,4,Maadi Corniche,59,67.92,34.08,Maadi
+1/1/2025 20:35,5,Teseen Axis - New Cairo,51,56.11,42.89,Fifth Settlement
+1/1/2025 20:40,1,Salah Salem,209,64.88,31.12,Nasr City
+1/1/2025 20:40,2,Al Haram,60,22.62,72.38,Giza
+1/1/2025 20:40,3,Nile Corniche,217,55.91,47.09,Downtown
+1/1/2025 20:40,4,Maadi Corniche,202,42.56,61.44,Maadi
+1/1/2025 20:40,5,Teseen Axis - New Cairo,163,76.58,21.42,Fifth Settlement
+1/1/2025 20:45,1,Salah Salem,221,31.85,63.15,Nasr City
+1/1/2025 20:45,2,Al Haram,169,79.54,24.46,Giza
+1/1/2025 20:45,3,Nile Corniche,81,39.02,61.98,Downtown
+1/1/2025 20:45,4,Maadi Corniche,61,75.14,20.86,Maadi
+1/1/2025 20:45,5,Teseen Axis - New Cairo,198,65.3,33.7,Fifth Settlement
+1/1/2025 20:50,1,Salah Salem,175,70.52,31.48,Nasr City
+1/1/2025 20:50,2,Al Haram,184,30.84,69.16,Giza
+1/1/2025 20:50,3,Nile Corniche,199,79.08,20.92,Downtown
+1/1/2025 20:50,4,Maadi Corniche,141,22.59,73.41,Maadi
+1/1/2025 20:50,5,Teseen Axis - New Cairo,51,27.9,70.1,Fifth Settlement
+1/1/2025 20:55,1,Salah Salem,76,77.91,19.09,Nasr City
+1/1/2025 20:55,2,Al Haram,200,70.44,29.56,Giza
+1/1/2025 20:55,3,Nile Corniche,220,65.49,29.51,Downtown
+1/1/2025 20:55,4,Maadi Corniche,233,56.72,43.28,Maadi
+1/1/2025 20:55,5,Teseen Axis - New Cairo,68,29.09,71.91,Fifth Settlement
+1/1/2025 21:00,1,Salah Salem,157,58.18,40.82,Nasr City
+1/1/2025 21:00,2,Al Haram,160,29.65,74.35,Giza
+1/1/2025 21:00,3,Nile Corniche,193,68.71,30.29,Downtown
+1/1/2025 21:00,4,Maadi Corniche,52,79.51,22.49,Maadi
+1/1/2025 21:00,5,Teseen Axis - New Cairo,113,68,35,Fifth Settlement
+1/1/2025 21:05,1,Salah Salem,59,64.54,36.46,Nasr City
+1/1/2025 21:05,2,Al Haram,204,61.27,41.73,Giza
+1/1/2025 21:05,3,Nile Corniche,213,20.31,83.69,Downtown
+1/1/2025 21:05,4,Maadi Corniche,107,22.12,72.88,Maadi
+1/1/2025 21:05,5,Teseen Axis - New Cairo,63,64.97,34.03,Fifth Settlement
+1/1/2025 21:10,1,Salah Salem,170,60.7,36.3,Nasr City
+1/1/2025 21:10,2,Al Haram,119,72.6,26.4,Giza
+1/1/2025 21:10,3,Nile Corniche,235,42.1,55.9,Downtown
+1/1/2025 21:10,4,Maadi Corniche,69,66.82,33.18,Maadi
+1/1/2025 21:10,5,Teseen Axis - New Cairo,203,43.49,55.51,Fifth Settlement
+1/1/2025 21:15,1,Salah Salem,103,61.74,37.26,Nasr City
+1/1/2025 21:15,2,Al Haram,87,30.01,72.99,Giza
+1/1/2025 21:15,3,Nile Corniche,222,25.58,75.42,Downtown
+1/1/2025 21:15,4,Maadi Corniche,120,48.86,48.14,Maadi
+1/1/2025 21:15,5,Teseen Axis - New Cairo,129,33.53,64.47,Fifth Settlement
+1/1/2025 21:20,1,Salah Salem,181,23.17,78.83,Nasr City
+1/1/2025 21:20,2,Al Haram,211,55.96,41.04,Giza
+1/1/2025 21:20,3,Nile Corniche,208,21.38,75.62,Downtown
+1/1/2025 21:20,4,Maadi Corniche,98,58.19,38.81,Maadi
+1/1/2025 21:20,5,Teseen Axis - New Cairo,199,61.72,42.28,Fifth Settlement
+1/1/2025 21:25,1,Salah Salem,166,67.32,29.68,Nasr City
+1/1/2025 21:25,2,Al Haram,225,42.41,58.59,Giza
+1/1/2025 21:25,3,Nile Corniche,162,46.04,49.96,Downtown
+1/1/2025 21:25,4,Maadi Corniche,112,33.24,69.76,Maadi
+1/1/2025 21:25,5,Teseen Axis - New Cairo,167,58.55,36.45,Fifth Settlement
+1/1/2025 21:30,1,Salah Salem,247,58.17,41.83,Nasr City
+1/1/2025 21:30,2,Al Haram,96,70.39,30.61,Giza
+1/1/2025 21:30,3,Nile Corniche,186,77.02,21.98,Downtown
+1/1/2025 21:30,4,Maadi Corniche,110,78.78,18.22,Maadi
+1/1/2025 21:30,5,Teseen Axis - New Cairo,156,21.45,78.55,Fifth Settlement
+1/1/2025 21:35,1,Salah Salem,247,51.08,45.92,Nasr City
+1/1/2025 21:35,2,Al Haram,196,35.56,68.44,Giza
+1/1/2025 21:35,3,Nile Corniche,118,70.52,28.48,Downtown
+1/1/2025 21:35,4,Maadi Corniche,98,46.11,52.89,Maadi
+1/1/2025 21:35,5,Teseen Axis - New Cairo,149,28.01,69.99,Fifth Settlement
+1/1/2025 21:40,1,Salah Salem,175,63.68,32.32,Nasr City
+1/1/2025 21:40,2,Al Haram,212,46.21,56.79,Giza
+1/1/2025 21:40,3,Nile Corniche,149,65.93,34.07,Downtown
+1/1/2025 21:40,4,Maadi Corniche,223,56.61,46.39,Maadi
+1/1/2025 21:40,5,Teseen Axis - New Cairo,80,75.36,27.64,Fifth Settlement
+1/1/2025 21:45,1,Salah Salem,85,20.8,81.2,Nasr City
+1/1/2025 21:45,2,Al Haram,157,22.68,77.32,Giza
+1/1/2025 21:45,3,Nile Corniche,184,34.82,67.18,Downtown
+1/1/2025 21:45,4,Maadi Corniche,187,36.32,63.68,Maadi
+1/1/2025 21:45,5,Teseen Axis - New Cairo,155,70.69,29.31,Fifth Settlement
+1/1/2025 21:50,1,Salah Salem,93,29.38,68.62,Nasr City
+1/1/2025 21:50,2,Al Haram,233,22.79,73.21,Giza
+1/1/2025 21:50,3,Nile Corniche,156,28.35,69.65,Downtown
+1/1/2025 21:50,4,Maadi Corniche,227,44.67,56.33,Maadi
+1/1/2025 21:50,5,Teseen Axis - New Cairo,119,73.99,22.01,Fifth Settlement
+1/1/2025 21:55,1,Salah Salem,209,59.83,38.17,Nasr City
+1/1/2025 21:55,2,Al Haram,192,72.93,26.07,Giza
+1/1/2025 21:55,3,Nile Corniche,219,69.67,32.33,Downtown
+1/1/2025 21:55,4,Maadi Corniche,177,57.47,41.53,Maadi
+1/1/2025 21:55,5,Teseen Axis - New Cairo,107,78.77,20.23,Fifth Settlement
+1/1/2025 22:00,1,Salah Salem,180,63.51,35.49,Nasr City
+1/1/2025 22:00,2,Al Haram,98,47.84,55.16,Giza
+1/1/2025 22:00,3,Nile Corniche,134,56.51,46.49,Downtown
+1/1/2025 22:00,4,Maadi Corniche,238,26.85,69.15,Maadi
+1/1/2025 22:00,5,Teseen Axis - New Cairo,166,33.52,70.48,Fifth Settlement
+1/1/2025 22:05,1,Salah Salem,120,61.03,33.97,Nasr City
+1/1/2025 22:05,2,Al Haram,130,78.83,17.17,Giza
+1/1/2025 22:05,3,Nile Corniche,77,63.37,39.63,Downtown
+1/1/2025 22:05,4,Maadi Corniche,216,62.47,32.53,Maadi
+1/1/2025 22:05,5,Teseen Axis - New Cairo,147,24.9,75.1,Fifth Settlement
+1/1/2025 22:10,1,Salah Salem,147,49.08,49.92,Nasr City
+1/1/2025 22:10,2,Al Haram,54,76.74,26.26,Giza
+1/1/2025 22:10,3,Nile Corniche,115,25.85,71.15,Downtown
+1/1/2025 22:10,4,Maadi Corniche,174,64.96,37.04,Maadi
+1/1/2025 22:10,5,Teseen Axis - New Cairo,217,26.72,77.28,Fifth Settlement
+1/1/2025 22:15,1,Salah Salem,148,23.12,71.88,Nasr City
+1/1/2025 22:15,2,Al Haram,241,40.39,58.61,Giza
+1/1/2025 22:15,3,Nile Corniche,69,52.69,45.31,Downtown
+1/1/2025 22:15,4,Maadi Corniche,159,65.25,36.75,Maadi
+1/1/2025 22:15,5,Teseen Axis - New Cairo,128,72.77,30.23,Fifth Settlement
+1/1/2025 22:20,1,Salah Salem,217,79.1,24.9,Nasr City
+1/1/2025 22:20,2,Al Haram,162,21.63,81.37,Giza
+1/1/2025 22:20,3,Nile Corniche,180,74.55,20.45,Downtown
+1/1/2025 22:20,4,Maadi Corniche,91,49.87,50.13,Maadi
+1/1/2025 22:20,5,Teseen Axis - New Cairo,216,59.41,43.59,Fifth Settlement
+1/1/2025 22:25,1,Salah Salem,172,42.83,54.17,Nasr City
+1/1/2025 22:25,2,Al Haram,246,77.87,24.13,Giza
+1/1/2025 22:25,3,Nile Corniche,61,51.4,50.6,Downtown
+1/1/2025 22:25,4,Maadi Corniche,90,54.66,44.34,Maadi
+1/1/2025 22:25,5,Teseen Axis - New Cairo,121,67.87,34.13,Fifth Settlement
+1/1/2025 22:30,1,Salah Salem,91,46.86,53.14,Nasr City
+1/1/2025 22:30,2,Al Haram,61,29.96,67.04,Giza
+1/1/2025 22:30,3,Nile Corniche,158,74.37,21.63,Downtown
+1/1/2025 22:30,4,Maadi Corniche,156,79.01,15.99,Maadi
+1/1/2025 22:30,5,Teseen Axis - New Cairo,178,22,80,Fifth Settlement
+1/1/2025 22:35,1,Salah Salem,150,63.96,35.04,Nasr City
+1/1/2025 22:35,2,Al Haram,53,67.92,32.08,Giza
+1/1/2025 22:35,3,Nile Corniche,68,72.94,28.06,Downtown
+1/1/2025 22:35,4,Maadi Corniche,65,79.3,21.7,Maadi
+1/1/2025 22:35,5,Teseen Axis - New Cairo,70,63.51,32.49,Fifth Settlement
+1/1/2025 22:40,1,Salah Salem,53,79.82,24.18,Nasr City
+1/1/2025 22:40,2,Al Haram,108,29.73,69.27,Giza
+1/1/2025 22:40,3,Nile Corniche,74,25.58,72.42,Downtown
+1/1/2025 22:40,4,Maadi Corniche,74,69.38,34.62,Maadi
+1/1/2025 22:40,5,Teseen Axis - New Cairo,175,42.74,54.26,Fifth Settlement
+1/1/2025 22:45,1,Salah Salem,238,40.21,62.79,Nasr City
+1/1/2025 22:45,2,Al Haram,165,75.09,24.91,Giza
+1/1/2025 22:45,3,Nile Corniche,109,38.86,57.14,Downtown
+1/1/2025 22:45,4,Maadi Corniche,224,59.1,43.9,Maadi
+1/1/2025 22:45,5,Teseen Axis - New Cairo,180,72.79,31.21,Fifth Settlement
+1/1/2025 22:50,1,Salah Salem,70,26.78,77.22,Nasr City
+1/1/2025 22:50,2,Al Haram,239,63.14,33.86,Giza
+1/1/2025 22:50,3,Nile Corniche,229,74.32,22.68,Downtown
+1/1/2025 22:50,4,Maadi Corniche,224,31.48,71.52,Maadi
+1/1/2025 22:50,5,Teseen Axis - New Cairo,72,57.26,42.74,Fifth Settlement
+1/1/2025 22:55,1,Salah Salem,66,70.49,26.51,Nasr City
+1/1/2025 22:55,2,Al Haram,82,27.58,68.42,Giza
+1/1/2025 22:55,3,Nile Corniche,115,38.9,63.1,Downtown
+1/1/2025 22:55,4,Maadi Corniche,205,60.9,39.1,Maadi
+1/1/2025 22:55,5,Teseen Axis - New Cairo,197,33.63,68.37,Fifth Settlement
+1/1/2025 23:00,1,Salah Salem,136,24.62,72.38,Nasr City
+1/1/2025 23:00,2,Al Haram,53,71.98,28.02,Giza
+1/1/2025 23:00,3,Nile Corniche,192,32.76,64.24,Downtown
+1/1/2025 23:00,4,Maadi Corniche,106,38.24,59.76,Maadi
+1/1/2025 23:00,5,Teseen Axis - New Cairo,191,74.22,20.78,Fifth Settlement
+1/1/2025 23:05,1,Salah Salem,88,68.44,27.56,Nasr City
+1/1/2025 23:05,2,Al Haram,164,74.43,26.57,Giza
+1/1/2025 23:05,3,Nile Corniche,236,26.66,75.34,Downtown
+1/1/2025 23:05,4,Maadi Corniche,95,47.62,50.38,Maadi
+1/1/2025 23:05,5,Teseen Axis - New Cairo,121,27.73,69.27,Fifth Settlement
+1/1/2025 23:10,1,Salah Salem,79,68.14,29.86,Nasr City
+1/1/2025 23:10,2,Al Haram,162,22.52,79.48,Giza
+1/1/2025 23:10,3,Nile Corniche,63,75.08,25.92,Downtown
+1/1/2025 23:10,4,Maadi Corniche,199,71.5,25.5,Maadi
+1/1/2025 23:10,5,Teseen Axis - New Cairo,159,74.65,29.35,Fifth Settlement
+1/1/2025 23:15,1,Salah Salem,68,68.29,29.71,Nasr City
+1/1/2025 23:15,2,Al Haram,222,77.77,25.23,Giza
+1/1/2025 23:15,3,Nile Corniche,173,69.76,27.24,Downtown
+1/1/2025 23:15,4,Maadi Corniche,224,46.99,55.01,Maadi
+1/1/2025 23:15,5,Teseen Axis - New Cairo,215,27.21,70.79,Fifth Settlement
+1/1/2025 23:20,1,Salah Salem,217,35.8,67.2,Nasr City
+1/1/2025 23:20,2,Al Haram,113,54.03,43.97,Giza
+1/1/2025 23:20,3,Nile Corniche,138,69.47,29.53,Downtown
+1/1/2025 23:20,4,Maadi Corniche,236,63.81,39.19,Maadi
+1/1/2025 23:20,5,Teseen Axis - New Cairo,245,23.87,78.13,Fifth Settlement
+1/1/2025 23:25,1,Salah Salem,51,60.07,39.93,Nasr City
+1/1/2025 23:25,2,Al Haram,218,79.34,21.66,Giza
+1/1/2025 23:25,3,Nile Corniche,65,34.37,60.63,Downtown
+1/1/2025 23:25,4,Maadi Corniche,225,22.08,74.92,Maadi
+1/1/2025 23:25,5,Teseen Axis - New Cairo,60,79.73,16.27,Fifth Settlement
+1/1/2025 23:30,1,Salah Salem,198,23.82,74.18,Nasr City
+1/1/2025 23:30,2,Al Haram,150,55.94,39.06,Giza
+1/1/2025 23:30,3,Nile Corniche,238,21.96,75.04,Downtown
+1/1/2025 23:30,4,Maadi Corniche,114,21.51,79.49,Maadi
+1/1/2025 23:30,5,Teseen Axis - New Cairo,224,24.93,75.07,Fifth Settlement
+1/1/2025 23:35,1,Salah Salem,125,47.87,55.13,Nasr City
+1/1/2025 23:35,2,Al Haram,196,73.55,26.45,Giza
+1/1/2025 23:35,3,Nile Corniche,70,57.88,40.12,Downtown
+1/1/2025 23:35,4,Maadi Corniche,206,58.38,42.62,Maadi
+1/1/2025 23:35,5,Teseen Axis - New Cairo,248,27.9,70.1,Fifth Settlement
+1/1/2025 23:40,1,Salah Salem,199,67.21,29.79,Nasr City
+1/1/2025 23:40,2,Al Haram,135,35.76,66.24,Giza
+1/1/2025 23:40,3,Nile Corniche,211,48.37,54.63,Downtown
+1/1/2025 23:40,4,Maadi Corniche,50,36.14,63.86,Maadi
+1/1/2025 23:40,5,Teseen Axis - New Cairo,55,73.49,22.51,Fifth Settlement
+1/1/2025 23:45,1,Salah Salem,194,22.39,77.61,Nasr City
+1/1/2025 23:45,2,Al Haram,76,28.4,75.6,Giza
+1/1/2025 23:45,3,Nile Corniche,242,47.03,47.97,Downtown
+1/1/2025 23:45,4,Maadi Corniche,148,31.77,65.23,Maadi
+1/1/2025 23:45,5,Teseen Axis - New Cairo,225,36.84,65.16,Fifth Settlement
+1/1/2025 23:50,1,Salah Salem,226,50.99,49.01,Nasr City
+1/1/2025 23:50,2,Al Haram,98,20.46,81.54,Giza
+1/1/2025 23:50,3,Nile Corniche,92,70.64,24.36,Downtown
+1/1/2025 23:50,4,Maadi Corniche,139,47.77,51.23,Maadi
+1/1/2025 23:50,5,Teseen Axis - New Cairo,226,33.11,70.89,Fifth Settlement
+1/1/2025 23:55,1,Salah Salem,156,22.66,80.34,Nasr City
+1/1/2025 23:55,2,Al Haram,58,69,26,Giza
+1/1/2025 23:55,3,Nile Corniche,90,69.09,29.91,Downtown
+1/1/2025 23:55,4,Maadi Corniche,100,72.79,28.21,Maadi
+1/1/2025 23:55,5,Teseen Axis - New Cairo,90,21.78,75.22,Fifth Settlement
+1/2/2025 0:00,1,Salah Salem,188,27.89,67.11,Nasr City
+1/2/2025 0:00,2,Al Haram,217,45.31,56.69,Giza
+1/2/2025 0:00,3,Nile Corniche,249,60.26,34.74,Downtown
+1/2/2025 0:00,4,Maadi Corniche,94,63.11,40.89,Maadi
+1/2/2025 0:00,5,Teseen Axis - New Cairo,246,20.09,80.91,Fifth Settlement
+1/2/2025 0:05,1,Salah Salem,207,35.46,65.54,Nasr City
+1/2/2025 0:05,2,Al Haram,226,56.23,39.77,Giza
+1/2/2025 0:05,3,Nile Corniche,195,26.87,68.13,Downtown
+1/2/2025 0:05,4,Maadi Corniche,176,59.76,39.24,Maadi
+1/2/2025 0:05,5,Teseen Axis - New Cairo,196,55.78,46.22,Fifth Settlement
+1/2/2025 0:10,1,Salah Salem,133,74.02,29.98,Nasr City
+1/2/2025 0:10,2,Al Haram,192,64.99,31.01,Giza
+1/2/2025 0:10,3,Nile Corniche,240,58.77,45.23,Downtown
+1/2/2025 0:10,4,Maadi Corniche,243,73.28,30.72,Maadi
+1/2/2025 0:10,5,Teseen Axis - New Cairo,191,58.17,41.83,Fifth Settlement
+1/2/2025 0:15,1,Salah Salem,170,29.26,67.74,Nasr City
+1/2/2025 0:15,2,Al Haram,133,58.27,40.73,Giza
+1/2/2025 0:15,3,Nile Corniche,51,51.8,45.2,Downtown
+1/2/2025 0:15,4,Maadi Corniche,193,79.48,16.52,Maadi
+1/2/2025 0:15,5,Teseen Axis - New Cairo,130,61.69,35.31,Fifth Settlement
+1/2/2025 0:20,1,Salah Salem,114,25.06,78.94,Nasr City
+1/2/2025 0:20,2,Al Haram,150,27.38,67.62,Giza
+1/2/2025 0:20,3,Nile Corniche,176,40.59,60.41,Downtown
+1/2/2025 0:20,4,Maadi Corniche,201,59.14,39.86,Maadi
+1/2/2025 0:20,5,Teseen Axis - New Cairo,231,71.11,26.89,Fifth Settlement
+1/2/2025 0:25,1,Salah Salem,148,24.66,78.34,Nasr City
+1/2/2025 0:25,2,Al Haram,230,71.7,24.3,Giza
+1/2/2025 0:25,3,Nile Corniche,81,69.35,33.65,Downtown
+1/2/2025 0:25,4,Maadi Corniche,112,25.93,78.07,Maadi
+1/2/2025 0:25,5,Teseen Axis - New Cairo,106,21.65,73.35,Fifth Settlement
+1/2/2025 0:30,1,Salah Salem,201,42.47,59.53,Nasr City
+1/2/2025 0:30,2,Al Haram,205,45.83,52.17,Giza
+1/2/2025 0:30,3,Nile Corniche,214,73.41,21.59,Downtown
+1/2/2025 0:30,4,Maadi Corniche,96,29.27,74.73,Maadi
+1/2/2025 0:30,5,Teseen Axis - New Cairo,237,42.73,54.27,Fifth Settlement
+1/2/2025 0:35,1,Salah Salem,220,43.15,51.85,Nasr City
+1/2/2025 0:35,2,Al Haram,162,60.63,38.37,Giza
+1/2/2025 0:35,3,Nile Corniche,185,41.88,56.12,Downtown
+1/2/2025 0:35,4,Maadi Corniche,233,79.28,15.72,Maadi
+1/2/2025 0:35,5,Teseen Axis - New Cairo,80,61.3,34.7,Fifth Settlement
+1/2/2025 0:40,1,Salah Salem,118,33.71,68.29,Nasr City
+1/2/2025 0:40,2,Al Haram,236,51.91,46.09,Giza
+1/2/2025 0:40,3,Nile Corniche,203,22.34,77.66,Downtown
+1/2/2025 0:40,4,Maadi Corniche,156,43.28,60.72,Maadi
+1/2/2025 0:40,5,Teseen Axis - New Cairo,100,21.4,77.6,Fifth Settlement
+1/2/2025 0:45,1,Salah Salem,79,27.8,76.2,Nasr City
+1/2/2025 0:45,2,Al Haram,174,42.22,56.78,Giza
+1/2/2025 0:45,3,Nile Corniche,84,73.3,24.7,Downtown
+1/2/2025 0:45,4,Maadi Corniche,67,69.6,25.4,Maadi
+1/2/2025 0:45,5,Teseen Axis - New Cairo,78,37.3,60.7,Fifth Settlement
+1/2/2025 0:50,1,Salah Salem,194,43.13,56.87,Nasr City
+1/2/2025 0:50,2,Al Haram,117,78.81,24.19,Giza
+1/2/2025 0:50,3,Nile Corniche,98,51.94,48.06,Downtown
+1/2/2025 0:50,4,Maadi Corniche,102,70.02,26.98,Maadi
+1/2/2025 0:50,5,Teseen Axis - New Cairo,180,38.14,58.86,Fifth Settlement
+1/2/2025 0:55,1,Salah Salem,134,40.55,58.45,Nasr City
+1/2/2025 0:55,2,Al Haram,93,69.84,28.16,Giza
+1/2/2025 0:55,3,Nile Corniche,178,54.83,47.17,Downtown
+1/2/2025 0:55,4,Maadi Corniche,174,46.64,49.36,Maadi
+1/2/2025 0:55,5,Teseen Axis - New Cairo,188,32.44,62.56,Fifth Settlement
+1/2/2025 1:00,1,Salah Salem,148,72.82,29.18,Nasr City
+1/2/2025 1:00,2,Al Haram,201,57.24,41.76,Giza
+1/2/2025 1:00,3,Nile Corniche,134,28.88,70.12,Downtown
+1/2/2025 1:00,4,Maadi Corniche,194,62.65,37.35,Maadi
+1/2/2025 1:00,5,Teseen Axis - New Cairo,196,27.94,71.06,Fifth Settlement
+1/2/2025 1:05,1,Salah Salem,147,63.33,36.67,Nasr City
+1/2/2025 1:05,2,Al Haram,198,64.75,36.25,Giza
+1/2/2025 1:05,3,Nile Corniche,54,67.65,30.35,Downtown
+1/2/2025 1:05,4,Maadi Corniche,218,72.63,27.37,Maadi
+1/2/2025 1:05,5,Teseen Axis - New Cairo,66,76.95,27.05,Fifth Settlement
+1/2/2025 1:10,1,Salah Salem,97,25.62,72.38,Nasr City
+1/2/2025 1:10,2,Al Haram,145,49.52,51.48,Giza
+1/2/2025 1:10,3,Nile Corniche,151,51.35,50.65,Downtown
+1/2/2025 1:10,4,Maadi Corniche,200,43.19,59.81,Maadi
+1/2/2025 1:10,5,Teseen Axis - New Cairo,228,73.67,22.33,Fifth Settlement
+1/2/2025 1:15,1,Salah Salem,141,69.65,28.35,Nasr City
+1/2/2025 1:15,2,Al Haram,184,77.36,25.64,Giza
+1/2/2025 1:15,3,Nile Corniche,121,71.24,23.76,Downtown
+1/2/2025 1:15,4,Maadi Corniche,130,70.82,31.18,Maadi
+1/2/2025 1:15,5,Teseen Axis - New Cairo,196,38.71,58.29,Fifth Settlement
+1/2/2025 1:20,1,Salah Salem,236,21.85,79.15,Nasr City
+1/2/2025 1:20,2,Al Haram,163,48.61,51.39,Giza
+1/2/2025 1:20,3,Nile Corniche,220,72.32,31.68,Downtown
+1/2/2025 1:20,4,Maadi Corniche,91,57.95,41.05,Maadi
+1/2/2025 1:20,5,Teseen Axis - New Cairo,243,40,57,Fifth Settlement
+1/2/2025 1:25,1,Salah Salem,233,51.71,45.29,Nasr City
+1/2/2025 1:25,2,Al Haram,68,32.04,71.96,Giza
+1/2/2025 1:25,3,Nile Corniche,162,25.39,75.61,Downtown
+1/2/2025 1:25,4,Maadi Corniche,116,64.27,38.73,Maadi
+1/2/2025 1:25,5,Teseen Axis - New Cairo,86,64.43,34.57,Fifth Settlement
+1/2/2025 1:30,1,Salah Salem,190,65.21,33.79,Nasr City
+1/2/2025 1:30,2,Al Haram,237,59.51,35.49,Giza
+1/2/2025 1:30,3,Nile Corniche,213,62,40,Downtown
+1/2/2025 1:30,4,Maadi Corniche,72,49.26,48.74,Maadi
+1/2/2025 1:30,5,Teseen Axis - New Cairo,207,21.47,75.53,Fifth Settlement
+1/2/2025 1:35,1,Salah Salem,121,26.66,69.34,Nasr City
+1/2/2025 1:35,2,Al Haram,94,77.31,22.69,Giza
+1/2/2025 1:35,3,Nile Corniche,65,60.9,34.1,Downtown
+1/2/2025 1:35,4,Maadi Corniche,168,70.52,29.48,Maadi
+1/2/2025 1:35,5,Teseen Axis - New Cairo,237,28.71,75.29,Fifth Settlement
+1/2/2025 1:40,1,Salah Salem,62,60.01,35.99,Nasr City
+1/2/2025 1:40,2,Al Haram,88,44.08,56.92,Giza
+1/2/2025 1:40,3,Nile Corniche,169,44.31,55.69,Downtown
+1/2/2025 1:40,4,Maadi Corniche,102,70.53,24.47,Maadi
+1/2/2025 1:40,5,Teseen Axis - New Cairo,207,78.74,20.26,Fifth Settlement
+1/2/2025 1:45,1,Salah Salem,196,41.47,61.53,Nasr City
+1/2/2025 1:45,2,Al Haram,74,27.38,67.62,Giza
+1/2/2025 1:45,3,Nile Corniche,232,50.19,53.81,Downtown
+1/2/2025 1:45,4,Maadi Corniche,59,69.29,30.71,Maadi
+1/2/2025 1:45,5,Teseen Axis - New Cairo,101,58.23,37.77,Fifth Settlement
+1/2/2025 1:50,1,Salah Salem,63,47.79,50.21,Nasr City
+1/2/2025 1:50,2,Al Haram,102,68.24,31.76,Giza
+1/2/2025 1:50,3,Nile Corniche,79,51.21,49.79,Downtown
+1/2/2025 1:50,4,Maadi Corniche,57,36.28,64.72,Maadi
+1/2/2025 1:50,5,Teseen Axis - New Cairo,208,37.06,58.94,Fifth Settlement
+1/2/2025 1:55,1,Salah Salem,147,63.3,39.7,Nasr City
+1/2/2025 1:55,2,Al Haram,98,39.06,55.94,Giza
+1/2/2025 1:55,3,Nile Corniche,142,22.81,77.19,Downtown
+1/2/2025 1:55,4,Maadi Corniche,87,73.74,28.26,Maadi
+1/2/2025 1:55,5,Teseen Axis - New Cairo,99,48.02,51.98,Fifth Settlement
+1/2/2025 2:00,1,Salah Salem,118,76.43,26.57,Nasr City
+1/2/2025 2:00,2,Al Haram,114,27.8,75.2,Giza
+1/2/2025 2:00,3,Nile Corniche,204,71.99,26.01,Downtown
+1/2/2025 2:00,4,Maadi Corniche,149,74.43,22.57,Maadi
+1/2/2025 2:00,5,Teseen Axis - New Cairo,190,45.34,54.66,Fifth Settlement
+1/2/2025 2:05,1,Salah Salem,161,76.18,20.82,Nasr City
+1/2/2025 2:05,2,Al Haram,214,26.96,74.04,Giza
+1/2/2025 2:05,3,Nile Corniche,206,43.26,59.74,Downtown
+1/2/2025 2:05,4,Maadi Corniche,169,60.55,40.45,Maadi
+1/2/2025 2:05,5,Teseen Axis - New Cairo,198,72.53,26.47,Fifth Settlement
+1/2/2025 2:10,1,Salah Salem,210,36.71,58.29,Nasr City
+1/2/2025 2:10,2,Al Haram,245,62.15,40.85,Giza
+1/2/2025 2:10,3,Nile Corniche,70,48.52,48.48,Downtown
+1/2/2025 2:10,4,Maadi Corniche,189,79.97,15.03,Maadi
+1/2/2025 2:10,5,Teseen Axis - New Cairo,150,49.91,51.09,Fifth Settlement
+1/2/2025 2:15,1,Salah Salem,77,71.95,25.05,Nasr City
+1/2/2025 2:15,2,Al Haram,96,26.66,70.34,Giza
+1/2/2025 2:15,3,Nile Corniche,154,23.14,79.86,Downtown
+1/2/2025 2:15,4,Maadi Corniche,62,44.99,53.01,Maadi
+1/2/2025 2:15,5,Teseen Axis - New Cairo,80,63.18,39.82,Fifth Settlement
+1/2/2025 2:20,1,Salah Salem,122,72.19,27.81,Nasr City
+1/2/2025 2:20,2,Al Haram,233,58.86,39.14,Giza
+1/2/2025 2:20,3,Nile Corniche,158,65.24,30.76,Downtown
+1/2/2025 2:20,4,Maadi Corniche,186,28.2,72.8,Maadi
+1/2/2025 2:20,5,Teseen Axis - New Cairo,85,64.32,35.68,Fifth Settlement
+1/2/2025 2:25,1,Salah Salem,221,43.71,58.29,Nasr City
+1/2/2025 2:25,2,Al Haram,103,31.95,66.05,Giza
+1/2/2025 2:25,3,Nile Corniche,70,37.24,59.76,Downtown
+1/2/2025 2:25,4,Maadi Corniche,62,23.49,76.51,Maadi
+1/2/2025 2:25,5,Teseen Axis - New Cairo,103,50.95,48.05,Fifth Settlement
+1/2/2025 2:30,1,Salah Salem,123,20.88,78.12,Nasr City
+1/2/2025 2:30,2,Al Haram,151,40.24,59.76,Giza
+1/2/2025 2:30,3,Nile Corniche,130,27.46,76.54,Downtown
+1/2/2025 2:30,4,Maadi Corniche,212,49.57,50.43,Maadi
+1/2/2025 2:30,5,Teseen Axis - New Cairo,66,74.36,23.64,Fifth Settlement
+1/2/2025 2:35,1,Salah Salem,73,63.49,39.51,Nasr City
+1/2/2025 2:35,2,Al Haram,171,51.14,48.86,Giza
+1/2/2025 2:35,3,Nile Corniche,114,38.71,56.29,Downtown
+1/2/2025 2:35,4,Maadi Corniche,153,27.89,72.11,Maadi
+1/2/2025 2:35,5,Teseen Axis - New Cairo,230,24.58,78.42,Fifth Settlement
+1/2/2025 2:40,1,Salah Salem,211,30.9,70.1,Nasr City
+1/2/2025 2:40,2,Al Haram,202,66.39,37.61,Giza
+1/2/2025 2:40,3,Nile Corniche,56,40.89,58.11,Downtown
+1/2/2025 2:40,4,Maadi Corniche,184,72.76,24.24,Maadi
+1/2/2025 2:40,5,Teseen Axis - New Cairo,209,73.91,21.09,Fifth Settlement
+1/2/2025 2:45,1,Salah Salem,249,32.43,65.57,Nasr City
+1/2/2025 2:45,2,Al Haram,153,23.94,79.06,Giza
+1/2/2025 2:45,3,Nile Corniche,206,34.8,66.2,Downtown
+1/2/2025 2:45,4,Maadi Corniche,221,23.47,80.53,Maadi
+1/2/2025 2:45,5,Teseen Axis - New Cairo,153,76.56,22.44,Fifth Settlement
+1/2/2025 2:50,1,Salah Salem,105,79.48,16.52,Nasr City
+1/2/2025 2:50,2,Al Haram,124,77.77,22.23,Giza
+1/2/2025 2:50,3,Nile Corniche,66,33.52,67.48,Downtown
+1/2/2025 2:50,4,Maadi Corniche,155,73.76,29.24,Maadi
+1/2/2025 2:50,5,Teseen Axis - New Cairo,187,38.91,58.09,Fifth Settlement
+1/2/2025 2:55,1,Salah Salem,60,78.9,23.1,Nasr City
+1/2/2025 2:55,2,Al Haram,153,74.39,20.61,Giza
+1/2/2025 2:55,3,Nile Corniche,98,76.84,23.16,Downtown
+1/2/2025 2:55,4,Maadi Corniche,231,48.2,54.8,Maadi
+1/2/2025 2:55,5,Teseen Axis - New Cairo,223,23.73,71.27,Fifth Settlement
+1/2/2025 3:00,1,Salah Salem,163,20.47,77.53,Nasr City
+1/2/2025 3:00,2,Al Haram,154,46.86,53.14,Giza
+1/2/2025 3:00,3,Nile Corniche,210,77.48,18.52,Downtown
+1/2/2025 3:00,4,Maadi Corniche,64,41.26,62.74,Maadi
+1/2/2025 3:00,5,Teseen Axis - New Cairo,70,77.74,22.26,Fifth Settlement
+1/2/2025 3:05,1,Salah Salem,87,75.72,20.28,Nasr City
+1/2/2025 3:05,2,Al Haram,127,52.79,44.21,Giza
+1/2/2025 3:05,3,Nile Corniche,55,46.73,48.27,Downtown
+1/2/2025 3:05,4,Maadi Corniche,124,67.59,32.41,Maadi
+1/2/2025 3:05,5,Teseen Axis - New Cairo,218,31.82,65.18,Fifth Settlement
+1/2/2025 3:10,1,Salah Salem,97,44.4,59.6,Nasr City
+1/2/2025 3:10,2,Al Haram,239,54.17,44.83,Giza
+1/2/2025 3:10,3,Nile Corniche,138,75.16,25.84,Downtown
+1/2/2025 3:10,4,Maadi Corniche,104,32.84,63.16,Maadi
+1/2/2025 3:10,5,Teseen Axis - New Cairo,203,20.85,76.15,Fifth Settlement
+1/2/2025 3:15,1,Salah Salem,78,74.47,21.53,Nasr City
+1/2/2025 3:15,2,Al Haram,66,77.61,21.39,Giza
+1/2/2025 3:15,3,Nile Corniche,129,78.64,22.36,Downtown
+1/2/2025 3:15,4,Maadi Corniche,57,29.7,72.3,Maadi
+1/2/2025 3:15,5,Teseen Axis - New Cairo,145,38.6,56.4,Fifth Settlement
+1/2/2025 3:20,1,Salah Salem,220,60,38,Nasr City
+1/2/2025 3:20,2,Al Haram,137,65.81,34.19,Giza
+1/2/2025 3:20,3,Nile Corniche,93,20.73,83.27,Downtown
+1/2/2025 3:20,4,Maadi Corniche,85,41.42,62.58,Maadi
+1/2/2025 3:20,5,Teseen Axis - New Cairo,220,22.76,81.24,Fifth Settlement
+1/2/2025 3:25,1,Salah Salem,153,70.88,31.12,Nasr City
+1/2/2025 3:25,2,Al Haram,225,25.72,73.28,Giza
+1/2/2025 3:25,3,Nile Corniche,204,21.75,75.25,Downtown
+1/2/2025 3:25,4,Maadi Corniche,157,59.75,44.25,Maadi
+1/2/2025 3:25,5,Teseen Axis - New Cairo,58,29.23,71.77,Fifth Settlement
+1/2/2025 3:30,1,Salah Salem,204,77.29,17.71,Nasr City
+1/2/2025 3:30,2,Al Haram,209,50.76,50.24,Giza
+1/2/2025 3:30,3,Nile Corniche,116,43.55,55.45,Downtown
+1/2/2025 3:30,4,Maadi Corniche,143,75.11,19.89,Maadi
+1/2/2025 3:30,5,Teseen Axis - New Cairo,152,54.63,40.37,Fifth Settlement
+1/2/2025 3:35,1,Salah Salem,67,79.55,18.45,Nasr City
+1/2/2025 3:35,2,Al Haram,230,41.51,56.49,Giza
+1/2/2025 3:35,3,Nile Corniche,242,34.42,69.58,Downtown
+1/2/2025 3:35,4,Maadi Corniche,203,75.09,22.91,Maadi
+1/2/2025 3:35,5,Teseen Axis - New Cairo,136,50.36,52.64,Fifth Settlement
+1/2/2025 3:40,1,Salah Salem,154,33.72,61.28,Nasr City
+1/2/2025 3:40,2,Al Haram,194,28.89,73.11,Giza
+1/2/2025 3:40,3,Nile Corniche,218,77.03,21.97,Downtown
+1/2/2025 3:40,4,Maadi Corniche,188,53.8,45.2,Maadi
+1/2/2025 3:40,5,Teseen Axis - New Cairo,148,39.58,57.42,Fifth Settlement
+1/2/2025 3:45,1,Salah Salem,196,28.63,72.37,Nasr City
+1/2/2025 3:45,2,Al Haram,96,74.23,29.77,Giza
+1/2/2025 3:45,3,Nile Corniche,89,44.06,53.94,Downtown
+1/2/2025 3:45,4,Maadi Corniche,72,48.58,47.42,Maadi
+1/2/2025 3:45,5,Teseen Axis - New Cairo,165,32.27,69.73,Fifth Settlement
+1/2/2025 3:50,1,Salah Salem,90,37.74,63.26,Nasr City
+1/2/2025 3:50,2,Al Haram,95,32.42,70.58,Giza
+1/2/2025 3:50,3,Nile Corniche,117,37.71,59.29,Downtown
+1/2/2025 3:50,4,Maadi Corniche,214,47.6,54.4,Maadi
+1/2/2025 3:50,5,Teseen Axis - New Cairo,76,70.15,27.85,Fifth Settlement
+1/2/2025 3:55,1,Salah Salem,73,41.16,56.84,Nasr City
+1/2/2025 3:55,2,Al Haram,116,50.94,44.06,Giza
+1/2/2025 3:55,3,Nile Corniche,230,36.95,64.05,Downtown
+1/2/2025 3:55,4,Maadi Corniche,158,22.25,76.75,Maadi
+1/2/2025 3:55,5,Teseen Axis - New Cairo,111,51.92,51.08,Fifth Settlement
+1/2/2025 4:00,1,Salah Salem,237,51.35,47.65,Nasr City
+1/2/2025 4:00,2,Al Haram,106,78.38,22.62,Giza
+1/2/2025 4:00,3,Nile Corniche,152,38.25,59.75,Downtown
+1/2/2025 4:00,4,Maadi Corniche,52,72.96,27.04,Maadi
+1/2/2025 4:00,5,Teseen Axis - New Cairo,96,31.47,68.53,Fifth Settlement
+1/2/2025 4:05,1,Salah Salem,213,64.51,34.49,Nasr City
+1/2/2025 4:05,2,Al Haram,190,45.36,50.64,Giza
+1/2/2025 4:05,3,Nile Corniche,79,39.52,63.48,Downtown
+1/2/2025 4:05,4,Maadi Corniche,161,69.01,33.99,Maadi
+1/2/2025 4:05,5,Teseen Axis - New Cairo,175,40.22,59.78,Fifth Settlement
+1/2/2025 4:10,1,Salah Salem,88,33.23,66.77,Nasr City
+1/2/2025 4:10,2,Al Haram,103,55.44,39.56,Giza
+1/2/2025 4:10,3,Nile Corniche,65,24.71,79.29,Downtown
+1/2/2025 4:10,4,Maadi Corniche,81,30.04,72.96,Maadi
+1/2/2025 4:10,5,Teseen Axis - New Cairo,188,57.71,42.29,Fifth Settlement
+1/2/2025 4:15,1,Salah Salem,66,56.09,41.91,Nasr City
+1/2/2025 4:15,2,Al Haram,160,62.87,36.13,Giza
+1/2/2025 4:15,3,Nile Corniche,150,26.15,68.85,Downtown
+1/2/2025 4:15,4,Maadi Corniche,240,50.53,47.47,Maadi
+1/2/2025 4:15,5,Teseen Axis - New Cairo,130,75.98,26.02,Fifth Settlement
+1/2/2025 4:20,1,Salah Salem,243,61.83,39.17,Nasr City
+1/2/2025 4:20,2,Al Haram,172,68.21,32.79,Giza
+1/2/2025 4:20,3,Nile Corniche,171,63.74,39.26,Downtown
+1/2/2025 4:20,4,Maadi Corniche,130,21.85,81.15,Maadi
+1/2/2025 4:20,5,Teseen Axis - New Cairo,122,40.72,59.28,Fifth Settlement
+1/2/2025 4:25,1,Salah Salem,133,78.71,18.29,Nasr City
+1/2/2025 4:25,2,Al Haram,130,62.07,38.93,Giza
+1/2/2025 4:25,3,Nile Corniche,241,49.78,47.22,Downtown
+1/2/2025 4:25,4,Maadi Corniche,64,50.4,47.6,Maadi
+1/2/2025 4:25,5,Teseen Axis - New Cairo,195,20.96,77.04,Fifth Settlement
+1/2/2025 4:30,1,Salah Salem,212,20.69,83.31,Nasr City
+1/2/2025 4:30,2,Al Haram,82,78.22,22.78,Giza
+1/2/2025 4:30,3,Nile Corniche,181,53.54,43.46,Downtown
+1/2/2025 4:30,4,Maadi Corniche,183,52.79,42.21,Maadi
+1/2/2025 4:30,5,Teseen Axis - New Cairo,217,23.1,71.9,Fifth Settlement
+1/2/2025 4:35,1,Salah Salem,246,63.11,36.89,Nasr City
+1/2/2025 4:35,2,Al Haram,62,77.69,19.31,Giza
+1/2/2025 4:35,3,Nile Corniche,196,43.79,60.21,Downtown
+1/2/2025 4:35,4,Maadi Corniche,138,29.44,68.56,Maadi
+1/2/2025 4:35,5,Teseen Axis - New Cairo,221,37.4,64.6,Fifth Settlement
+1/2/2025 4:40,1,Salah Salem,71,60.36,38.64,Nasr City
+1/2/2025 4:40,2,Al Haram,121,35.03,66.97,Giza
+1/2/2025 4:40,3,Nile Corniche,168,54.3,46.7,Downtown
+1/2/2025 4:40,4,Maadi Corniche,132,57.68,40.32,Maadi
+1/2/2025 4:40,5,Teseen Axis - New Cairo,121,23.11,71.89,Fifth Settlement
+1/2/2025 4:45,1,Salah Salem,61,37.26,61.74,Nasr City
+1/2/2025 4:45,2,Al Haram,76,44.7,55.3,Giza
+1/2/2025 4:45,3,Nile Corniche,146,45.83,53.17,Downtown
+1/2/2025 4:45,4,Maadi Corniche,167,34.83,60.17,Maadi
+1/2/2025 4:45,5,Teseen Axis - New Cairo,111,25.04,77.96,Fifth Settlement
+1/2/2025 4:50,1,Salah Salem,68,60.65,35.35,Nasr City
+1/2/2025 4:50,2,Al Haram,96,42.89,52.11,Giza
+1/2/2025 4:50,3,Nile Corniche,190,67.09,33.91,Downtown
+1/2/2025 4:50,4,Maadi Corniche,128,26.97,74.03,Maadi
+1/2/2025 4:50,5,Teseen Axis - New Cairo,196,67.12,34.88,Fifth Settlement
+1/2/2025 4:55,1,Salah Salem,197,36.67,59.33,Nasr City
+1/2/2025 4:55,2,Al Haram,112,45.92,57.08,Giza
+1/2/2025 4:55,3,Nile Corniche,185,24.05,79.95,Downtown
+1/2/2025 4:55,4,Maadi Corniche,66,26.19,77.81,Maadi
+1/2/2025 4:55,5,Teseen Axis - New Cairo,118,78.74,24.26,Fifth Settlement
+1/2/2025 5:00,1,Salah Salem,246,31.39,66.61,Nasr City
+1/2/2025 5:00,2,Al Haram,218,32.27,62.73,Giza
+1/2/2025 5:00,3,Nile Corniche,120,35.86,68.14,Downtown
+1/2/2025 5:00,4,Maadi Corniche,147,48.98,47.02,Maadi
+1/2/2025 5:00,5,Teseen Axis - New Cairo,173,52.98,47.02,Fifth Settlement
+1/2/2025 5:05,1,Salah Salem,71,28.64,72.36,Nasr City
+1/2/2025 5:05,2,Al Haram,88,30.33,69.67,Giza
+1/2/2025 5:05,3,Nile Corniche,69,37.84,62.16,Downtown
+1/2/2025 5:05,4,Maadi Corniche,197,55.94,42.06,Maadi
+1/2/2025 5:05,5,Teseen Axis - New Cairo,160,53.2,45.8,Fifth Settlement
+1/2/2025 5:10,1,Salah Salem,83,62.23,37.77,Nasr City
+1/2/2025 5:10,2,Al Haram,76,60.56,34.44,Giza
+1/2/2025 5:10,3,Nile Corniche,145,56.6,46.4,Downtown
+1/2/2025 5:10,4,Maadi Corniche,236,36.27,59.73,Maadi
+1/2/2025 5:10,5,Teseen Axis - New Cairo,206,30.44,66.56,Fifth Settlement
+1/2/2025 5:15,1,Salah Salem,203,46.95,52.05,Nasr City
+1/2/2025 5:15,2,Al Haram,128,32.79,64.21,Giza
+1/2/2025 5:15,3,Nile Corniche,97,20.4,81.6,Downtown
+1/2/2025 5:15,4,Maadi Corniche,71,57.51,45.49,Maadi
+1/2/2025 5:15,5,Teseen Axis - New Cairo,77,57.65,40.35,Fifth Settlement
+1/2/2025 5:20,1,Salah Salem,56,35.19,62.81,Nasr City
+1/2/2025 5:20,2,Al Haram,132,77.45,20.55,Giza
+1/2/2025 5:20,3,Nile Corniche,122,70.39,33.61,Downtown
+1/2/2025 5:20,4,Maadi Corniche,209,60.35,39.65,Maadi
+1/2/2025 5:20,5,Teseen Axis - New Cairo,194,49.88,50.12,Fifth Settlement
+1/2/2025 5:25,1,Salah Salem,227,25.56,73.44,Nasr City
+1/2/2025 5:25,2,Al Haram,176,68.43,29.57,Giza
+1/2/2025 5:25,3,Nile Corniche,142,50.76,53.24,Downtown
+1/2/2025 5:25,4,Maadi Corniche,196,55.37,39.63,Maadi
+1/2/2025 5:25,5,Teseen Axis - New Cairo,92,58.26,45.74,Fifth Settlement
+1/2/2025 5:30,1,Salah Salem,227,62.84,39.16,Nasr City
+1/2/2025 5:30,2,Al Haram,88,31.96,69.04,Giza
+1/2/2025 5:30,3,Nile Corniche,160,64.32,30.68,Downtown
+1/2/2025 5:30,4,Maadi Corniche,159,36.25,59.75,Maadi
+1/2/2025 5:30,5,Teseen Axis - New Cairo,89,41.29,54.71,Fifth Settlement
+1/2/2025 5:35,1,Salah Salem,244,32.92,62.08,Nasr City
+1/2/2025 5:35,2,Al Haram,124,55.69,45.31,Giza
+1/2/2025 5:35,3,Nile Corniche,187,73.1,23.9,Downtown
+1/2/2025 5:35,4,Maadi Corniche,213,75.96,26.04,Maadi
+1/2/2025 5:35,5,Teseen Axis - New Cairo,223,43.85,56.15,Fifth Settlement
+1/2/2025 5:40,1,Salah Salem,114,35.2,66.8,Nasr City
+1/2/2025 5:40,2,Al Haram,228,66.24,28.76,Giza
+1/2/2025 5:40,3,Nile Corniche,122,32.37,70.63,Downtown
+1/2/2025 5:40,4,Maadi Corniche,88,36.13,58.87,Maadi
+1/2/2025 5:40,5,Teseen Axis - New Cairo,231,71.59,24.41,Fifth Settlement
+1/2/2025 5:45,1,Salah Salem,105,67.24,28.76,Nasr City
+1/2/2025 5:45,2,Al Haram,238,72.42,27.58,Giza
+1/2/2025 5:45,3,Nile Corniche,217,46.55,52.45,Downtown
+1/2/2025 5:45,4,Maadi Corniche,128,23.84,72.16,Maadi
+1/2/2025 5:45,5,Teseen Axis - New Cairo,112,37.54,66.46,Fifth Settlement
+1/2/2025 5:50,1,Salah Salem,234,32.07,67.93,Nasr City
+1/2/2025 5:50,2,Al Haram,184,23.37,76.63,Giza
+1/2/2025 5:50,3,Nile Corniche,137,75.63,19.37,Downtown
+1/2/2025 5:50,4,Maadi Corniche,104,62.78,37.22,Maadi
+1/2/2025 5:50,5,Teseen Axis - New Cairo,170,35.61,64.39,Fifth Settlement
+1/2/2025 5:55,1,Salah Salem,134,29.63,69.37,Nasr City
+1/2/2025 5:55,2,Al Haram,141,59.85,41.15,Giza
+1/2/2025 5:55,3,Nile Corniche,244,68.85,29.15,Downtown
+1/2/2025 5:55,4,Maadi Corniche,132,26.63,72.37,Maadi
+1/2/2025 5:55,5,Teseen Axis - New Cairo,178,38.59,63.41,Fifth Settlement
+1/2/2025 6:00,1,Salah Salem,72,35.29,68.71,Nasr City
+1/2/2025 6:00,2,Al Haram,101,72.36,28.64,Giza
+1/2/2025 6:00,3,Nile Corniche,95,74.83,24.17,Downtown
+1/2/2025 6:00,4,Maadi Corniche,85,57.93,37.07,Maadi
+1/2/2025 6:00,5,Teseen Axis - New Cairo,155,36.29,58.71,Fifth Settlement
+1/2/2025 6:05,1,Salah Salem,162,26.15,76.85,Nasr City
+1/2/2025 6:05,2,Al Haram,55,53.2,43.8,Giza
+1/2/2025 6:05,3,Nile Corniche,88,31.63,68.37,Downtown
+1/2/2025 6:05,4,Maadi Corniche,54,60.62,34.38,Maadi
+1/2/2025 6:05,5,Teseen Axis - New Cairo,125,71.53,25.47,Fifth Settlement
+1/2/2025 6:10,1,Salah Salem,207,46.35,53.65,Nasr City
+1/2/2025 6:10,2,Al Haram,78,47.55,53.45,Giza
+1/2/2025 6:10,3,Nile Corniche,190,63.32,34.68,Downtown
+1/2/2025 6:10,4,Maadi Corniche,161,27.05,67.95,Maadi
+1/2/2025 6:10,5,Teseen Axis - New Cairo,153,71.78,27.22,Fifth Settlement
+1/2/2025 6:15,1,Salah Salem,183,67.37,32.63,Nasr City
+1/2/2025 6:15,2,Al Haram,82,40.71,63.29,Giza
+1/2/2025 6:15,3,Nile Corniche,171,41.26,55.74,Downtown
+1/2/2025 6:15,4,Maadi Corniche,213,27.1,76.9,Maadi
+1/2/2025 6:15,5,Teseen Axis - New Cairo,77,38.66,62.34,Fifth Settlement
+1/2/2025 6:20,1,Salah Salem,96,43.46,53.54,Nasr City
+1/2/2025 6:20,2,Al Haram,167,33.17,68.83,Giza
+1/2/2025 6:20,3,Nile Corniche,121,79.17,23.83,Downtown
+1/2/2025 6:20,4,Maadi Corniche,224,65.23,29.77,Maadi
+1/2/2025 6:20,5,Teseen Axis - New Cairo,68,60.74,41.26,Fifth Settlement
+1/2/2025 6:25,1,Salah Salem,224,65.22,30.78,Nasr City
+1/2/2025 6:25,2,Al Haram,147,44.72,55.28,Giza
+1/2/2025 6:25,3,Nile Corniche,178,57.89,37.11,Downtown
+1/2/2025 6:25,4,Maadi Corniche,113,75.99,25.01,Maadi
+1/2/2025 6:25,5,Teseen Axis - New Cairo,177,78.83,16.17,Fifth Settlement
+1/2/2025 6:30,1,Salah Salem,120,26.86,77.14,Nasr City
+1/2/2025 6:30,2,Al Haram,98,60.73,43.27,Giza
+1/2/2025 6:30,3,Nile Corniche,98,77.09,17.91,Downtown
+1/2/2025 6:30,4,Maadi Corniche,111,67.57,35.43,Maadi
+1/2/2025 6:30,5,Teseen Axis - New Cairo,180,53.64,45.36,Fifth Settlement
+1/2/2025 6:35,1,Salah Salem,209,62.88,40.12,Nasr City
+1/2/2025 6:35,2,Al Haram,103,63.41,38.59,Giza
+1/2/2025 6:35,3,Nile Corniche,105,70.17,32.83,Downtown
+1/2/2025 6:35,4,Maadi Corniche,135,70.6,26.4,Maadi
+1/2/2025 6:35,5,Teseen Axis - New Cairo,157,40.02,62.98,Fifth Settlement
+1/2/2025 6:40,1,Salah Salem,248,47.08,49.92,Nasr City
+1/2/2025 6:40,2,Al Haram,196,71.3,25.7,Giza
+1/2/2025 6:40,3,Nile Corniche,188,24.54,78.46,Downtown
+1/2/2025 6:40,4,Maadi Corniche,195,74.11,21.89,Maadi
+1/2/2025 6:40,5,Teseen Axis - New Cairo,185,72.64,30.36,Fifth Settlement
+1/2/2025 6:45,1,Salah Salem,153,78.08,19.92,Nasr City
+1/2/2025 6:45,2,Al Haram,106,78.9,17.1,Giza
+1/2/2025 6:45,3,Nile Corniche,115,50.8,49.2,Downtown
+1/2/2025 6:45,4,Maadi Corniche,128,33.89,70.11,Maadi
+1/2/2025 6:45,5,Teseen Axis - New Cairo,116,33.21,66.79,Fifth Settlement
+1/2/2025 6:50,1,Salah Salem,113,56.5,44.5,Nasr City
+1/2/2025 6:50,2,Al Haram,111,42.47,55.53,Giza
+1/2/2025 6:50,3,Nile Corniche,124,59.4,36.6,Downtown
+1/2/2025 6:50,4,Maadi Corniche,111,70.54,32.46,Maadi
+1/2/2025 6:50,5,Teseen Axis - New Cairo,141,57.92,38.08,Fifth Settlement
+1/2/2025 6:55,1,Salah Salem,110,26.22,76.78,Nasr City
+1/2/2025 6:55,2,Al Haram,213,65.99,38.01,Giza
+1/2/2025 6:55,3,Nile Corniche,107,66.92,34.08,Downtown
+1/2/2025 6:55,4,Maadi Corniche,107,65.51,31.49,Maadi
+1/2/2025 6:55,5,Teseen Axis - New Cairo,241,62.79,38.21,Fifth Settlement
+1/2/2025 7:00,1,Salah Salem,141,31.7,68.3,Nasr City
+1/2/2025 7:00,2,Al Haram,206,29.52,71.48,Giza
+1/2/2025 7:00,3,Nile Corniche,180,45.99,58.01,Downtown
+1/2/2025 7:00,4,Maadi Corniche,85,71.16,27.84,Maadi
+1/2/2025 7:00,5,Teseen Axis - New Cairo,111,29.39,74.61,Fifth Settlement
+1/2/2025 7:05,1,Salah Salem,238,62.98,37.02,Nasr City
+1/2/2025 7:05,2,Al Haram,65,32.14,70.86,Giza
+1/2/2025 7:05,3,Nile Corniche,89,55.99,40.01,Downtown
+1/2/2025 7:05,4,Maadi Corniche,143,72.12,31.88,Maadi
+1/2/2025 7:05,5,Teseen Axis - New Cairo,93,64.75,30.25,Fifth Settlement
+1/2/2025 7:10,1,Salah Salem,51,28.02,68.98,Nasr City
+1/2/2025 7:10,2,Al Haram,139,47.05,47.95,Giza
+1/2/2025 7:10,3,Nile Corniche,177,52.96,50.04,Downtown
+1/2/2025 7:10,4,Maadi Corniche,244,76.34,18.66,Maadi
+1/2/2025 7:10,5,Teseen Axis - New Cairo,222,69.56,29.44,Fifth Settlement
+1/2/2025 7:15,1,Salah Salem,171,36.71,61.29,Nasr City
+1/2/2025 7:15,2,Al Haram,184,35.88,65.12,Giza
+1/2/2025 7:15,3,Nile Corniche,230,68.9,29.1,Downtown
+1/2/2025 7:15,4,Maadi Corniche,72,79,23,Maadi
+1/2/2025 7:15,5,Teseen Axis - New Cairo,133,66.42,31.58,Fifth Settlement
+1/2/2025 7:20,1,Salah Salem,210,45.94,49.06,Nasr City
+1/2/2025 7:20,2,Al Haram,214,35.57,64.43,Giza
+1/2/2025 7:20,3,Nile Corniche,174,72.75,24.25,Downtown
+1/2/2025 7:20,4,Maadi Corniche,128,53.44,48.56,Maadi
+1/2/2025 7:20,5,Teseen Axis - New Cairo,95,60.01,39.99,Fifth Settlement
+1/2/2025 7:25,1,Salah Salem,105,32.06,69.94,Nasr City
+1/2/2025 7:25,2,Al Haram,206,46.19,53.81,Giza
+1/2/2025 7:25,3,Nile Corniche,195,70.69,24.31,Downtown
+1/2/2025 7:25,4,Maadi Corniche,231,62.41,37.59,Maadi
+1/2/2025 7:25,5,Teseen Axis - New Cairo,225,69.6,34.4,Fifth Settlement
+1/2/2025 7:30,1,Salah Salem,244,79.86,17.14,Nasr City
+1/2/2025 7:30,2,Al Haram,144,22.42,72.58,Giza
+1/2/2025 7:30,3,Nile Corniche,84,21.35,77.65,Downtown
+1/2/2025 7:30,4,Maadi Corniche,231,53.97,45.03,Maadi
+1/2/2025 7:30,5,Teseen Axis - New Cairo,84,20.94,81.06,Fifth Settlement
+1/2/2025 7:35,1,Salah Salem,163,62.37,35.63,Nasr City
+1/2/2025 7:35,2,Al Haram,209,27.96,76.04,Giza
+1/2/2025 7:35,3,Nile Corniche,148,76.3,22.7,Downtown
+1/2/2025 7:35,4,Maadi Corniche,134,44.14,52.86,Maadi
+1/2/2025 7:35,5,Teseen Axis - New Cairo,74,24.16,72.84,Fifth Settlement
+1/2/2025 7:40,1,Salah Salem,220,60.57,42.43,Nasr City
+1/2/2025 7:40,2,Al Haram,69,54.17,46.83,Giza
+1/2/2025 7:40,3,Nile Corniche,201,42.75,53.25,Downtown
+1/2/2025 7:40,4,Maadi Corniche,232,57.11,41.89,Maadi
+1/2/2025 7:40,5,Teseen Axis - New Cairo,100,46.58,49.42,Fifth Settlement
+1/2/2025 7:45,1,Salah Salem,181,71.66,32.34,Nasr City
+1/2/2025 7:45,2,Al Haram,215,55.59,40.41,Giza
+1/2/2025 7:45,3,Nile Corniche,204,60.65,35.35,Downtown
+1/2/2025 7:45,4,Maadi Corniche,169,76.5,22.5,Maadi
+1/2/2025 7:45,5,Teseen Axis - New Cairo,221,50.02,52.98,Fifth Settlement
+1/2/2025 7:50,1,Salah Salem,108,61.83,41.17,Nasr City
+1/2/2025 7:50,2,Al Haram,231,36.52,60.48,Giza
+1/2/2025 7:50,3,Nile Corniche,114,58.16,39.84,Downtown
+1/2/2025 7:50,4,Maadi Corniche,242,30.76,69.24,Maadi
+1/2/2025 7:50,5,Teseen Axis - New Cairo,224,47.17,48.83,Fifth Settlement
+1/2/2025 7:55,1,Salah Salem,197,61.12,33.88,Nasr City
+1/2/2025 7:55,2,Al Haram,168,30.29,71.71,Giza
+1/2/2025 7:55,3,Nile Corniche,167,61.14,38.86,Downtown
+1/2/2025 7:55,4,Maadi Corniche,180,58.34,45.66,Maadi
+1/2/2025 7:55,5,Teseen Axis - New Cairo,143,72.9,23.1,Fifth Settlement
+1/2/2025 8:00,1,Salah Salem,86,70.03,25.97,Nasr City
+1/2/2025 8:00,2,Al Haram,85,24.71,77.29,Giza
+1/2/2025 8:00,3,Nile Corniche,157,41.3,58.7,Downtown
+1/2/2025 8:00,4,Maadi Corniche,197,21.9,80.1,Maadi
+1/2/2025 8:00,5,Teseen Axis - New Cairo,207,74.94,23.06,Fifth Settlement
+1/2/2025 8:05,1,Salah Salem,165,34.78,66.22,Nasr City
+1/2/2025 8:05,2,Al Haram,94,78.57,23.43,Giza
+1/2/2025 8:05,3,Nile Corniche,225,42.53,58.47,Downtown
+1/2/2025 8:05,4,Maadi Corniche,137,73.07,29.93,Maadi
+1/2/2025 8:05,5,Teseen Axis - New Cairo,212,32.03,66.97,Fifth Settlement
+1/2/2025 8:10,1,Salah Salem,168,57.14,41.86,Nasr City
+1/2/2025 8:10,2,Al Haram,159,40.12,60.88,Giza
+1/2/2025 8:10,3,Nile Corniche,102,78.52,16.48,Downtown
+1/2/2025 8:10,4,Maadi Corniche,66,71.15,25.85,Maadi
+1/2/2025 8:10,5,Teseen Axis - New Cairo,60,67.36,33.64,Fifth Settlement
+1/2/2025 8:15,1,Salah Salem,157,30.09,67.91,Nasr City
+1/2/2025 8:15,2,Al Haram,99,36.11,67.89,Giza
+1/2/2025 8:15,3,Nile Corniche,209,30.05,68.95,Downtown
+1/2/2025 8:15,4,Maadi Corniche,133,78.38,24.62,Maadi
+1/2/2025 8:15,5,Teseen Axis - New Cairo,89,26.87,75.13,Fifth Settlement
+1/2/2025 8:20,1,Salah Salem,200,67.9,34.1,Nasr City
+1/2/2025 8:20,2,Al Haram,142,33.95,70.05,Giza
+1/2/2025 8:20,3,Nile Corniche,88,41.94,56.06,Downtown
+1/2/2025 8:20,4,Maadi Corniche,174,38.15,59.85,Maadi
+1/2/2025 8:20,5,Teseen Axis - New Cairo,150,30.21,67.79,Fifth Settlement
+1/2/2025 8:25,1,Salah Salem,131,40.56,61.44,Nasr City
+1/2/2025 8:25,2,Al Haram,176,36.28,63.72,Giza
+1/2/2025 8:25,3,Nile Corniche,179,69.76,29.24,Downtown
+1/2/2025 8:25,4,Maadi Corniche,241,54.84,47.16,Maadi
+1/2/2025 8:25,5,Teseen Axis - New Cairo,177,28.64,68.36,Fifth Settlement
+1/2/2025 8:30,1,Salah Salem,221,36.42,64.58,Nasr City
+1/2/2025 8:30,2,Al Haram,194,46.5,57.5,Giza
+1/2/2025 8:30,3,Nile Corniche,106,62.91,36.09,Downtown
+1/2/2025 8:30,4,Maadi Corniche,233,41.83,58.17,Maadi
+1/2/2025 8:30,5,Teseen Axis - New Cairo,190,40.82,55.18,Fifth Settlement
+1/2/2025 8:35,1,Salah Salem,164,79.51,15.49,Nasr City
+1/2/2025 8:35,2,Al Haram,192,31.95,69.05,Giza
+1/2/2025 8:35,3,Nile Corniche,216,53.75,49.25,Downtown
+1/2/2025 8:35,4,Maadi Corniche,89,42.29,56.71,Maadi
+1/2/2025 8:35,5,Teseen Axis - New Cairo,131,48.25,54.75,Fifth Settlement
+1/2/2025 8:40,1,Salah Salem,240,53.57,46.43,Nasr City
+1/2/2025 8:40,2,Al Haram,237,41.68,55.32,Giza
+1/2/2025 8:40,3,Nile Corniche,97,44.41,56.59,Downtown
+1/2/2025 8:40,4,Maadi Corniche,88,47.24,55.76,Maadi
+1/2/2025 8:40,5,Teseen Axis - New Cairo,111,74.2,20.8,Fifth Settlement
+1/2/2025 8:45,1,Salah Salem,183,54.06,48.94,Nasr City
+1/2/2025 8:45,2,Al Haram,237,49.38,50.62,Giza
+1/2/2025 8:45,3,Nile Corniche,181,78.21,23.79,Downtown
+1/2/2025 8:45,4,Maadi Corniche,74,64.5,35.5,Maadi
+1/2/2025 8:45,5,Teseen Axis - New Cairo,240,54.25,44.75,Fifth Settlement
+1/2/2025 8:50,1,Salah Salem,244,33.12,66.88,Nasr City
+1/2/2025 8:50,2,Al Haram,199,56.23,43.77,Giza
+1/2/2025 8:50,3,Nile Corniche,249,53.53,49.47,Downtown
+1/2/2025 8:50,4,Maadi Corniche,55,42.47,54.53,Maadi
+1/2/2025 8:50,5,Teseen Axis - New Cairo,187,42.04,52.96,Fifth Settlement
+1/2/2025 8:55,1,Salah Salem,108,70.71,28.29,Nasr City
+1/2/2025 8:55,2,Al Haram,239,79.31,23.69,Giza
+1/2/2025 8:55,3,Nile Corniche,80,33.09,70.91,Downtown
+1/2/2025 8:55,4,Maadi Corniche,133,34.98,65.02,Maadi
+1/2/2025 8:55,5,Teseen Axis - New Cairo,181,20.04,83.96,Fifth Settlement
+1/2/2025 9:00,1,Salah Salem,163,23.21,74.79,Nasr City
+1/2/2025 9:00,2,Al Haram,130,29.12,65.88,Giza
+1/2/2025 9:00,3,Nile Corniche,178,41.07,53.93,Downtown
+1/2/2025 9:00,4,Maadi Corniche,201,49.17,46.83,Maadi
+1/2/2025 9:00,5,Teseen Axis - New Cairo,158,76.68,25.32,Fifth Settlement
+1/2/2025 9:05,1,Salah Salem,57,75.47,25.53,Nasr City
+1/2/2025 9:05,2,Al Haram,205,65.63,35.37,Giza
+1/2/2025 9:05,3,Nile Corniche,51,65.63,29.37,Downtown
+1/2/2025 9:05,4,Maadi Corniche,79,79.97,16.03,Maadi
+1/2/2025 9:05,5,Teseen Axis - New Cairo,143,48.54,50.46,Fifth Settlement
+1/2/2025 9:10,1,Salah Salem,143,32.27,68.73,Nasr City
+1/2/2025 9:10,2,Al Haram,130,50.63,47.37,Giza
+1/2/2025 9:10,3,Nile Corniche,192,74.64,29.36,Downtown
+1/2/2025 9:10,4,Maadi Corniche,157,50.08,50.92,Maadi
+1/2/2025 9:10,5,Teseen Axis - New Cairo,177,22.09,72.91,Fifth Settlement
+1/2/2025 9:15,1,Salah Salem,106,46.29,53.71,Nasr City
+1/2/2025 9:15,2,Al Haram,160,29.64,67.36,Giza
+1/2/2025 9:15,3,Nile Corniche,124,46.94,56.06,Downtown
+1/2/2025 9:15,4,Maadi Corniche,81,22.98,72.02,Maadi
+1/2/2025 9:15,5,Teseen Axis - New Cairo,234,31.35,63.65,Fifth Settlement
+1/2/2025 9:20,1,Salah Salem,156,68.09,28.91,Nasr City
+1/2/2025 9:20,2,Al Haram,188,54.11,40.89,Giza
+1/2/2025 9:20,3,Nile Corniche,209,53.39,45.61,Downtown
+1/2/2025 9:20,4,Maadi Corniche,134,70.1,31.9,Maadi
+1/2/2025 9:20,5,Teseen Axis - New Cairo,183,41.95,58.05,Fifth Settlement
+1/2/2025 9:25,1,Salah Salem,214,64.97,32.03,Nasr City
+1/2/2025 9:25,2,Al Haram,103,25.25,69.75,Giza
+1/2/2025 9:25,3,Nile Corniche,164,40.71,54.29,Downtown
+1/2/2025 9:25,4,Maadi Corniche,198,77.69,24.31,Maadi
+1/2/2025 9:25,5,Teseen Axis - New Cairo,132,58.23,36.77,Fifth Settlement
+1/2/2025 9:30,1,Salah Salem,55,60.71,39.29,Nasr City
+1/2/2025 9:30,2,Al Haram,77,70.89,30.11,Giza
+1/2/2025 9:30,3,Nile Corniche,86,73.09,24.91,Downtown
+1/2/2025 9:30,4,Maadi Corniche,226,36.9,67.1,Maadi
+1/2/2025 9:30,5,Teseen Axis - New Cairo,62,20.62,74.38,Fifth Settlement
+1/2/2025 9:35,1,Salah Salem,154,40.81,56.19,Nasr City
+1/2/2025 9:35,2,Al Haram,235,36.69,65.31,Giza
+1/2/2025 9:35,3,Nile Corniche,233,46.57,48.43,Downtown
+1/2/2025 9:35,4,Maadi Corniche,219,40.6,61.4,Maadi
+1/2/2025 9:35,5,Teseen Axis - New Cairo,146,76.13,25.87,Fifth Settlement
+1/2/2025 9:40,1,Salah Salem,163,75.72,27.28,Nasr City
+1/2/2025 9:40,2,Al Haram,160,29.77,72.23,Giza
+1/2/2025 9:40,3,Nile Corniche,168,78.08,24.92,Downtown
+1/2/2025 9:40,4,Maadi Corniche,83,31.36,70.64,Maadi
+1/2/2025 9:40,5,Teseen Axis - New Cairo,167,59.71,44.29,Fifth Settlement
+1/2/2025 9:45,1,Salah Salem,197,65.23,38.77,Nasr City
+1/2/2025 9:45,2,Al Haram,116,37.66,59.34,Giza
+1/2/2025 9:45,3,Nile Corniche,235,76.49,18.51,Downtown
+1/2/2025 9:45,4,Maadi Corniche,64,47.74,55.26,Maadi
+1/2/2025 9:45,5,Teseen Axis - New Cairo,230,34.97,61.03,Fifth Settlement
+1/2/2025 9:50,1,Salah Salem,144,41.41,59.59,Nasr City
+1/2/2025 9:50,2,Al Haram,181,38.83,62.17,Giza
+1/2/2025 9:50,3,Nile Corniche,161,36.3,66.7,Downtown
+1/2/2025 9:50,4,Maadi Corniche,115,31.08,72.92,Maadi
+1/2/2025 9:50,5,Teseen Axis - New Cairo,198,45.8,49.2,Fifth Settlement
+1/2/2025 9:55,1,Salah Salem,165,27.19,67.81,Nasr City
+1/2/2025 9:55,2,Al Haram,165,37.28,66.72,Giza
+1/2/2025 9:55,3,Nile Corniche,159,55.76,47.24,Downtown
+1/2/2025 9:55,4,Maadi Corniche,70,55.02,48.98,Maadi
+1/2/2025 9:55,5,Teseen Axis - New Cairo,182,41.31,59.69,Fifth Settlement
+1/2/2025 10:00,1,Salah Salem,245,54.89,44.11,Nasr City
+1/2/2025 10:00,2,Al Haram,153,59.42,37.58,Giza
+1/2/2025 10:00,3,Nile Corniche,89,43.97,59.03,Downtown
+1/2/2025 10:00,4,Maadi Corniche,229,20.65,80.35,Maadi
+1/2/2025 10:00,5,Teseen Axis - New Cairo,110,66.8,37.2,Fifth Settlement
+1/2/2025 10:05,1,Salah Salem,230,47.84,54.16,Nasr City
+1/2/2025 10:05,2,Al Haram,236,78.83,20.17,Giza
+1/2/2025 10:05,3,Nile Corniche,122,73.74,22.26,Downtown
+1/2/2025 10:05,4,Maadi Corniche,242,61.98,35.02,Maadi
+1/2/2025 10:05,5,Teseen Axis - New Cairo,79,71.81,29.19,Fifth Settlement
+1/2/2025 10:10,1,Salah Salem,139,67.37,34.63,Nasr City
+1/2/2025 10:10,2,Al Haram,240,53.68,46.32,Giza
+1/2/2025 10:10,3,Nile Corniche,171,67.61,33.39,Downtown
+1/2/2025 10:10,4,Maadi Corniche,235,45.87,50.13,Maadi
+1/2/2025 10:10,5,Teseen Axis - New Cairo,80,23.17,71.83,Fifth Settlement
+1/2/2025 10:15,1,Salah Salem,232,33.1,65.9,Nasr City
+1/2/2025 10:15,2,Al Haram,160,54.47,48.53,Giza
+1/2/2025 10:15,3,Nile Corniche,240,61.33,42.67,Downtown
+1/2/2025 10:15,4,Maadi Corniche,198,64.71,35.29,Maadi
+1/2/2025 10:15,5,Teseen Axis - New Cairo,215,73.75,28.25,Fifth Settlement
+1/2/2025 10:20,1,Salah Salem,239,68.34,26.66,Nasr City
+1/2/2025 10:20,2,Al Haram,139,29.36,70.64,Giza
+1/2/2025 10:20,3,Nile Corniche,130,41.5,58.5,Downtown
+1/2/2025 10:20,4,Maadi Corniche,212,33.27,68.73,Maadi
+1/2/2025 10:20,5,Teseen Axis - New Cairo,238,54.59,40.41,Fifth Settlement
+1/2/2025 10:25,1,Salah Salem,208,38.2,58.8,Nasr City
+1/2/2025 10:25,2,Al Haram,109,27.12,72.88,Giza
+1/2/2025 10:25,3,Nile Corniche,107,61.03,41.97,Downtown
+1/2/2025 10:25,4,Maadi Corniche,211,21.96,77.04,Maadi
+1/2/2025 10:25,5,Teseen Axis - New Cairo,69,34.99,61.01,Fifth Settlement
+1/2/2025 10:30,1,Salah Salem,195,39.93,63.07,Nasr City
+1/2/2025 10:30,2,Al Haram,63,70.69,30.31,Giza
+1/2/2025 10:30,3,Nile Corniche,177,34.35,62.65,Downtown
+1/2/2025 10:30,4,Maadi Corniche,112,76.31,20.69,Maadi
+1/2/2025 10:30,5,Teseen Axis - New Cairo,130,58.89,39.11,Fifth Settlement
+1/2/2025 10:35,1,Salah Salem,149,60.88,43.12,Nasr City
+1/2/2025 10:35,2,Al Haram,225,22.81,79.19,Giza
+1/2/2025 10:35,3,Nile Corniche,110,46.29,54.71,Downtown
+1/2/2025 10:35,4,Maadi Corniche,156,77.74,19.26,Maadi
+1/2/2025 10:35,5,Teseen Axis - New Cairo,81,65,35,Fifth Settlement
+1/2/2025 10:40,1,Salah Salem,107,52.27,46.73,Nasr City
+1/2/2025 10:40,2,Al Haram,161,33.02,64.98,Giza
+1/2/2025 10:40,3,Nile Corniche,89,29.41,68.59,Downtown
+1/2/2025 10:40,4,Maadi Corniche,222,33.21,62.79,Maadi
+1/2/2025 10:40,5,Teseen Axis - New Cairo,80,25.74,76.26,Fifth Settlement
+1/2/2025 10:45,1,Salah Salem,73,78.12,24.88,Nasr City
+1/2/2025 10:45,2,Al Haram,94,70.19,30.81,Giza
+1/2/2025 10:45,3,Nile Corniche,157,74.99,29.01,Downtown
+1/2/2025 10:45,4,Maadi Corniche,174,57.79,39.21,Maadi
+1/2/2025 10:45,5,Teseen Axis - New Cairo,79,65.14,30.86,Fifth Settlement
+1/2/2025 10:50,1,Salah Salem,163,60.65,40.35,Nasr City
+1/2/2025 10:50,2,Al Haram,109,46.63,54.37,Giza
+1/2/2025 10:50,3,Nile Corniche,246,20.48,81.52,Downtown
+1/2/2025 10:50,4,Maadi Corniche,171,34.23,63.77,Maadi
+1/2/2025 10:50,5,Teseen Axis - New Cairo,142,74.9,29.1,Fifth Settlement
+1/2/2025 10:55,1,Salah Salem,195,34.97,69.03,Nasr City
+1/2/2025 10:55,2,Al Haram,145,36.46,67.54,Giza
+1/2/2025 10:55,3,Nile Corniche,55,39.51,57.49,Downtown
+1/2/2025 10:55,4,Maadi Corniche,155,20.38,74.62,Maadi
+1/2/2025 10:55,5,Teseen Axis - New Cairo,145,77.94,20.06,Fifth Settlement
+1/2/2025 11:00,1,Salah Salem,130,63.7,35.3,Nasr City
+1/2/2025 11:00,2,Al Haram,209,60.27,39.73,Giza
+1/2/2025 11:00,3,Nile Corniche,84,76.81,21.19,Downtown
+1/2/2025 11:00,4,Maadi Corniche,199,67,37,Maadi
+1/2/2025 11:00,5,Teseen Axis - New Cairo,52,79.86,21.14,Fifth Settlement
+1/2/2025 11:05,1,Salah Salem,63,61.28,33.72,Nasr City
+1/2/2025 11:05,2,Al Haram,122,30.87,66.13,Giza
+1/2/2025 11:05,3,Nile Corniche,174,33.36,64.64,Downtown
+1/2/2025 11:05,4,Maadi Corniche,79,66.58,29.42,Maadi
+1/2/2025 11:05,5,Teseen Axis - New Cairo,161,46.54,57.46,Fifth Settlement
+1/2/2025 11:10,1,Salah Salem,107,40.43,62.57,Nasr City
+1/2/2025 11:10,2,Al Haram,74,59.7,38.3,Giza
+1/2/2025 11:10,3,Nile Corniche,97,29.78,67.22,Downtown
+1/2/2025 11:10,4,Maadi Corniche,60,69.81,30.19,Maadi
+1/2/2025 11:10,5,Teseen Axis - New Cairo,222,38.28,56.72,Fifth Settlement
+1/2/2025 11:15,1,Salah Salem,241,36.79,59.21,Nasr City
+1/2/2025 11:15,2,Al Haram,125,22.16,73.84,Giza
+1/2/2025 11:15,3,Nile Corniche,103,32.82,62.18,Downtown
+1/2/2025 11:15,4,Maadi Corniche,67,71.48,32.52,Maadi
+1/2/2025 11:15,5,Teseen Axis - New Cairo,193,20.68,83.32,Fifth Settlement
+1/2/2025 11:20,1,Salah Salem,125,41.85,56.15,Nasr City
+1/2/2025 11:20,2,Al Haram,179,23.71,78.29,Giza
+1/2/2025 11:20,3,Nile Corniche,56,27.92,73.08,Downtown
+1/2/2025 11:20,4,Maadi Corniche,223,31.67,63.33,Maadi
+1/2/2025 11:20,5,Teseen Axis - New Cairo,112,33.46,68.54,Fifth Settlement
+1/2/2025 11:25,1,Salah Salem,85,69.04,29.96,Nasr City
+1/2/2025 11:25,2,Al Haram,139,25.72,74.28,Giza
+1/2/2025 11:25,3,Nile Corniche,142,57.59,41.41,Downtown
+1/2/2025 11:25,4,Maadi Corniche,207,36.78,67.22,Maadi
+1/2/2025 11:25,5,Teseen Axis - New Cairo,120,23.08,75.92,Fifth Settlement
+1/2/2025 11:30,1,Salah Salem,78,40.06,57.94,Nasr City
+1/2/2025 11:30,2,Al Haram,224,51.8,45.2,Giza
+1/2/2025 11:30,3,Nile Corniche,155,32.52,66.48,Downtown
+1/2/2025 11:30,4,Maadi Corniche,76,74.65,23.35,Maadi
+1/2/2025 11:30,5,Teseen Axis - New Cairo,74,36.09,61.91,Fifth Settlement
+1/2/2025 11:35,1,Salah Salem,179,44.51,51.49,Nasr City
+1/2/2025 11:35,2,Al Haram,246,69.64,27.36,Giza
+1/2/2025 11:35,3,Nile Corniche,83,31.61,68.39,Downtown
+1/2/2025 11:35,4,Maadi Corniche,149,73.17,24.83,Maadi
+1/2/2025 11:35,5,Teseen Axis - New Cairo,160,37.84,63.16,Fifth Settlement
+1/2/2025 11:40,1,Salah Salem,196,58.89,39.11,Nasr City
+1/2/2025 11:40,2,Al Haram,128,69.56,33.44,Giza
+1/2/2025 11:40,3,Nile Corniche,81,69.46,26.54,Downtown
+1/2/2025 11:40,4,Maadi Corniche,54,29.38,69.62,Maadi
+1/2/2025 11:40,5,Teseen Axis - New Cairo,71,60.28,35.72,Fifth Settlement
+1/2/2025 11:45,1,Salah Salem,126,79.55,24.45,Nasr City
+1/2/2025 11:45,2,Al Haram,144,79.31,17.69,Giza
+1/2/2025 11:45,3,Nile Corniche,208,59.57,43.43,Downtown
+1/2/2025 11:45,4,Maadi Corniche,134,71.97,25.03,Maadi
+1/2/2025 11:45,5,Teseen Axis - New Cairo,144,48.06,47.94,Fifth Settlement
+1/2/2025 11:50,1,Salah Salem,236,44.67,51.33,Nasr City
+1/2/2025 11:50,2,Al Haram,243,39.82,55.18,Giza
+1/2/2025 11:50,3,Nile Corniche,145,71.03,29.97,Downtown
+1/2/2025 11:50,4,Maadi Corniche,208,61.35,33.65,Maadi
+1/2/2025 11:50,5,Teseen Axis - New Cairo,188,53.37,44.63,Fifth Settlement
+1/2/2025 11:55,1,Salah Salem,120,20.97,75.03,Nasr City
+1/2/2025 11:55,2,Al Haram,189,22.41,72.59,Giza
+1/2/2025 11:55,3,Nile Corniche,141,31.7,67.3,Downtown
+1/2/2025 11:55,4,Maadi Corniche,155,67.49,36.51,Maadi
+1/2/2025 11:55,5,Teseen Axis - New Cairo,73,50.7,46.3,Fifth Settlement
+1/2/2025 12:00,1,Salah Salem,203,37.27,58.73,Nasr City
+1/2/2025 12:00,2,Al Haram,220,77.83,19.17,Giza
+1/2/2025 12:00,3,Nile Corniche,61,29.11,65.89,Downtown
+1/2/2025 12:00,4,Maadi Corniche,231,56.19,39.81,Maadi
+1/2/2025 12:00,5,Teseen Axis - New Cairo,109,20.08,77.92,Fifth Settlement
+1/2/2025 12:05,1,Salah Salem,215,28.6,75.4,Nasr City
+1/2/2025 12:05,2,Al Haram,237,76.58,18.42,Giza
+1/2/2025 12:05,3,Nile Corniche,126,59.67,40.33,Downtown
+1/2/2025 12:05,4,Maadi Corniche,91,35.06,64.94,Maadi
+1/2/2025 12:05,5,Teseen Axis - New Cairo,71,27.32,68.68,Fifth Settlement
+1/2/2025 12:10,1,Salah Salem,156,26.81,69.19,Nasr City
+1/2/2025 12:10,2,Al Haram,209,48.71,47.29,Giza
+1/2/2025 12:10,3,Nile Corniche,61,39.92,64.08,Downtown
+1/2/2025 12:10,4,Maadi Corniche,59,24.9,71.1,Maadi
+1/2/2025 12:10,5,Teseen Axis - New Cairo,225,21.67,74.33,Fifth Settlement
+1/2/2025 12:15,1,Salah Salem,114,60.37,37.63,Nasr City
+1/2/2025 12:15,2,Al Haram,201,49.56,46.44,Giza
+1/2/2025 12:15,3,Nile Corniche,208,68.33,27.67,Downtown
+1/2/2025 12:15,4,Maadi Corniche,78,68.36,30.64,Maadi
+1/2/2025 12:15,5,Teseen Axis - New Cairo,205,29.95,71.05,Fifth Settlement
+1/2/2025 12:20,1,Salah Salem,73,41.77,57.23,Nasr City
+1/2/2025 12:20,2,Al Haram,195,27.65,68.35,Giza
+1/2/2025 12:20,3,Nile Corniche,177,71.78,28.22,Downtown
+1/2/2025 12:20,4,Maadi Corniche,247,62.88,35.12,Maadi
+1/2/2025 12:20,5,Teseen Axis - New Cairo,71,51.53,46.47,Fifth Settlement
+1/2/2025 12:25,1,Salah Salem,233,67.53,27.47,Nasr City
+1/2/2025 12:25,2,Al Haram,222,60.78,35.22,Giza
+1/2/2025 12:25,3,Nile Corniche,87,37.75,61.25,Downtown
+1/2/2025 12:25,4,Maadi Corniche,245,39.55,57.45,Maadi
+1/2/2025 12:25,5,Teseen Axis - New Cairo,247,61.08,33.92,Fifth Settlement
+1/2/2025 12:30,1,Salah Salem,136,53.39,47.61,Nasr City
+1/2/2025 12:30,2,Al Haram,95,28.07,66.93,Giza
+1/2/2025 12:30,3,Nile Corniche,218,47.64,48.36,Downtown
+1/2/2025 12:30,4,Maadi Corniche,54,26.21,71.79,Maadi
+1/2/2025 12:30,5,Teseen Axis - New Cairo,136,63.74,31.26,Fifth Settlement
+1/2/2025 12:35,1,Salah Salem,80,39.36,57.64,Nasr City
+1/2/2025 12:35,2,Al Haram,159,20.77,80.23,Giza
+1/2/2025 12:35,3,Nile Corniche,81,71.07,26.93,Downtown
+1/2/2025 12:35,4,Maadi Corniche,84,73.93,26.07,Maadi
+1/2/2025 12:35,5,Teseen Axis - New Cairo,202,43.04,52.96,Fifth Settlement
+1/2/2025 12:40,1,Salah Salem,222,79.33,23.67,Nasr City
+1/2/2025 12:40,2,Al Haram,121,25.7,72.3,Giza
+1/2/2025 12:40,3,Nile Corniche,221,25.8,75.2,Downtown
+1/2/2025 12:40,4,Maadi Corniche,103,46.65,53.35,Maadi
+1/2/2025 12:40,5,Teseen Axis - New Cairo,65,79.73,17.27,Fifth Settlement
+1/2/2025 12:45,1,Salah Salem,242,39.2,59.8,Nasr City
+1/2/2025 12:45,2,Al Haram,160,39.1,56.9,Giza
+1/2/2025 12:45,3,Nile Corniche,206,71.57,30.43,Downtown
+1/2/2025 12:45,4,Maadi Corniche,78,61.68,33.32,Maadi
+1/2/2025 12:45,5,Teseen Axis - New Cairo,180,64.31,34.69,Fifth Settlement
+1/2/2025 12:50,1,Salah Salem,157,61.61,36.39,Nasr City
+1/2/2025 12:50,2,Al Haram,122,68.25,28.75,Giza
+1/2/2025 12:50,3,Nile Corniche,68,63.81,39.19,Downtown
+1/2/2025 12:50,4,Maadi Corniche,135,38.45,60.55,Maadi
+1/2/2025 12:50,5,Teseen Axis - New Cairo,158,71,26,Fifth Settlement
+1/2/2025 12:55,1,Salah Salem,249,27.53,76.47,Nasr City
+1/2/2025 12:55,2,Al Haram,139,26.48,77.52,Giza
+1/2/2025 12:55,3,Nile Corniche,200,55.13,47.87,Downtown
+1/2/2025 12:55,4,Maadi Corniche,69,59.11,41.89,Maadi
+1/2/2025 12:55,5,Teseen Axis - New Cairo,228,55.14,45.86,Fifth Settlement
+1/2/2025 13:00,1,Salah Salem,60,58.27,41.73,Nasr City
+1/2/2025 13:00,2,Al Haram,147,49.89,50.11,Giza
+1/2/2025 13:00,3,Nile Corniche,223,55.92,39.08,Downtown
+1/2/2025 13:00,4,Maadi Corniche,219,29.24,67.76,Maadi
+1/2/2025 13:00,5,Teseen Axis - New Cairo,121,54.99,45.01,Fifth Settlement
+1/2/2025 13:05,1,Salah Salem,224,41.89,59.11,Nasr City
+1/2/2025 13:05,2,Al Haram,110,79.79,24.21,Giza
+1/2/2025 13:05,3,Nile Corniche,151,53.39,43.61,Downtown
+1/2/2025 13:05,4,Maadi Corniche,166,51.78,47.22,Maadi
+1/2/2025 13:05,5,Teseen Axis - New Cairo,137,75.45,27.55,Fifth Settlement
+1/2/2025 13:10,1,Salah Salem,174,62.13,40.87,Nasr City
+1/2/2025 13:10,2,Al Haram,165,60.54,34.46,Giza
+1/2/2025 13:10,3,Nile Corniche,56,47.25,52.75,Downtown
+1/2/2025 13:10,4,Maadi Corniche,222,27.23,75.77,Maadi
+1/2/2025 13:10,5,Teseen Axis - New Cairo,75,68.95,28.05,Fifth Settlement
+1/2/2025 13:15,1,Salah Salem,146,50.36,46.64,Nasr City
+1/2/2025 13:15,2,Al Haram,79,49.96,47.04,Giza
+1/2/2025 13:15,3,Nile Corniche,207,76.46,25.54,Downtown
+1/2/2025 13:15,4,Maadi Corniche,228,20.01,78.99,Maadi
+1/2/2025 13:15,5,Teseen Axis - New Cairo,113,47.45,56.55,Fifth Settlement
+1/2/2025 13:20,1,Salah Salem,215,47.32,55.68,Nasr City
+1/2/2025 13:20,2,Al Haram,56,58.93,37.07,Giza
+1/2/2025 13:20,3,Nile Corniche,218,30.83,72.17,Downtown
+1/2/2025 13:20,4,Maadi Corniche,184,51.52,44.48,Maadi
+1/2/2025 13:20,5,Teseen Axis - New Cairo,101,37.84,61.16,Fifth Settlement
+1/2/2025 13:25,1,Salah Salem,237,29.76,65.24,Nasr City
+1/2/2025 13:25,2,Al Haram,181,32.53,71.47,Giza
+1/2/2025 13:25,3,Nile Corniche,53,53.14,42.86,Downtown
+1/2/2025 13:25,4,Maadi Corniche,238,54.62,47.38,Maadi
+1/2/2025 13:25,5,Teseen Axis - New Cairo,85,52.42,50.58,Fifth Settlement
+1/2/2025 13:30,1,Salah Salem,195,30.33,66.67,Nasr City
+1/2/2025 13:30,2,Al Haram,96,72.2,25.8,Giza
+1/2/2025 13:30,3,Nile Corniche,214,24.84,79.16,Downtown
+1/2/2025 13:30,4,Maadi Corniche,225,55.2,42.8,Maadi
+1/2/2025 13:30,5,Teseen Axis - New Cairo,79,24.81,71.19,Fifth Settlement
+1/2/2025 13:35,1,Salah Salem,157,74.95,23.05,Nasr City
+1/2/2025 13:35,2,Al Haram,67,38.42,62.58,Giza
+1/2/2025 13:35,3,Nile Corniche,50,39.39,64.61,Downtown
+1/2/2025 13:35,4,Maadi Corniche,136,39.54,60.46,Maadi
+1/2/2025 13:35,5,Teseen Axis - New Cairo,119,56.2,45.8,Fifth Settlement
+1/2/2025 13:40,1,Salah Salem,135,48.17,47.83,Nasr City
+1/2/2025 13:40,2,Al Haram,144,79.74,23.26,Giza
+1/2/2025 13:40,3,Nile Corniche,219,48.88,50.12,Downtown
+1/2/2025 13:40,4,Maadi Corniche,61,77.03,23.97,Maadi
+1/2/2025 13:40,5,Teseen Axis - New Cairo,186,72.43,28.57,Fifth Settlement
+1/2/2025 13:45,1,Salah Salem,78,36.82,62.18,Nasr City
+1/2/2025 13:45,2,Al Haram,64,56.62,44.38,Giza
+1/2/2025 13:45,3,Nile Corniche,166,26.99,69.01,Downtown
+1/2/2025 13:45,4,Maadi Corniche,52,31.36,64.64,Maadi
+1/2/2025 13:45,5,Teseen Axis - New Cairo,215,32.98,62.02,Fifth Settlement
+1/2/2025 13:50,1,Salah Salem,157,22.9,81.1,Nasr City
+1/2/2025 13:50,2,Al Haram,60,69.58,26.42,Giza
+1/2/2025 13:50,3,Nile Corniche,245,41.19,60.81,Downtown
+1/2/2025 13:50,4,Maadi Corniche,71,33.09,66.91,Maadi
+1/2/2025 13:50,5,Teseen Axis - New Cairo,219,67.06,35.94,Fifth Settlement
+1/2/2025 13:55,1,Salah Salem,134,44.85,56.15,Nasr City
+1/2/2025 13:55,2,Al Haram,205,44.91,52.09,Giza
+1/2/2025 13:55,3,Nile Corniche,168,48.7,55.3,Downtown
+1/2/2025 13:55,4,Maadi Corniche,222,69.18,29.82,Maadi
+1/2/2025 13:55,5,Teseen Axis - New Cairo,246,65.82,38.18,Fifth Settlement
+1/2/2025 14:00,1,Salah Salem,88,42.43,58.57,Nasr City
+1/2/2025 14:00,2,Al Haram,206,20.74,76.26,Giza
+1/2/2025 14:00,3,Nile Corniche,132,64.54,32.46,Downtown
+1/2/2025 14:00,4,Maadi Corniche,55,43.11,56.89,Maadi
+1/2/2025 14:00,5,Teseen Axis - New Cairo,126,77.14,19.86,Fifth Settlement
+1/2/2025 14:05,1,Salah Salem,185,36.24,67.76,Nasr City
+1/2/2025 14:05,2,Al Haram,133,48.47,48.53,Giza
+1/2/2025 14:05,3,Nile Corniche,134,21.55,80.45,Downtown
+1/2/2025 14:05,4,Maadi Corniche,136,51.23,45.77,Maadi
+1/2/2025 14:05,5,Teseen Axis - New Cairo,58,53.47,45.53,Fifth Settlement
+1/2/2025 14:10,1,Salah Salem,120,25.88,74.12,Nasr City
+1/2/2025 14:10,2,Al Haram,218,74.17,20.83,Giza
+1/2/2025 14:10,3,Nile Corniche,221,22.74,79.26,Downtown
+1/2/2025 14:10,4,Maadi Corniche,233,47.09,48.91,Maadi
+1/2/2025 14:10,5,Teseen Axis - New Cairo,61,79.04,24.96,Fifth Settlement
+1/2/2025 14:15,1,Salah Salem,161,60.83,37.17,Nasr City
+1/2/2025 14:15,2,Al Haram,170,23.55,76.45,Giza
+1/2/2025 14:15,3,Nile Corniche,246,76.94,19.06,Downtown
+1/2/2025 14:15,4,Maadi Corniche,239,42.93,53.07,Maadi
+1/2/2025 14:15,5,Teseen Axis - New Cairo,108,20.25,82.75,Fifth Settlement
+1/2/2025 14:20,1,Salah Salem,141,58.51,44.49,Nasr City
+1/2/2025 14:20,2,Al Haram,117,30.62,65.38,Giza
+1/2/2025 14:20,3,Nile Corniche,116,78.07,21.93,Downtown
+1/2/2025 14:20,4,Maadi Corniche,73,38.92,60.08,Maadi
+1/2/2025 14:20,5,Teseen Axis - New Cairo,74,23.06,72.94,Fifth Settlement
+1/2/2025 14:25,1,Salah Salem,160,32.47,71.53,Nasr City
+1/2/2025 14:25,2,Al Haram,94,48.51,47.49,Giza
+1/2/2025 14:25,3,Nile Corniche,160,41,56,Downtown
+1/2/2025 14:25,4,Maadi Corniche,84,39.5,64.5,Maadi
+1/2/2025 14:25,5,Teseen Axis - New Cairo,63,69.84,32.16,Fifth Settlement
+1/2/2025 14:30,1,Salah Salem,242,44.58,56.42,Nasr City
+1/2/2025 14:30,2,Al Haram,200,21,76,Giza
+1/2/2025 14:30,3,Nile Corniche,131,68.63,26.37,Downtown
+1/2/2025 14:30,4,Maadi Corniche,196,51.31,46.69,Maadi
+1/2/2025 14:30,5,Teseen Axis - New Cairo,175,23.58,80.42,Fifth Settlement
+1/2/2025 14:35,1,Salah Salem,148,28.4,68.6,Nasr City
+1/2/2025 14:35,2,Al Haram,217,52.92,48.08,Giza
+1/2/2025 14:35,3,Nile Corniche,103,23.55,73.45,Downtown
+1/2/2025 14:35,4,Maadi Corniche,237,79.64,22.36,Maadi
+1/2/2025 14:35,5,Teseen Axis - New Cairo,232,76.96,22.04,Fifth Settlement
+1/2/2025 14:40,1,Salah Salem,75,74.42,28.58,Nasr City
+1/2/2025 14:40,2,Al Haram,114,41.26,55.74,Giza
+1/2/2025 14:40,3,Nile Corniche,113,63.85,37.15,Downtown
+1/2/2025 14:40,4,Maadi Corniche,145,41.47,54.53,Maadi
+1/2/2025 14:40,5,Teseen Axis - New Cairo,136,34.63,64.37,Fifth Settlement
+1/2/2025 14:45,1,Salah Salem,106,31.93,64.07,Nasr City
+1/2/2025 14:45,2,Al Haram,137,64.54,37.46,Giza
+1/2/2025 14:45,3,Nile Corniche,228,41.29,54.71,Downtown
+1/2/2025 14:45,4,Maadi Corniche,225,53.83,46.17,Maadi
+1/2/2025 14:45,5,Teseen Axis - New Cairo,140,61.7,41.3,Fifth Settlement
+1/2/2025 14:50,1,Salah Salem,80,31.75,70.25,Nasr City
+1/2/2025 14:50,2,Al Haram,161,27.83,67.17,Giza
+1/2/2025 14:50,3,Nile Corniche,136,39.04,60.96,Downtown
+1/2/2025 14:50,4,Maadi Corniche,166,23.66,79.34,Maadi
+1/2/2025 14:50,5,Teseen Axis - New Cairo,243,37.29,58.71,Fifth Settlement
+1/2/2025 14:55,1,Salah Salem,90,49.77,53.23,Nasr City
+1/2/2025 14:55,2,Al Haram,87,25.48,70.52,Giza
+1/2/2025 14:55,3,Nile Corniche,217,27.72,71.28,Downtown
+1/2/2025 14:55,4,Maadi Corniche,148,23.65,73.35,Maadi
+1/2/2025 14:55,5,Teseen Axis - New Cairo,195,62.86,35.14,Fifth Settlement
+1/2/2025 15:00,1,Salah Salem,174,27.52,69.48,Nasr City
+1/2/2025 15:00,2,Al Haram,239,58.53,44.47,Giza
+1/2/2025 15:00,3,Nile Corniche,222,49.67,46.33,Downtown
+1/2/2025 15:00,4,Maadi Corniche,138,38.96,58.04,Maadi
+1/2/2025 15:00,5,Teseen Axis - New Cairo,200,45.78,54.22,Fifth Settlement
+1/2/2025 15:05,1,Salah Salem,122,54.33,42.67,Nasr City
+1/2/2025 15:05,2,Al Haram,211,30.87,71.13,Giza
+1/2/2025 15:05,3,Nile Corniche,232,43.08,59.92,Downtown
+1/2/2025 15:05,4,Maadi Corniche,174,55.64,43.36,Maadi
+1/2/2025 15:05,5,Teseen Axis - New Cairo,171,24.04,78.96,Fifth Settlement
+1/2/2025 15:10,1,Salah Salem,97,30.64,73.36,Nasr City
+1/2/2025 15:10,2,Al Haram,59,51.08,46.92,Giza
+1/2/2025 15:10,3,Nile Corniche,67,37,61,Downtown
+1/2/2025 15:10,4,Maadi Corniche,174,68.71,29.29,Maadi
+1/2/2025 15:10,5,Teseen Axis - New Cairo,240,71.81,31.19,Fifth Settlement
+1/2/2025 15:15,1,Salah Salem,203,75.97,21.03,Nasr City
+1/2/2025 15:15,2,Al Haram,170,73.17,27.83,Giza
+1/2/2025 15:15,3,Nile Corniche,54,53.88,42.12,Downtown
+1/2/2025 15:15,4,Maadi Corniche,160,60.74,37.26,Maadi
+1/2/2025 15:15,5,Teseen Axis - New Cairo,219,64.16,38.84,Fifth Settlement
+1/2/2025 15:20,1,Salah Salem,57,58.31,44.69,Nasr City
+1/2/2025 15:20,2,Al Haram,166,20.06,78.94,Giza
+1/2/2025 15:20,3,Nile Corniche,91,71.55,30.45,Downtown
+1/2/2025 15:20,4,Maadi Corniche,190,60.49,43.51,Maadi
+1/2/2025 15:20,5,Teseen Axis - New Cairo,122,65.6,30.4,Fifth Settlement
+1/2/2025 15:25,1,Salah Salem,105,75.9,25.1,Nasr City
+1/2/2025 15:25,2,Al Haram,89,68.23,30.77,Giza
+1/2/2025 15:25,3,Nile Corniche,200,43.16,60.84,Downtown
+1/2/2025 15:25,4,Maadi Corniche,228,73.18,29.82,Maadi
+1/2/2025 15:25,5,Teseen Axis - New Cairo,80,77.94,23.06,Fifth Settlement
+1/2/2025 15:30,1,Salah Salem,179,77.91,26.09,Nasr City
+1/2/2025 15:30,2,Al Haram,152,57.92,43.08,Giza
+1/2/2025 15:30,3,Nile Corniche,119,42.02,54.98,Downtown
+1/2/2025 15:30,4,Maadi Corniche,131,32.39,65.61,Maadi
+1/2/2025 15:30,5,Teseen Axis - New Cairo,241,58.16,41.84,Fifth Settlement
+1/2/2025 15:35,1,Salah Salem,108,20.41,81.59,Nasr City
+1/2/2025 15:35,2,Al Haram,154,42.21,60.79,Giza
+1/2/2025 15:35,3,Nile Corniche,232,65.91,29.09,Downtown
+1/2/2025 15:35,4,Maadi Corniche,151,58.49,38.51,Maadi
+1/2/2025 15:35,5,Teseen Axis - New Cairo,98,23.75,76.25,Fifth Settlement
+1/2/2025 15:40,1,Salah Salem,228,34.91,63.09,Nasr City
+1/2/2025 15:40,2,Al Haram,132,72.53,28.47,Giza
+1/2/2025 15:40,3,Nile Corniche,204,67.11,30.89,Downtown
+1/2/2025 15:40,4,Maadi Corniche,202,74.71,21.29,Maadi
+1/2/2025 15:40,5,Teseen Axis - New Cairo,183,60.95,42.05,Fifth Settlement
+1/2/2025 15:45,1,Salah Salem,232,50.03,51.97,Nasr City
+1/2/2025 15:45,2,Al Haram,124,50.63,46.37,Giza
+1/2/2025 15:45,3,Nile Corniche,175,38.72,58.28,Downtown
+1/2/2025 15:45,4,Maadi Corniche,124,71.69,25.31,Maadi
+1/2/2025 15:45,5,Teseen Axis - New Cairo,139,25.06,74.94,Fifth Settlement
+1/2/2025 15:50,1,Salah Salem,233,34.14,67.86,Nasr City
+1/2/2025 15:50,2,Al Haram,228,76.74,23.26,Giza
+1/2/2025 15:50,3,Nile Corniche,108,68.19,26.81,Downtown
+1/2/2025 15:50,4,Maadi Corniche,206,64.52,37.48,Maadi
+1/2/2025 15:50,5,Teseen Axis - New Cairo,245,57.5,39.5,Fifth Settlement
+1/2/2025 15:55,1,Salah Salem,153,71.58,23.42,Nasr City
+1/2/2025 15:55,2,Al Haram,248,43,60,Giza
+1/2/2025 15:55,3,Nile Corniche,172,70.19,28.81,Downtown
+1/2/2025 15:55,4,Maadi Corniche,210,31.35,66.65,Maadi
+1/2/2025 15:55,5,Teseen Axis - New Cairo,214,50.67,44.33,Fifth Settlement
+1/2/2025 16:00,1,Salah Salem,225,69.72,27.28,Nasr City
+1/2/2025 16:00,2,Al Haram,165,76.03,20.97,Giza
+1/2/2025 16:00,3,Nile Corniche,165,48.13,46.87,Downtown
+1/2/2025 16:00,4,Maadi Corniche,173,63.52,37.48,Maadi
+1/2/2025 16:00,5,Teseen Axis - New Cairo,131,44.47,51.53,Fifth Settlement
+1/2/2025 16:05,1,Salah Salem,128,24.25,71.75,Nasr City
+1/2/2025 16:05,2,Al Haram,85,33.98,63.02,Giza
+1/2/2025 16:05,3,Nile Corniche,239,76.52,26.48,Downtown
+1/2/2025 16:05,4,Maadi Corniche,147,66.53,31.47,Maadi
+1/2/2025 16:05,5,Teseen Axis - New Cairo,62,78.55,24.45,Fifth Settlement
+1/2/2025 16:10,1,Salah Salem,142,51.23,48.77,Nasr City
+1/2/2025 16:10,2,Al Haram,248,72.79,30.21,Giza
+1/2/2025 16:10,3,Nile Corniche,87,23.79,76.21,Downtown
+1/2/2025 16:10,4,Maadi Corniche,179,24.4,78.6,Maadi
+1/2/2025 16:10,5,Teseen Axis - New Cairo,105,51.8,46.2,Fifth Settlement
+1/2/2025 16:15,1,Salah Salem,134,44.64,55.36,Nasr City
+1/2/2025 16:15,2,Al Haram,84,73.7,22.3,Giza
+1/2/2025 16:15,3,Nile Corniche,171,60.41,34.59,Downtown
+1/2/2025 16:15,4,Maadi Corniche,129,35.4,60.6,Maadi
+1/2/2025 16:15,5,Teseen Axis - New Cairo,181,50.77,45.23,Fifth Settlement
+1/2/2025 16:20,1,Salah Salem,143,55.76,45.24,Nasr City
+1/2/2025 16:20,2,Al Haram,118,35.58,61.42,Giza
+1/2/2025 16:20,3,Nile Corniche,154,54.25,48.75,Downtown
+1/2/2025 16:20,4,Maadi Corniche,246,71.72,24.28,Maadi
+1/2/2025 16:20,5,Teseen Axis - New Cairo,58,53.23,46.77,Fifth Settlement
+1/2/2025 16:25,1,Salah Salem,113,36.88,59.12,Nasr City
+1/2/2025 16:25,2,Al Haram,232,65.17,29.83,Giza
+1/2/2025 16:25,3,Nile Corniche,67,63.37,31.63,Downtown
+1/2/2025 16:25,4,Maadi Corniche,50,27.15,70.85,Maadi
+1/2/2025 16:25,5,Teseen Axis - New Cairo,174,40.93,54.07,Fifth Settlement
+1/2/2025 16:30,1,Salah Salem,77,34.07,66.93,Nasr City
+1/2/2025 16:30,2,Al Haram,237,79.66,16.34,Giza
+1/2/2025 16:30,3,Nile Corniche,136,65.02,36.98,Downtown
+1/2/2025 16:30,4,Maadi Corniche,105,57.48,44.52,Maadi
+1/2/2025 16:30,5,Teseen Axis - New Cairo,67,47.13,47.87,Fifth Settlement
+1/2/2025 16:35,1,Salah Salem,220,60.54,43.46,Nasr City
+1/2/2025 16:35,2,Al Haram,128,66.39,33.61,Giza
+1/2/2025 16:35,3,Nile Corniche,79,66.68,37.32,Downtown
+1/2/2025 16:35,4,Maadi Corniche,245,79.33,22.67,Maadi
+1/2/2025 16:35,5,Teseen Axis - New Cairo,195,79.21,22.79,Fifth Settlement
+1/2/2025 16:40,1,Salah Salem,119,34.92,60.08,Nasr City
+1/2/2025 16:40,2,Al Haram,117,79.53,18.47,Giza
+1/2/2025 16:40,3,Nile Corniche,163,25.84,73.16,Downtown
+1/2/2025 16:40,4,Maadi Corniche,127,71.53,32.47,Maadi
+1/2/2025 16:40,5,Teseen Axis - New Cairo,228,27.31,72.69,Fifth Settlement
+1/2/2025 16:45,1,Salah Salem,177,74.25,25.75,Nasr City
+1/2/2025 16:45,2,Al Haram,121,38.47,56.53,Giza
+1/2/2025 16:45,3,Nile Corniche,162,34.01,66.99,Downtown
+1/2/2025 16:45,4,Maadi Corniche,132,45.69,57.31,Maadi
+1/2/2025 16:45,5,Teseen Axis - New Cairo,232,33.44,66.56,Fifth Settlement
+1/2/2025 16:50,1,Salah Salem,175,49.58,53.42,Nasr City
+1/2/2025 16:50,2,Al Haram,91,26.41,69.59,Giza
+1/2/2025 16:50,3,Nile Corniche,171,37.88,63.12,Downtown
+1/2/2025 16:50,4,Maadi Corniche,159,74.95,22.05,Maadi
+1/2/2025 16:50,5,Teseen Axis - New Cairo,105,37.02,65.98,Fifth Settlement
+1/2/2025 16:55,1,Salah Salem,221,21.25,74.75,Nasr City
+1/2/2025 16:55,2,Al Haram,174,22.56,76.44,Giza
+1/2/2025 16:55,3,Nile Corniche,247,24.67,72.33,Downtown
+1/2/2025 16:55,4,Maadi Corniche,178,34.82,64.18,Maadi
+1/2/2025 16:55,5,Teseen Axis - New Cairo,65,30.13,69.87,Fifth Settlement
+1/2/2025 17:00,1,Salah Salem,217,32.74,62.26,Nasr City
+1/2/2025 17:00,2,Al Haram,149,76.09,18.91,Giza
+1/2/2025 17:00,3,Nile Corniche,170,68.18,32.82,Downtown
+1/2/2025 17:00,4,Maadi Corniche,221,56.36,39.64,Maadi
+1/2/2025 17:00,5,Teseen Axis - New Cairo,95,77.15,23.85,Fifth Settlement
+1/2/2025 17:05,1,Salah Salem,145,61.47,42.53,Nasr City
+1/2/2025 17:05,2,Al Haram,227,38.62,60.38,Giza
+1/2/2025 17:05,3,Nile Corniche,189,67.79,35.21,Downtown
+1/2/2025 17:05,4,Maadi Corniche,133,59.8,39.2,Maadi
+1/2/2025 17:05,5,Teseen Axis - New Cairo,107,25.25,70.75,Fifth Settlement
+1/2/2025 17:10,1,Salah Salem,183,44.81,56.19,Nasr City
+1/2/2025 17:10,2,Al Haram,72,36.44,64.56,Giza
+1/2/2025 17:10,3,Nile Corniche,128,77.22,26.78,Downtown
+1/2/2025 17:10,4,Maadi Corniche,146,22.59,78.41,Maadi
+1/2/2025 17:10,5,Teseen Axis - New Cairo,241,26.95,72.05,Fifth Settlement
+1/2/2025 17:15,1,Salah Salem,110,50.22,53.78,Nasr City
+1/2/2025 17:15,2,Al Haram,146,50.49,49.51,Giza
+1/2/2025 17:15,3,Nile Corniche,168,48.66,55.34,Downtown
+1/2/2025 17:15,4,Maadi Corniche,84,57.66,43.34,Maadi
+1/2/2025 17:15,5,Teseen Axis - New Cairo,206,28.76,74.24,Fifth Settlement
+1/2/2025 17:20,1,Salah Salem,218,75.06,21.94,Nasr City
+1/2/2025 17:20,2,Al Haram,107,57.53,38.47,Giza
+1/2/2025 17:20,3,Nile Corniche,92,24.14,70.86,Downtown
+1/2/2025 17:20,4,Maadi Corniche,110,38.82,61.18,Maadi
+1/2/2025 17:20,5,Teseen Axis - New Cairo,152,57.15,46.85,Fifth Settlement
+1/2/2025 17:25,1,Salah Salem,207,68.86,26.14,Nasr City
+1/2/2025 17:25,2,Al Haram,146,31.8,72.2,Giza
+1/2/2025 17:25,3,Nile Corniche,100,58.57,43.43,Downtown
+1/2/2025 17:25,4,Maadi Corniche,90,51.56,43.44,Maadi
+1/2/2025 17:25,5,Teseen Axis - New Cairo,113,48.14,47.86,Fifth Settlement
+1/2/2025 17:30,1,Salah Salem,235,30.81,67.19,Nasr City
+1/2/2025 17:30,2,Al Haram,163,73.02,29.98,Giza
+1/2/2025 17:30,3,Nile Corniche,237,21.52,82.48,Downtown
+1/2/2025 17:30,4,Maadi Corniche,123,63.52,35.48,Maadi
+1/2/2025 17:30,5,Teseen Axis - New Cairo,215,32.13,69.87,Fifth Settlement
+1/2/2025 17:35,1,Salah Salem,217,32.42,62.58,Nasr City
+1/2/2025 17:35,2,Al Haram,194,33.9,69.1,Giza
+1/2/2025 17:35,3,Nile Corniche,179,43.84,58.16,Downtown
+1/2/2025 17:35,4,Maadi Corniche,186,40.57,54.43,Maadi
+1/2/2025 17:35,5,Teseen Axis - New Cairo,166,54.22,47.78,Fifth Settlement
+1/2/2025 17:40,1,Salah Salem,235,64.49,34.51,Nasr City
+1/2/2025 17:40,2,Al Haram,195,73.07,28.93,Giza
+1/2/2025 17:40,3,Nile Corniche,123,52.07,43.93,Downtown
+1/2/2025 17:40,4,Maadi Corniche,91,29.97,69.03,Maadi
+1/2/2025 17:40,5,Teseen Axis - New Cairo,94,39.67,63.33,Fifth Settlement
+1/2/2025 17:45,1,Salah Salem,63,65.59,32.41,Nasr City
+1/2/2025 17:45,2,Al Haram,131,50.12,51.88,Giza
+1/2/2025 17:45,3,Nile Corniche,169,54.74,48.26,Downtown
+1/2/2025 17:45,4,Maadi Corniche,128,49.95,49.05,Maadi
+1/2/2025 17:45,5,Teseen Axis - New Cairo,68,25.23,78.77,Fifth Settlement
+1/2/2025 17:50,1,Salah Salem,203,40.53,54.47,Nasr City
+1/2/2025 17:50,2,Al Haram,131,69.76,27.24,Giza
+1/2/2025 17:50,3,Nile Corniche,243,75.03,21.97,Downtown
+1/2/2025 17:50,4,Maadi Corniche,66,37.95,57.05,Maadi
+1/2/2025 17:50,5,Teseen Axis - New Cairo,233,40.51,54.49,Fifth Settlement
+1/2/2025 17:55,1,Salah Salem,104,69.98,32.02,Nasr City
+1/2/2025 17:55,2,Al Haram,101,67.48,32.52,Giza
+1/2/2025 17:55,3,Nile Corniche,56,40.35,57.65,Downtown
+1/2/2025 17:55,4,Maadi Corniche,193,22.46,77.54,Maadi
+1/2/2025 17:55,5,Teseen Axis - New Cairo,111,46.76,56.24,Fifth Settlement
+1/2/2025 18:00,1,Salah Salem,59,23.75,80.25,Nasr City
+1/2/2025 18:00,2,Al Haram,249,64.94,35.06,Giza
+1/2/2025 18:00,3,Nile Corniche,193,48.82,52.18,Downtown
+1/2/2025 18:00,4,Maadi Corniche,127,52.74,51.26,Maadi
+1/2/2025 18:00,5,Teseen Axis - New Cairo,127,37.51,66.49,Fifth Settlement
+1/2/2025 18:05,1,Salah Salem,170,48.96,48.04,Nasr City
+1/2/2025 18:05,2,Al Haram,229,51.88,52.12,Giza
+1/2/2025 18:05,3,Nile Corniche,51,45.63,49.37,Downtown
+1/2/2025 18:05,4,Maadi Corniche,189,77.73,17.27,Maadi
+1/2/2025 18:05,5,Teseen Axis - New Cairo,62,57.1,38.9,Fifth Settlement
+1/2/2025 18:10,1,Salah Salem,75,50.66,47.34,Nasr City
+1/2/2025 18:10,2,Al Haram,217,22.36,80.64,Giza
+1/2/2025 18:10,3,Nile Corniche,136,34.54,66.46,Downtown
+1/2/2025 18:10,4,Maadi Corniche,130,70.35,25.65,Maadi
+1/2/2025 18:10,5,Teseen Axis - New Cairo,133,71.42,25.58,Fifth Settlement
+1/2/2025 18:15,1,Salah Salem,232,63.88,32.12,Nasr City
+1/2/2025 18:15,2,Al Haram,149,45.1,51.9,Giza
+1/2/2025 18:15,3,Nile Corniche,211,76.2,23.8,Downtown
+1/2/2025 18:15,4,Maadi Corniche,241,30.7,65.3,Maadi
+1/2/2025 18:15,5,Teseen Axis - New Cairo,61,70.53,29.47,Fifth Settlement
+1/2/2025 18:20,1,Salah Salem,166,43.62,57.38,Nasr City
+1/2/2025 18:20,2,Al Haram,97,55.04,42.96,Giza
+1/2/2025 18:20,3,Nile Corniche,204,71.08,27.92,Downtown
+1/2/2025 18:20,4,Maadi Corniche,97,41.37,57.63,Maadi
+1/2/2025 18:20,5,Teseen Axis - New Cairo,60,36.45,60.55,Fifth Settlement
+1/2/2025 18:25,1,Salah Salem,171,64.39,34.61,Nasr City
+1/2/2025 18:25,2,Al Haram,86,27.15,69.85,Giza
+1/2/2025 18:25,3,Nile Corniche,142,37.19,66.81,Downtown
+1/2/2025 18:25,4,Maadi Corniche,198,64.88,38.12,Maadi
+1/2/2025 18:25,5,Teseen Axis - New Cairo,60,62.26,41.74,Fifth Settlement
+1/2/2025 18:30,1,Salah Salem,174,46.12,54.88,Nasr City
+1/2/2025 18:30,2,Al Haram,63,61.77,38.23,Giza
+1/2/2025 18:30,3,Nile Corniche,157,25.56,70.44,Downtown
+1/2/2025 18:30,4,Maadi Corniche,218,69.3,25.7,Maadi
+1/2/2025 18:30,5,Teseen Axis - New Cairo,194,67.51,29.49,Fifth Settlement
+1/2/2025 18:35,1,Salah Salem,50,53.86,44.14,Nasr City
+1/2/2025 18:35,2,Al Haram,219,29.98,74.02,Giza
+1/2/2025 18:35,3,Nile Corniche,134,57.03,40.97,Downtown
+1/2/2025 18:35,4,Maadi Corniche,131,63.66,32.34,Maadi
+1/2/2025 18:35,5,Teseen Axis - New Cairo,61,65.73,30.27,Fifth Settlement
+1/2/2025 18:40,1,Salah Salem,55,31.52,65.48,Nasr City
+1/2/2025 18:40,2,Al Haram,60,57.4,45.6,Giza
+1/2/2025 18:40,3,Nile Corniche,51,51.72,47.28,Downtown
+1/2/2025 18:40,4,Maadi Corniche,59,68.79,33.21,Maadi
+1/2/2025 18:40,5,Teseen Axis - New Cairo,85,25.1,74.9,Fifth Settlement
+1/2/2025 18:45,1,Salah Salem,135,53.49,42.51,Nasr City
+1/2/2025 18:45,2,Al Haram,216,73.6,27.4,Giza
+1/2/2025 18:45,3,Nile Corniche,184,37.27,66.73,Downtown
+1/2/2025 18:45,4,Maadi Corniche,215,70.18,29.82,Maadi
+1/2/2025 18:45,5,Teseen Axis - New Cairo,93,71.13,32.87,Fifth Settlement
+1/2/2025 18:50,1,Salah Salem,183,53.17,42.83,Nasr City
+1/2/2025 18:50,2,Al Haram,87,49.1,54.9,Giza
+1/2/2025 18:50,3,Nile Corniche,169,78.35,23.65,Downtown
+1/2/2025 18:50,4,Maadi Corniche,119,56.85,44.15,Maadi
+1/2/2025 18:50,5,Teseen Axis - New Cairo,82,45.75,56.25,Fifth Settlement
+1/2/2025 18:55,1,Salah Salem,106,47.41,56.59,Nasr City
+1/2/2025 18:55,2,Al Haram,76,35.32,67.68,Giza
+1/2/2025 18:55,3,Nile Corniche,229,42.68,61.32,Downtown
+1/2/2025 18:55,4,Maadi Corniche,75,47.98,53.02,Maadi
+1/2/2025 18:55,5,Teseen Axis - New Cairo,106,23.16,77.84,Fifth Settlement
+1/2/2025 19:00,1,Salah Salem,80,22.71,79.29,Nasr City
+1/2/2025 19:00,2,Al Haram,82,70.64,25.36,Giza
+1/2/2025 19:00,3,Nile Corniche,224,45.3,50.7,Downtown
+1/2/2025 19:00,4,Maadi Corniche,133,46.94,49.06,Maadi
+1/2/2025 19:00,5,Teseen Axis - New Cairo,195,39.95,62.05,Fifth Settlement
+1/2/2025 19:05,1,Salah Salem,121,26.4,72.6,Nasr City
+1/2/2025 19:05,2,Al Haram,187,44.25,50.75,Giza
+1/2/2025 19:05,3,Nile Corniche,188,72.11,31.89,Downtown
+1/2/2025 19:05,4,Maadi Corniche,213,51,51,Maadi
+1/2/2025 19:05,5,Teseen Axis - New Cairo,138,37.11,59.89,Fifth Settlement
+1/2/2025 19:10,1,Salah Salem,143,48.92,52.08,Nasr City
+1/2/2025 19:10,2,Al Haram,103,30.19,71.81,Giza
+1/2/2025 19:10,3,Nile Corniche,83,23.37,78.63,Downtown
+1/2/2025 19:10,4,Maadi Corniche,67,74.77,24.23,Maadi
+1/2/2025 19:10,5,Teseen Axis - New Cairo,203,52.78,44.22,Fifth Settlement
+1/2/2025 19:15,1,Salah Salem,78,33.22,68.78,Nasr City
+1/2/2025 19:15,2,Al Haram,172,26.14,69.86,Giza
+1/2/2025 19:15,3,Nile Corniche,157,77.82,21.18,Downtown
+1/2/2025 19:15,4,Maadi Corniche,51,20.63,80.37,Maadi
+1/2/2025 19:15,5,Teseen Axis - New Cairo,75,71.06,29.94,Fifth Settlement
+1/2/2025 19:20,1,Salah Salem,217,64.77,38.23,Nasr City
+1/2/2025 19:20,2,Al Haram,81,29.64,69.36,Giza
+1/2/2025 19:20,3,Nile Corniche,123,63.15,39.85,Downtown
+1/2/2025 19:20,4,Maadi Corniche,230,38.97,65.03,Maadi
+1/2/2025 19:20,5,Teseen Axis - New Cairo,176,60.19,36.81,Fifth Settlement
+1/2/2025 19:25,1,Salah Salem,192,31.04,67.96,Nasr City
+1/2/2025 19:25,2,Al Haram,247,48.45,55.55,Giza
+1/2/2025 19:25,3,Nile Corniche,238,22.42,76.58,Downtown
+1/2/2025 19:25,4,Maadi Corniche,217,32.36,65.64,Maadi
+1/2/2025 19:25,5,Teseen Axis - New Cairo,153,53.92,45.08,Fifth Settlement
+1/2/2025 19:30,1,Salah Salem,155,22.07,81.93,Nasr City
+1/2/2025 19:30,2,Al Haram,150,38.11,56.89,Giza
+1/2/2025 19:30,3,Nile Corniche,58,52.3,47.7,Downtown
+1/2/2025 19:30,4,Maadi Corniche,231,57.27,39.73,Maadi
+1/2/2025 19:30,5,Teseen Axis - New Cairo,246,78.62,17.38,Fifth Settlement
+1/2/2025 19:35,1,Salah Salem,126,46.72,57.28,Nasr City
+1/2/2025 19:35,2,Al Haram,127,25.95,74.05,Giza
+1/2/2025 19:35,3,Nile Corniche,117,57.71,43.29,Downtown
+1/2/2025 19:35,4,Maadi Corniche,105,57.65,41.35,Maadi
+1/2/2025 19:35,5,Teseen Axis - New Cairo,100,32.29,70.71,Fifth Settlement
+1/2/2025 19:40,1,Salah Salem,192,64.31,34.69,Nasr City
+1/2/2025 19:40,2,Al Haram,132,34.54,69.46,Giza
+1/2/2025 19:40,3,Nile Corniche,189,77.27,18.73,Downtown
+1/2/2025 19:40,4,Maadi Corniche,129,63.06,39.94,Maadi
+1/2/2025 19:40,5,Teseen Axis - New Cairo,147,68.11,28.89,Fifth Settlement
+1/2/2025 19:45,1,Salah Salem,58,72.17,23.83,Nasr City
+1/2/2025 19:45,2,Al Haram,220,76.86,26.14,Giza
+1/2/2025 19:45,3,Nile Corniche,154,55.58,47.42,Downtown
+1/2/2025 19:45,4,Maadi Corniche,222,34.55,69.45,Maadi
+1/2/2025 19:45,5,Teseen Axis - New Cairo,129,23.51,75.49,Fifth Settlement
+1/2/2025 19:50,1,Salah Salem,147,48.46,52.54,Nasr City
+1/2/2025 19:50,2,Al Haram,145,41.29,60.71,Giza
+1/2/2025 19:50,3,Nile Corniche,212,54.63,45.37,Downtown
+1/2/2025 19:50,4,Maadi Corniche,216,21,79,Maadi
+1/2/2025 19:50,5,Teseen Axis - New Cairo,200,45.16,49.84,Fifth Settlement
+1/2/2025 19:55,1,Salah Salem,108,44.64,56.36,Nasr City
+1/2/2025 19:55,2,Al Haram,179,76.04,25.96,Giza
+1/2/2025 19:55,3,Nile Corniche,175,22.3,79.7,Downtown
+1/2/2025 19:55,4,Maadi Corniche,97,45.24,50.76,Maadi
+1/2/2025 19:55,5,Teseen Axis - New Cairo,232,74.6,29.4,Fifth Settlement
+1/2/2025 20:00,1,Salah Salem,129,52.17,45.83,Nasr City
+1/2/2025 20:00,2,Al Haram,241,37.7,60.3,Giza
+1/2/2025 20:00,3,Nile Corniche,244,61.83,38.17,Downtown
+1/2/2025 20:00,4,Maadi Corniche,163,71.78,29.22,Maadi
+1/2/2025 20:00,5,Teseen Axis - New Cairo,173,24.13,76.87,Fifth Settlement
+1/2/2025 20:05,1,Salah Salem,105,63.61,40.39,Nasr City
+1/2/2025 20:05,2,Al Haram,136,29.51,68.49,Giza
+1/2/2025 20:05,3,Nile Corniche,200,78.31,20.69,Downtown
+1/2/2025 20:05,4,Maadi Corniche,198,37.45,58.55,Maadi
+1/2/2025 20:05,5,Teseen Axis - New Cairo,86,71.47,24.53,Fifth Settlement
+1/2/2025 20:10,1,Salah Salem,111,50.79,47.21,Nasr City
+1/2/2025 20:10,2,Al Haram,101,78.4,22.6,Giza
+1/2/2025 20:10,3,Nile Corniche,221,24.52,71.48,Downtown
+1/2/2025 20:10,4,Maadi Corniche,243,40.58,63.42,Maadi
+1/2/2025 20:10,5,Teseen Axis - New Cairo,91,39.75,61.25,Fifth Settlement
+1/2/2025 20:15,1,Salah Salem,246,47.01,56.99,Nasr City
+1/2/2025 20:15,2,Al Haram,151,41.11,55.89,Giza
+1/2/2025 20:15,3,Nile Corniche,198,25.8,69.2,Downtown
+1/2/2025 20:15,4,Maadi Corniche,127,31.06,67.94,Maadi
+1/2/2025 20:15,5,Teseen Axis - New Cairo,98,21.31,77.69,Fifth Settlement
+1/2/2025 20:20,1,Salah Salem,107,28.07,69.93,Nasr City
+1/2/2025 20:20,2,Al Haram,238,76.15,20.85,Giza
+1/2/2025 20:20,3,Nile Corniche,99,20.63,81.37,Downtown
+1/2/2025 20:20,4,Maadi Corniche,146,54.11,40.89,Maadi
+1/2/2025 20:20,5,Teseen Axis - New Cairo,85,48.62,55.38,Fifth Settlement
+1/2/2025 20:25,1,Salah Salem,144,73.25,21.75,Nasr City
+1/2/2025 20:25,2,Al Haram,120,40.15,58.85,Giza
+1/2/2025 20:25,3,Nile Corniche,141,75.61,26.39,Downtown
+1/2/2025 20:25,4,Maadi Corniche,165,47.17,52.83,Maadi
+1/2/2025 20:25,5,Teseen Axis - New Cairo,74,77.53,24.47,Fifth Settlement
+1/2/2025 20:30,1,Salah Salem,70,54.79,45.21,Nasr City
+1/2/2025 20:30,2,Al Haram,106,36.74,58.26,Giza
+1/2/2025 20:30,3,Nile Corniche,242,55.26,48.74,Downtown
+1/2/2025 20:30,4,Maadi Corniche,70,43.54,58.46,Maadi
+1/2/2025 20:30,5,Teseen Axis - New Cairo,116,63.8,36.2,Fifth Settlement
+1/2/2025 20:35,1,Salah Salem,104,24.46,71.54,Nasr City
+1/2/2025 20:35,2,Al Haram,233,77.99,23.01,Giza
+1/2/2025 20:35,3,Nile Corniche,247,40.09,54.91,Downtown
+1/2/2025 20:35,4,Maadi Corniche,136,67.65,28.35,Maadi
+1/2/2025 20:35,5,Teseen Axis - New Cairo,68,76.9,24.1,Fifth Settlement
+1/2/2025 20:40,1,Salah Salem,167,29.69,74.31,Nasr City
+1/2/2025 20:40,2,Al Haram,108,52.25,42.75,Giza
+1/2/2025 20:40,3,Nile Corniche,76,35.46,62.54,Downtown
+1/2/2025 20:40,4,Maadi Corniche,68,63.99,37.01,Maadi
+1/2/2025 20:40,5,Teseen Axis - New Cairo,166,77.35,23.65,Fifth Settlement
+1/2/2025 20:45,1,Salah Salem,130,72.96,29.04,Nasr City
+1/2/2025 20:45,2,Al Haram,222,23.34,79.66,Giza
+1/2/2025 20:45,3,Nile Corniche,246,23.46,74.54,Downtown
+1/2/2025 20:45,4,Maadi Corniche,78,33.64,63.36,Maadi
+1/2/2025 20:45,5,Teseen Axis - New Cairo,201,61.7,34.3,Fifth Settlement
+1/2/2025 20:50,1,Salah Salem,219,79.42,16.58,Nasr City
+1/2/2025 20:50,2,Al Haram,66,71.11,25.89,Giza
+1/2/2025 20:50,3,Nile Corniche,72,43.07,59.93,Downtown
+1/2/2025 20:50,4,Maadi Corniche,64,21.94,75.06,Maadi
+1/2/2025 20:50,5,Teseen Axis - New Cairo,76,40.52,57.48,Fifth Settlement
+1/2/2025 20:55,1,Salah Salem,114,31.25,63.75,Nasr City
+1/2/2025 20:55,2,Al Haram,59,35.65,65.35,Giza
+1/2/2025 20:55,3,Nile Corniche,173,50.77,45.23,Downtown
+1/2/2025 20:55,4,Maadi Corniche,216,72.35,23.65,Maadi
+1/2/2025 20:55,5,Teseen Axis - New Cairo,221,47.01,48.99,Fifth Settlement
+1/2/2025 21:00,1,Salah Salem,120,43.33,56.67,Nasr City
+1/2/2025 21:00,2,Al Haram,236,43.67,59.33,Giza
+1/2/2025 21:00,3,Nile Corniche,249,78,19,Downtown
+1/2/2025 21:00,4,Maadi Corniche,131,34.86,63.14,Maadi
+1/2/2025 21:00,5,Teseen Axis - New Cairo,216,78,25,Fifth Settlement
+1/2/2025 21:05,1,Salah Salem,205,39.26,60.74,Nasr City
+1/2/2025 21:05,2,Al Haram,208,36.41,61.59,Giza
+1/2/2025 21:05,3,Nile Corniche,174,23.1,74.9,Downtown
+1/2/2025 21:05,4,Maadi Corniche,137,28.34,72.66,Maadi
+1/2/2025 21:05,5,Teseen Axis - New Cairo,234,22.87,81.13,Fifth Settlement
+1/2/2025 21:10,1,Salah Salem,182,62.67,41.33,Nasr City
+1/2/2025 21:10,2,Al Haram,151,65.83,35.17,Giza
+1/2/2025 21:10,3,Nile Corniche,195,66.76,37.24,Downtown
+1/2/2025 21:10,4,Maadi Corniche,66,34.5,68.5,Maadi
+1/2/2025 21:10,5,Teseen Axis - New Cairo,168,20.47,75.53,Fifth Settlement
+1/2/2025 21:15,1,Salah Salem,94,64.37,31.63,Nasr City
+1/2/2025 21:15,2,Al Haram,93,61.23,38.77,Giza
+1/2/2025 21:15,3,Nile Corniche,227,45.04,51.96,Downtown
+1/2/2025 21:15,4,Maadi Corniche,52,28.03,75.97,Maadi
+1/2/2025 21:15,5,Teseen Axis - New Cairo,100,24.36,70.64,Fifth Settlement
+1/2/2025 21:20,1,Salah Salem,56,35.24,60.76,Nasr City
+1/2/2025 21:20,2,Al Haram,53,25.37,76.63,Giza
+1/2/2025 21:20,3,Nile Corniche,66,36.27,60.73,Downtown
+1/2/2025 21:20,4,Maadi Corniche,118,63.34,39.66,Maadi
+1/2/2025 21:20,5,Teseen Axis - New Cairo,70,43.46,54.54,Fifth Settlement
+1/2/2025 21:25,1,Salah Salem,201,77.28,19.72,Nasr City
+1/2/2025 21:25,2,Al Haram,117,34.5,67.5,Giza
+1/2/2025 21:25,3,Nile Corniche,225,39.01,62.99,Downtown
+1/2/2025 21:25,4,Maadi Corniche,157,45.93,52.07,Maadi
+1/2/2025 21:25,5,Teseen Axis - New Cairo,95,70.69,29.31,Fifth Settlement
+1/2/2025 21:30,1,Salah Salem,66,30.97,64.03,Nasr City
+1/2/2025 21:30,2,Al Haram,148,58.14,37.86,Giza
+1/2/2025 21:30,3,Nile Corniche,126,44.55,53.45,Downtown
+1/2/2025 21:30,4,Maadi Corniche,141,61.6,42.4,Maadi
+1/2/2025 21:30,5,Teseen Axis - New Cairo,71,38.25,62.75,Fifth Settlement
+1/2/2025 21:35,1,Salah Salem,116,37.64,66.36,Nasr City
+1/2/2025 21:35,2,Al Haram,189,63.62,34.38,Giza
+1/2/2025 21:35,3,Nile Corniche,152,79.24,23.76,Downtown
+1/2/2025 21:35,4,Maadi Corniche,106,59.74,42.26,Maadi
+1/2/2025 21:35,5,Teseen Axis - New Cairo,146,43.81,56.19,Fifth Settlement
+1/2/2025 21:40,1,Salah Salem,129,54.16,42.84,Nasr City
+1/2/2025 21:40,2,Al Haram,52,35.64,68.36,Giza
+1/2/2025 21:40,3,Nile Corniche,60,63.33,35.67,Downtown
+1/2/2025 21:40,4,Maadi Corniche,233,52.81,45.19,Maadi
+1/2/2025 21:40,5,Teseen Axis - New Cairo,211,46.68,54.32,Fifth Settlement
+1/2/2025 21:45,1,Salah Salem,115,75.78,22.22,Nasr City
+1/2/2025 21:45,2,Al Haram,234,23.16,79.84,Giza
+1/2/2025 21:45,3,Nile Corniche,189,28,67,Downtown
+1/2/2025 21:45,4,Maadi Corniche,94,72.06,28.94,Maadi
+1/2/2025 21:45,5,Teseen Axis - New Cairo,140,57.27,42.73,Fifth Settlement
+1/2/2025 21:50,1,Salah Salem,179,73.98,24.02,Nasr City
+1/2/2025 21:50,2,Al Haram,138,46.32,48.68,Giza
+1/2/2025 21:50,3,Nile Corniche,142,49.97,45.03,Downtown
+1/2/2025 21:50,4,Maadi Corniche,101,35.93,60.07,Maadi
+1/2/2025 21:50,5,Teseen Axis - New Cairo,182,22.06,77.94,Fifth Settlement
+1/2/2025 21:55,1,Salah Salem,167,24.89,72.11,Nasr City
+1/2/2025 21:55,2,Al Haram,113,52.73,51.27,Giza
+1/2/2025 21:55,3,Nile Corniche,172,61.5,34.5,Downtown
+1/2/2025 21:55,4,Maadi Corniche,136,29.8,70.2,Maadi
+1/2/2025 21:55,5,Teseen Axis - New Cairo,151,28.73,67.27,Fifth Settlement
+1/2/2025 22:00,1,Salah Salem,143,60.02,38.98,Nasr City
+1/2/2025 22:00,2,Al Haram,168,46.14,54.86,Giza
+1/2/2025 22:00,3,Nile Corniche,94,64.54,39.46,Downtown
+1/2/2025 22:00,4,Maadi Corniche,204,33.19,67.81,Maadi
+1/2/2025 22:00,5,Teseen Axis - New Cairo,219,73.96,26.04,Fifth Settlement
+1/2/2025 22:05,1,Salah Salem,246,76.58,19.42,Nasr City
+1/2/2025 22:05,2,Al Haram,102,70.1,33.9,Giza
+1/2/2025 22:05,3,Nile Corniche,97,26.75,76.25,Downtown
+1/2/2025 22:05,4,Maadi Corniche,113,36.51,67.49,Maadi
+1/2/2025 22:05,5,Teseen Axis - New Cairo,228,46.21,50.79,Fifth Settlement
+1/2/2025 22:10,1,Salah Salem,113,56.17,38.83,Nasr City
+1/2/2025 22:10,2,Al Haram,151,61.8,33.2,Giza
+1/2/2025 22:10,3,Nile Corniche,70,44.47,55.53,Downtown
+1/2/2025 22:10,4,Maadi Corniche,95,21.3,76.7,Maadi
+1/2/2025 22:10,5,Teseen Axis - New Cairo,160,58.78,36.22,Fifth Settlement
+1/2/2025 22:15,1,Salah Salem,240,27.7,73.3,Nasr City
+1/2/2025 22:15,2,Al Haram,178,74.71,25.29,Giza
+1/2/2025 22:15,3,Nile Corniche,133,22.4,74.6,Downtown
+1/2/2025 22:15,4,Maadi Corniche,179,69.58,34.42,Maadi
+1/2/2025 22:15,5,Teseen Axis - New Cairo,118,71.5,24.5,Fifth Settlement
+1/2/2025 22:20,1,Salah Salem,237,67.06,36.94,Nasr City
+1/2/2025 22:20,2,Al Haram,163,38.7,61.3,Giza
+1/2/2025 22:20,3,Nile Corniche,134,23.96,76.04,Downtown
+1/2/2025 22:20,4,Maadi Corniche,226,78.86,20.14,Maadi
+1/2/2025 22:20,5,Teseen Axis - New Cairo,238,64.97,39.03,Fifth Settlement
+1/2/2025 22:25,1,Salah Salem,75,38.94,56.06,Nasr City
+1/2/2025 22:25,2,Al Haram,193,55.86,42.14,Giza
+1/2/2025 22:25,3,Nile Corniche,96,73.45,28.55,Downtown
+1/2/2025 22:25,4,Maadi Corniche,104,49.64,46.36,Maadi
+1/2/2025 22:25,5,Teseen Axis - New Cairo,231,64.21,39.79,Fifth Settlement
+1/2/2025 22:30,1,Salah Salem,235,54.37,45.63,Nasr City
+1/2/2025 22:30,2,Al Haram,223,76.26,25.74,Giza
+1/2/2025 22:30,3,Nile Corniche,57,46.77,54.23,Downtown
+1/2/2025 22:30,4,Maadi Corniche,113,40.03,61.97,Maadi
+1/2/2025 22:30,5,Teseen Axis - New Cairo,164,57.86,41.14,Fifth Settlement
+1/2/2025 22:35,1,Salah Salem,241,63.24,38.76,Nasr City
+1/2/2025 22:35,2,Al Haram,107,56.35,39.65,Giza
+1/2/2025 22:35,3,Nile Corniche,142,52.79,51.21,Downtown
+1/2/2025 22:35,4,Maadi Corniche,187,54.95,43.05,Maadi
+1/2/2025 22:35,5,Teseen Axis - New Cairo,133,31.37,67.63,Fifth Settlement
+1/2/2025 22:40,1,Salah Salem,135,76.87,26.13,Nasr City
+1/2/2025 22:40,2,Al Haram,142,21.05,78.95,Giza
+1/2/2025 22:40,3,Nile Corniche,208,69.17,25.83,Downtown
+1/2/2025 22:40,4,Maadi Corniche,122,37.04,64.96,Maadi
+1/2/2025 22:40,5,Teseen Axis - New Cairo,139,46.44,48.56,Fifth Settlement
+1/2/2025 22:45,1,Salah Salem,220,70.3,31.7,Nasr City
+1/2/2025 22:45,2,Al Haram,182,73.59,30.41,Giza
+1/2/2025 22:45,3,Nile Corniche,213,37.03,66.97,Downtown
+1/2/2025 22:45,4,Maadi Corniche,95,38.35,64.65,Maadi
+1/2/2025 22:45,5,Teseen Axis - New Cairo,166,57.18,43.82,Fifth Settlement
+1/2/2025 22:50,1,Salah Salem,123,50.77,52.23,Nasr City
+1/2/2025 22:50,2,Al Haram,231,39.71,60.29,Giza
+1/2/2025 22:50,3,Nile Corniche,174,39.34,59.66,Downtown
+1/2/2025 22:50,4,Maadi Corniche,115,24.25,71.75,Maadi
+1/2/2025 22:50,5,Teseen Axis - New Cairo,136,68.55,31.45,Fifth Settlement
+1/2/2025 22:55,1,Salah Salem,86,49.83,52.17,Nasr City
+1/2/2025 22:55,2,Al Haram,161,38,57,Giza
+1/2/2025 22:55,3,Nile Corniche,178,21.98,81.02,Downtown
+1/2/2025 22:55,4,Maadi Corniche,52,62.73,39.27,Maadi
+1/2/2025 22:55,5,Teseen Axis - New Cairo,241,49.66,54.34,Fifth Settlement
+1/2/2025 23:00,1,Salah Salem,126,32.7,71.3,Nasr City
+1/2/2025 23:00,2,Al Haram,84,78.57,19.43,Giza
+1/2/2025 23:00,3,Nile Corniche,65,65.22,31.78,Downtown
+1/2/2025 23:00,4,Maadi Corniche,231,73.7,29.3,Maadi
+1/2/2025 23:00,5,Teseen Axis - New Cairo,60,69.96,34.04,Fifth Settlement
+1/2/2025 23:05,1,Salah Salem,164,74.7,24.3,Nasr City
+1/2/2025 23:05,2,Al Haram,190,79.05,16.95,Giza
+1/2/2025 23:05,3,Nile Corniche,152,74.37,21.63,Downtown
+1/2/2025 23:05,4,Maadi Corniche,248,35.14,61.86,Maadi
+1/2/2025 23:05,5,Teseen Axis - New Cairo,56,72.72,22.28,Fifth Settlement
+1/2/2025 23:10,1,Salah Salem,150,76.84,19.16,Nasr City
+1/2/2025 23:10,2,Al Haram,176,30.12,67.88,Giza
+1/2/2025 23:10,3,Nile Corniche,69,47.17,50.83,Downtown
+1/2/2025 23:10,4,Maadi Corniche,81,60.61,34.39,Maadi
+1/2/2025 23:10,5,Teseen Axis - New Cairo,237,31.3,68.7,Fifth Settlement
+1/2/2025 23:15,1,Salah Salem,85,28.63,74.37,Nasr City
+1/2/2025 23:15,2,Al Haram,129,45.38,49.62,Giza
+1/2/2025 23:15,3,Nile Corniche,118,28.48,71.52,Downtown
+1/2/2025 23:15,4,Maadi Corniche,156,64.02,34.98,Maadi
+1/2/2025 23:15,5,Teseen Axis - New Cairo,230,52.7,45.3,Fifth Settlement
+1/2/2025 23:20,1,Salah Salem,85,34.21,61.79,Nasr City
+1/2/2025 23:20,2,Al Haram,227,27.48,68.52,Giza
+1/2/2025 23:20,3,Nile Corniche,71,33.76,64.24,Downtown
+1/2/2025 23:20,4,Maadi Corniche,177,23.28,77.72,Maadi
+1/2/2025 23:20,5,Teseen Axis - New Cairo,78,22.34,76.66,Fifth Settlement
+1/2/2025 23:25,1,Salah Salem,66,73.46,23.54,Nasr City
+1/2/2025 23:25,2,Al Haram,122,45.49,49.51,Giza
+1/2/2025 23:25,3,Nile Corniche,150,31.01,63.99,Downtown
+1/2/2025 23:25,4,Maadi Corniche,148,33.58,70.42,Maadi
+1/2/2025 23:25,5,Teseen Axis - New Cairo,228,67.91,29.09,Fifth Settlement
+1/2/2025 23:30,1,Salah Salem,90,66.84,32.16,Nasr City
+1/2/2025 23:30,2,Al Haram,131,42.97,58.03,Giza
+1/2/2025 23:30,3,Nile Corniche,63,46.27,50.73,Downtown
+1/2/2025 23:30,4,Maadi Corniche,182,65.73,38.27,Maadi
+1/2/2025 23:30,5,Teseen Axis - New Cairo,81,76.45,18.55,Fifth Settlement
+1/2/2025 23:35,1,Salah Salem,118,72.48,30.52,Nasr City
+1/2/2025 23:35,2,Al Haram,226,35.17,62.83,Giza
+1/2/2025 23:35,3,Nile Corniche,195,36.08,66.92,Downtown
+1/2/2025 23:35,4,Maadi Corniche,78,57.99,45.01,Maadi
+1/2/2025 23:35,5,Teseen Axis - New Cairo,192,38.94,65.06,Fifth Settlement
+1/2/2025 23:40,1,Salah Salem,206,60.83,37.17,Nasr City
+1/2/2025 23:40,2,Al Haram,131,47.46,47.54,Giza
+1/2/2025 23:40,3,Nile Corniche,221,73.89,23.11,Downtown
+1/2/2025 23:40,4,Maadi Corniche,163,55.76,44.24,Maadi
+1/2/2025 23:40,5,Teseen Axis - New Cairo,222,54.78,49.22,Fifth Settlement
+1/2/2025 23:45,1,Salah Salem,69,69.18,33.82,Nasr City
+1/2/2025 23:45,2,Al Haram,106,32.69,65.31,Giza
+1/2/2025 23:45,3,Nile Corniche,168,59.77,38.23,Downtown
+1/2/2025 23:45,4,Maadi Corniche,86,25.04,70.96,Maadi
+1/2/2025 23:45,5,Teseen Axis - New Cairo,182,28.14,74.86,Fifth Settlement
+1/2/2025 23:50,1,Salah Salem,81,64.06,32.94,Nasr City
+1/2/2025 23:50,2,Al Haram,79,32.79,64.21,Giza
+1/2/2025 23:50,3,Nile Corniche,234,35.64,67.36,Downtown
+1/2/2025 23:50,4,Maadi Corniche,203,43.97,53.03,Maadi
+1/2/2025 23:50,5,Teseen Axis - New Cairo,223,50.87,46.13,Fifth Settlement
+1/2/2025 23:55,1,Salah Salem,190,74.37,22.63,Nasr City
+1/2/2025 23:55,2,Al Haram,104,23.26,72.74,Giza
+1/2/2025 23:55,3,Nile Corniche,238,28.62,67.38,Downtown
+1/2/2025 23:55,4,Maadi Corniche,145,49.8,49.2,Maadi
+1/2/2025 23:55,5,Teseen Axis - New Cairo,107,23.79,80.21,Fifth Settlement
+1/3/2025 0:00,1,Salah Salem,105,30.44,72.56,Nasr City
+1/3/2025 0:00,2,Al Haram,211,58.24,42.76,Giza
+1/3/2025 0:00,3,Nile Corniche,247,54.93,42.07,Downtown
+1/3/2025 0:00,4,Maadi Corniche,190,22.06,80.94,Maadi
+1/3/2025 0:00,5,Teseen Axis - New Cairo,175,71.54,28.46,Fifth Settlement
+1/3/2025 0:05,1,Salah Salem,92,43.42,51.58,Nasr City
+1/3/2025 0:05,2,Al Haram,91,68.82,29.18,Giza
+1/3/2025 0:05,3,Nile Corniche,243,34.93,61.07,Downtown
+1/3/2025 0:05,4,Maadi Corniche,195,28.66,73.34,Maadi
+1/3/2025 0:05,5,Teseen Axis - New Cairo,229,21,79,Fifth Settlement
+1/3/2025 0:10,1,Salah Salem,230,34.19,61.81,Nasr City
+1/3/2025 0:10,2,Al Haram,174,39.2,62.8,Giza
+1/3/2025 0:10,3,Nile Corniche,147,29.75,73.25,Downtown
+1/3/2025 0:10,4,Maadi Corniche,164,71.09,31.91,Maadi
+1/3/2025 0:10,5,Teseen Axis - New Cairo,68,44.41,57.59,Fifth Settlement
+1/3/2025 0:15,1,Salah Salem,204,21.2,82.8,Nasr City
+1/3/2025 0:15,2,Al Haram,76,47.32,48.68,Giza
+1/3/2025 0:15,3,Nile Corniche,219,65.03,37.97,Downtown
+1/3/2025 0:15,4,Maadi Corniche,82,46.56,50.44,Maadi
+1/3/2025 0:15,5,Teseen Axis - New Cairo,146,33.98,67.02,Fifth Settlement
+1/3/2025 0:20,1,Salah Salem,184,55.31,46.69,Nasr City
+1/3/2025 0:20,2,Al Haram,182,46.41,52.59,Giza
+1/3/2025 0:20,3,Nile Corniche,246,54.69,44.31,Downtown
+1/3/2025 0:20,4,Maadi Corniche,71,64.34,30.66,Maadi
+1/3/2025 0:20,5,Teseen Axis - New Cairo,156,46.89,49.11,Fifth Settlement
+1/3/2025 0:25,1,Salah Salem,166,57.61,43.39,Nasr City
+1/3/2025 0:25,2,Al Haram,210,48.81,46.19,Giza
+1/3/2025 0:25,3,Nile Corniche,215,37.46,62.54,Downtown
+1/3/2025 0:25,4,Maadi Corniche,95,74.27,29.73,Maadi
+1/3/2025 0:25,5,Teseen Axis - New Cairo,195,55.17,46.83,Fifth Settlement
+1/3/2025 0:30,1,Salah Salem,123,24.9,79.1,Nasr City
+1/3/2025 0:30,2,Al Haram,119,69.9,30.1,Giza
+1/3/2025 0:30,3,Nile Corniche,55,49.21,47.79,Downtown
+1/3/2025 0:30,4,Maadi Corniche,191,52.58,48.42,Maadi
+1/3/2025 0:30,5,Teseen Axis - New Cairo,225,42.55,53.45,Fifth Settlement
+1/3/2025 0:35,1,Salah Salem,138,57.38,45.62,Nasr City
+1/3/2025 0:35,2,Al Haram,187,66.68,36.32,Giza
+1/3/2025 0:35,3,Nile Corniche,128,48.1,54.9,Downtown
+1/3/2025 0:35,4,Maadi Corniche,62,76.01,27.99,Maadi
+1/3/2025 0:35,5,Teseen Axis - New Cairo,83,27.51,69.49,Fifth Settlement
+1/3/2025 0:40,1,Salah Salem,169,71.31,29.69,Nasr City
+1/3/2025 0:40,2,Al Haram,225,57.87,39.13,Giza
+1/3/2025 0:40,3,Nile Corniche,116,45.79,57.21,Downtown
+1/3/2025 0:40,4,Maadi Corniche,165,77.73,19.27,Maadi
+1/3/2025 0:40,5,Teseen Axis - New Cairo,188,37.37,60.63,Fifth Settlement
+1/3/2025 0:45,1,Salah Salem,246,78.37,17.63,Nasr City
+1/3/2025 0:45,2,Al Haram,61,24.72,71.28,Giza
+1/3/2025 0:45,3,Nile Corniche,86,34.9,67.1,Downtown
+1/3/2025 0:45,4,Maadi Corniche,148,52,49,Maadi
+1/3/2025 0:45,5,Teseen Axis - New Cairo,107,32.72,64.28,Fifth Settlement
+1/3/2025 0:50,1,Salah Salem,192,44.67,59.33,Nasr City
+1/3/2025 0:50,2,Al Haram,92,41.97,53.03,Giza
+1/3/2025 0:50,3,Nile Corniche,241,62.14,34.86,Downtown
+1/3/2025 0:50,4,Maadi Corniche,51,36.13,59.87,Maadi
+1/3/2025 0:50,5,Teseen Axis - New Cairo,215,71.49,30.51,Fifth Settlement
+1/3/2025 0:55,1,Salah Salem,75,78.82,25.18,Nasr City
+1/3/2025 0:55,2,Al Haram,127,64.52,30.48,Giza
+1/3/2025 0:55,3,Nile Corniche,230,57.35,46.65,Downtown
+1/3/2025 0:55,4,Maadi Corniche,195,42.12,58.88,Maadi
+1/3/2025 0:55,5,Teseen Axis - New Cairo,198,68.66,30.34,Fifth Settlement
+1/3/2025 1:00,1,Salah Salem,76,76.83,23.17,Nasr City
+1/3/2025 1:00,2,Al Haram,93,49.03,45.97,Giza
+1/3/2025 1:00,3,Nile Corniche,176,61.35,42.65,Downtown
+1/3/2025 1:00,4,Maadi Corniche,180,69.53,26.47,Maadi
+1/3/2025 1:00,5,Teseen Axis - New Cairo,95,68.31,30.69,Fifth Settlement
+1/3/2025 1:05,1,Salah Salem,186,76.45,22.55,Nasr City
+1/3/2025 1:05,2,Al Haram,148,54.05,41.95,Giza
+1/3/2025 1:05,3,Nile Corniche,208,54.55,44.45,Downtown
+1/3/2025 1:05,4,Maadi Corniche,164,77.62,23.38,Maadi
+1/3/2025 1:05,5,Teseen Axis - New Cairo,170,20.84,82.16,Fifth Settlement
+1/3/2025 1:10,1,Salah Salem,76,75.94,25.06,Nasr City
+1/3/2025 1:10,2,Al Haram,150,69.36,29.64,Giza
+1/3/2025 1:10,3,Nile Corniche,229,52.52,45.48,Downtown
+1/3/2025 1:10,4,Maadi Corniche,110,24.33,71.67,Maadi
+1/3/2025 1:10,5,Teseen Axis - New Cairo,74,50.19,53.81,Fifth Settlement
+1/3/2025 1:15,1,Salah Salem,247,39.41,57.59,Nasr City
+1/3/2025 1:15,2,Al Haram,50,30.34,66.66,Giza
+1/3/2025 1:15,3,Nile Corniche,189,56.47,46.53,Downtown
+1/3/2025 1:15,4,Maadi Corniche,164,58.58,40.42,Maadi
+1/3/2025 1:15,5,Teseen Axis - New Cairo,71,35.97,67.03,Fifth Settlement
+1/3/2025 1:20,1,Salah Salem,224,27.17,71.83,Nasr City
+1/3/2025 1:20,2,Al Haram,208,32.39,69.61,Giza
+1/3/2025 1:20,3,Nile Corniche,210,27.95,68.05,Downtown
+1/3/2025 1:20,4,Maadi Corniche,65,25.37,78.63,Maadi
+1/3/2025 1:20,5,Teseen Axis - New Cairo,88,77.79,24.21,Fifth Settlement
+1/3/2025 1:25,1,Salah Salem,161,72.49,30.51,Nasr City
+1/3/2025 1:25,2,Al Haram,177,56.97,39.03,Giza
+1/3/2025 1:25,3,Nile Corniche,64,34.02,64.98,Downtown
+1/3/2025 1:25,4,Maadi Corniche,218,65.79,30.21,Maadi
+1/3/2025 1:25,5,Teseen Axis - New Cairo,98,43.11,54.89,Fifth Settlement
+1/3/2025 1:30,1,Salah Salem,139,22.67,78.33,Nasr City
+1/3/2025 1:30,2,Al Haram,65,47.08,56.92,Giza
+1/3/2025 1:30,3,Nile Corniche,78,65.53,29.47,Downtown
+1/3/2025 1:30,4,Maadi Corniche,82,68.88,26.12,Maadi
+1/3/2025 1:30,5,Teseen Axis - New Cairo,72,50.81,44.19,Fifth Settlement
+1/3/2025 1:35,1,Salah Salem,235,52.14,45.86,Nasr City
+1/3/2025 1:35,2,Al Haram,207,70.89,30.11,Giza
+1/3/2025 1:35,3,Nile Corniche,233,48.31,52.69,Downtown
+1/3/2025 1:35,4,Maadi Corniche,239,70.81,30.19,Maadi
+1/3/2025 1:35,5,Teseen Axis - New Cairo,67,55.27,44.73,Fifth Settlement
