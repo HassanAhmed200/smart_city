@@ -2,6 +2,21 @@ import streamlit as st
 import pandas as pd
 
 st.title("📊 Smart City Dashboard - Cairo")
+
+# ================================
+# Team Members Section
+# ================================
+st.subheader("👨‍💻 Project Team Members")
+
+st.write("""
+**By:**
+- Eng / Youssef Ehab Taha El-Morsi  
+-Eng / Ahmed Maged Salah Elsayed  
+-Eng / Mohamed Saber Salah Abd Elwhab  
+-Eng / Hassan Ahmed Ismail Ibrahim  
+-Eng / Ahmed Maged Ahmed Abdelrahman  
+""")
+
 st.write("مرحباً! هذا تطبيق Streamlit لعرض بيانات المدينة الذكية في القاهرة.")
 
 # Load datasets
